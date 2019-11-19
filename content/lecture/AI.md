@@ -30,19 +30,22 @@ tags: []
 
 | 顺序 | 内容标题                        | 阅读书上章节           | 幻灯片               |
 | ---- | :------------------------------ | ---------------------- | -------------------- |
-| 1    | 人工智能简介；课程内容介绍      | 第1章，和26.3,27.4     | [PDF](lecture01.pdf) |
-| 2    | 智能行为体和环境                | 第2章                  | [PDF](lecture02.pdf) |
-| 3    | 基础搜索算法；A星搜索和启发式法 | 第3章的1-4节，5-6节    | [PDF](lecture03.pdf) |
-| 4    | 局部搜索和不确定搜索            | 第4章                  | [PDF](lecture04.pdf) |
-| 5    | 博弈问题                        | 第5章1-5节             | [PDF](lecture05.pdf) |
-| 6    | 约束满足问题                    | 第6章1，3-5节          | [PDF](lecture07.pdf) |
-| 7    | 命题逻辑：语法和推理            | 第7章第1-5、6.1和第7节 | [PDF](lecture08.pdf) |
-| 8    | 概率（贝叶斯）推理              | 第13章第1-5节          |                      |
-| 9    | 贝叶斯网络：语法和语义          | 第14章第1-4节          | [PDF](lecture10.pdf) |
-| 10   | 贝叶斯网络：精确推断            | 第14章第1-4节          |                      |
-| 11   | 贝叶斯网络：近似推理（采样）    |                        |                      |
-| 12   | 决策网络与信息价值              | 第16章                 |                      |
-| 13   | 马科夫模型，粒子滤波            | 第15章第1-3节          |                      |
+| 1    | 人工智能简介；课程内容介绍      | 第1章，和26.3,27.4     | [ppt](slides/lecture1.pptx) |
+| 2    | 智能行为体和环境                | 第2章                  | [ppt](slides/lecture2.pptx) |
+| 3    | 基础搜索算法；A星搜索和启发式法 | 第3章的1-4节，5-6节    | [ppt](slides/lecture3.pptx) |
+| 4    | 局部搜索和不确定搜索            | 第4章                  | [ppt](slides/lecture4.pptx) |
+| 5    | 博弈问题                        | 第5章1-5节             | [ppt](slides/lecture5.pptx) |
+| 6    | 约束满足问题                    | 第6章1，3-5节          | [ppt](slides/lecture6.pptx) |
+| 7    | 命题逻辑：语法和推理            | 第7章第1-5、6.1和第7节 | [ppt](slides/lecture7.pptx) |
+| 8 | 马可夫决策过程 (MDP) |  | [ppt-part1](slides/lecture8-mdps-part1.pptx), [ppt-part2](slides/lecture8-mdps-part2.pptx) |
+| 9 | 强化学习 (Reinforcement learning) |  | [ppt-part1](slides/lecture9-reinforcement-learning-i.pptx), [ppt-part2](slides/lecture9-reinforcement-learning-ii.pptx) |
+| 10  | 概率（贝叶斯）推理              | 第13章第1-5节          | [ppt](slides/lecture10-probability.pptx) |
+| 11  | 贝叶斯网络：语法和语义          | 第14章第1-4节          | [ppt](slides/lecture11-BN representation.pptx) |
+| 12 | 贝叶斯网络：D分离 |  | [ppt](slides/lecture12 - BNs Independence.pptx) |
+| 13 | 贝叶斯网络：精确推断            | 第14章第1-4节          | [ppt](slides/lecture13 - BN Inference.pptx) |
+| 14 | 贝叶斯网络：近似推理（采样）    |                        | [ppt](slides/lecture14 - BN sampling.pptx) |
+| 15 | 决策网络与信息价值              | 第16章                 | [ppt](slides/lecture15-decision-diagrams-and-vpis.pptx) |
+| 16 | 马科夫模型，粒子滤波            | 第15章第1-3节          | [ppt](slides/lecture16-hmm.pptx) , [ppt2](slides/lecture17-hmm-filtering.pptx) |
 
 
 
