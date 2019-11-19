@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Qi&#39;s website</title>
+    <link>/</link>
+    <description>Recent content on Qi Qi&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2019 10:00:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Tue, 19 Nov 2019 10:00:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>我的研究领域是机器学习算法。我在美国密苏里大学获得计算机科学博士学位，现任教于海南大学计算机科学系。 如果你想在相关领域寻找感兴趣的课题，欢迎与我联系。我的邮箱是 qqi@hainanu.edu.cn。
+我的研究(Research)网页</description>
+    </item>
+    
+    <item>
+      <title>AI lecture</title>
+      <link>/lecture/ai/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/</guid>
+      <description>人工智能 （2019秋季） 更新通知 2019/11/18  作业1，2，3，4，已经贴出。
+ 作业  作业1 作业2 作业3 作业4  课程信息 课本参考：  Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009.  以往课程网页  2017 秋季学期 2016 秋季学期  数学参考  Wolfram mathworld Math Warehouse  机器学习参考  Machine learning group COLT (Computational Learning Theory) group NIPS workshops on optimization for machine learning NIPS papers Kaggle competitions Kaggle datasets Challenges in machine learning Competitions at Codalab Cybersecurity data mining competition 2017 kdnuggets machine learning community - google+ deep learning community - google+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>研究方向  机器学习理论、算法和应用。
+ 计算机安全（数据分析）。
+ 智能家居应用。
+  主持的基金项目  『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015
+ 『面向大数据智能分析处理的高性能网络应用服务系统关键技术的研究』，海南省自然科学基金，2015
+ 『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014
+  发表的论文 （Publication）  Exploration of Heuristic-Based Feature Selection on Classification Problems. Qi Q., Li N., Li W.. PAAP 2017 proceeding, Communications in Computer and Information Science, vol 729: 95-107, Springer.
+ “Reconstruction of metabolic pathways by combining probabilistic graphical model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.</description>
+    </item>
+    
+    <item>
+      <title>优秀毕业设计-2018</title>
+      <link>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
+      <pubDate>Sat, 26 May 2018 08:33:49 +0800</pubDate>
+      
+      <guid>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
+      <description>在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：
+张孟杰，题目是“液化气体库存路径问题分析” 商乔，“基于自然语言处理技术的动漫手机助手” 李俊颉，“计算机视觉中人脸识别算法研究”
+如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 qqi@hainanu.edu.cn )。让我们一起讨论可能的合作机会与前景。</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>/2016/12/30/a-plain-markdown-post/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>/2016/12/30/a-plain-markdown-post/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>/2015/01/01/lorem-ipsum/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/2015/01/01/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

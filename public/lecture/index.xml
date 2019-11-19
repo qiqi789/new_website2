@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lectures on Qi Qi&#39;s website</title>
+    <link>/lecture/</link>
+    <description>Recent content in Lectures on Qi Qi&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/lecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI lecture</title>
+      <link>/lecture/ai/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/</guid>
+      <description>人工智能 （2019秋季） 更新通知 2019/11/18  作业1，2，3，4，已经贴出。
+ 作业  作业1 作业2 作业3 作业4  课程信息 课本参考：  Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009.  以往课程网页  2017 秋季学期 2016 秋季学期  数学参考  Wolfram mathworld Math Warehouse  机器学习参考  Machine learning group COLT (Computational Learning Theory) group NIPS workshops on optimization for machine learning NIPS papers Kaggle competitions Kaggle datasets Challenges in machine learning Competitions at Codalab Cybersecurity data mining competition 2017 kdnuggets machine learning community - google+ deep learning community - google+</description>
+    </item>
+    
+  </channel>
+</rss>
