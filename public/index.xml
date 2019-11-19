@@ -18,7 +18,8 @@
       
       <guid>/about/</guid>
       <description>我的研究领域是机器学习算法。我在美国密苏里大学获得计算机科学博士学位，现任教于海南大学计算机科学系。 如果你想在相关领域寻找感兴趣的课题，欢迎与我联系。我的邮箱是 qqi@hainanu.edu.cn。
-我的研究(Research)网页</description>
+我的研究(Research)网页
+更多信息可以访问这个网页</description>
     </item>
     
     <item>
@@ -28,7 +29,8 @@
       
       <guid>/lecture/ai/</guid>
       <description>人工智能 （2019秋季） 更新通知 2019/11/18  作业1，2，3，4，已经贴出。
- 作业  作业1 作业2 作业3 作业4  课程信息 课本参考：  Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009.  以往课程网页  2017 秋季学期 2016 秋季学期  数学参考  Wolfram mathworld Math Warehouse  机器学习参考  Machine learning group COLT (Computational Learning Theory) group NIPS workshops on optimization for machine learning NIPS papers Kaggle competitions Kaggle datasets Challenges in machine learning Competitions at Codalab Cybersecurity data mining competition 2017 kdnuggets machine learning community - google+ deep learning community - google+</description>
+ 作业  作业1 作业2 作业3 作业4  内容安排 随课程进展，以下内容安排可能会有变化。
+   周期 日期 内容 阅读 幻灯片 作业 注释     1 9&amp;frasl;7 人工智能简介；课程内容介绍 第1章，和26.3,27.4 PDF     1 9&amp;frasl;8 智能行为体和环境 第2章 PDF     2 9&amp;frasl;14 基础搜索法；A星搜索和启发式法 第3章的1-4节，5-6节 PDF     2 9&amp;frasl;15 局部搜索和不确定搜索 第4章 PDF     3 9&amp;frasl;21 博弈问题 第5章1-5节 PDF     3 9&amp;frasl;22 博弈问题（继续） 第5章 PDF     4 9&amp;frasl;28 约束满足问题 第6章1，3-5节 PDF     6 10&amp;frasl;12 命题逻辑：语法和推理；基于逻辑的智能体 第7章第1-5、6.</description>
     </item>
     
     <item>
