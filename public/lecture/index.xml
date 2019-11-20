@@ -17,9 +17,8 @@
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/lecture/ai/</guid>
-      <description>人工智能 （2019秋季） 更新通知 2019/11/18  作业1，2，3，4，已经贴出。
- 作业  作业1 作业2 作业3 作业4  内容安排 随课程进展，以下内容安排可能会有变化。
-   周期 日期 内容 阅读 幻灯片 作业 注释     1 9&amp;frasl;7 人工智能简介；课程内容介绍 第1章，和26.3,27.4 PDF     1 9&amp;frasl;8 智能行为体和环境 第2章 PDF     2 9&amp;frasl;14 基础搜索法；A星搜索和启发式法 第3章的1-4节，5-6节 PDF     2 9&amp;frasl;15 局部搜索和不确定搜索 第4章 PDF     3 9&amp;frasl;21 博弈问题 第5章1-5节 PDF     3 9&amp;frasl;22 博弈问题（继续） 第5章 PDF     4 9&amp;frasl;28 约束满足问题 第6章1，3-5节 PDF     6 10&amp;frasl;12 命题逻辑：语法和推理；基于逻辑的智能体 第7章第1-5、6.</description>
+      <description>人工智能 （2019秋季） 更新通知 2019/11/18  作业1，2，3（作业1-3是往年的），4，已经贴出。
+ 作业  作业1 作业2 作业3 作业4  内容安排    顺序 内容标题 阅读书上章节 幻灯片     1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt   2 智能行为体和环境 第2章 ppt   3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt   4 局部搜索和不确定搜索 第4章 ppt   5 博弈问题 第5章1-5节 ppt   6 约束满足问题 第6章1，3-5节 ppt   7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt   8 马可夫决策过程 (MDP)  ppt-part1, ppt-part2   9 强化学习 (Reinforcement learning)  ppt-part1, ppt-part2   10 概率（贝叶斯）推理 第13章第1-5节 ppt   11 贝叶斯网络：语法和语义 第14章第1-4节 ppt   12 贝叶斯网络：D分离  ppt   13 贝叶斯网络：精确推断 第14章第1-4节 ppt   14 贝叶斯网络：近似推理（采样）  ppt   15 决策网络与信息价值 第16章 ppt   16 马科夫模型，粒子滤波 第15章第1-3节 ppt-part1 , ppt-part2    课程信息 课本参考：  Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J.</description>
     </item>
     
   </channel>
