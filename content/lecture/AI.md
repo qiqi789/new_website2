@@ -27,9 +27,9 @@ tags: []
 
 ### 作业
 
-* [作业1](hw/HW1.pdf)
-* [作业2](hw/HW2.pdf)
-* [作业3](hw/HW3.pdf)
+* [作业1](hw/HW1.pdf), [答案1](hw/HW1_solution_publish.pdf)
+* [作业2](hw/HW2.pdf), [答案2](hw/HW2_solution_publish.pdf)
+* [作业3](hw/HW3.pdf), [答案3](hw/HW3_solution_publish.pdf)
 * [作业4](hw/HW4.pdf)
 * [作业5](hw/HW5.pdf)
 * [作业6](hw/HW6.pdf)
