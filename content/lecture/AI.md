@@ -60,7 +60,7 @@ tags: []
 | 14   | 贝叶斯网络：近似推理（采样）      |                        | [ppt](slides/lecture14 - BN sampling.pptx)                   |
 | 15   | 决策网络与信息价值                | 第16章                 | [ppt](slides/lecture15-decision-diagrams-and-vpis.pptx)      |
 | 16   | 马科夫模型，粒子滤波              | 第15章第1-3节          | [ppt-part1](slides/lecture16-hmm.pptx) , [ppt-part2](slides/lecture17-hmm-filtering.pptx) |
-| 17   | 机器学习：朴素贝叶斯模型          | 第20章第1-2节          |                                                              |
+| 17   | 机器学习：朴素贝叶斯模型          | 第20章第1-2节          | [ppt](slides/lecture18 ML-naive bayes.pptx)                  |
 | 18   | 机器学习：感知机，逻辑斯特回归    | 第18章第6，8节         |                                                              |
 | 19     | 机器学习：优化方法，人工神经网络  | 第18章第6，8节         |                                                              |
 
