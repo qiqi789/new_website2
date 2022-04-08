@@ -1,0 +1,19 @@
+---
+title: '人工智能导论（2022 Spring）'
+author: Qi Qi
+date: '2022-04-08'
+slug: 2022-Spring
+categories:
+  - AI
+tags:
+  - AI
+  - lectures
+---
+
+### 内容提纲
+
+
+### 课本参考：
+
+-   Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+    and Peter Norvig. Prentice Hall, 2009.
