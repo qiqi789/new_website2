@@ -9,4 +9,4 @@ title:
 
 [我的研究(Research)网页](/research)
 
-[更多最新信息可以访问网页](https://qiqi789.github.io/)
+[更多最新信息可以访问网页 https://qiqi789.github.io/](https://qiqi789.github.io/)
