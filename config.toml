@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Qi Qi's Web portal"
+title = "齐琦 Qi Qi's Web portal"
 theme = "hugo-theme-cactus"
 googleAnalytics = ""
 disqusShortname = ""
@@ -12,6 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 4
 [[menu.main]]
     name = "Research"
     url = "/research/"
@@ -24,11 +25,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Links"
     url = "/venues/"
     weight = 2
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
 
 [params]
-    description = "![](/./about_files/Qi_photo2.JPG)  我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。"
+    description = " ![](/./about_files/photo_mit_3.png)  &nbsp;  我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。"
     
+    mainSection = "post"
     mainSectionTitle = "Writings"
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 5
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -40,7 +48,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "favicon.png"
+    
+    colortheme = "white" # dark, light, white, or classic
 
     [params.logo]
     url = "myweb.png"
