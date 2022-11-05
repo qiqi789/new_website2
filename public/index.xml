@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>齐琦 Qi Qi&#39;s Web portal</title>
+    <link>/</link>
+    <description>Recent content on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人工智能导论（2022 春季）</title>
+      <link>/lecture/ai/2022-spring/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/2022-spring/</guid>
+      <description>内容提纲序号内容提纲对应章节幻灯片、作业1人工智能简介，课程内容介绍第1章，第26.3、27.4节pdf2智能行为体和环境第2章pdf3基础搜索算法,A*搜索,和启发式法第3章的1-4节，5-6节pdf , part2_pdf ；作业14局部搜索和不确定搜索第4章pdf5博弈对抗搜索，博弈原理基础第5章1-5节pdf; 作业26约束满足问题，回溯搜索第6章1，3-5节pdf7命题逻辑：语法和推理第7章第1-5、第6.1和第7节pdf课本参考：
+Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland Peter Norvig. Prentice Hall, 2009.</description>
+    </item>
+    
+    <item>
+      <title>关于我的研究，About my research</title>
+      <link>/about/</link>
+      <pubDate>Tue, 19 Nov 2019 10:00:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。 如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。
+我的研究(Research)网页
+更多最新信息可以访问网页 https://qiqi789.github.io/</description>
+    </item>
+    
+    <item>
+      <title>AI lecture</title>
+      <link>/lecture/ai/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/</guid>
+      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。
+2019/12/2 作业6，已经贴出。
+2019/11/25 作业5，已经贴出。
+2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。
+作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/venues/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/venues/</guid>
+      <description>The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.People, Lab, OrganizationACMIEEEUSENIXConferencesDigital libraries &amp; Search platformsChinese Science Citation DBElsevierSpringerCourses, WorkshopsSoftware, IndustryResearch online toolsResearch softwareLibraryCompetitions ROADEF/EURO CHALLENGE 2020
+International Olympiad in Informatics</description>
+    </item>
+    
+    <item>
+      <title>优秀毕业设计-2018</title>
+      <link>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
+      <pubDate>Sat, 26 May 2018 08:33:49 +0800</pubDate>
+      
+      <guid>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
+      <description>在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：
+张孟杰，题目是“液化气体库存路径问题分析” \ 商乔，“基于自然语言处理技术的动漫手机助手” \ 李俊颉，“计算机视觉中人脸识别算法研究”
+如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 qqi@hainanu.edu.cn )。让我们一起讨论可能的合作机会与前景。</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Email:
+qqi@hainanu.edu.cn,
+or qiqi789 @ gmail.com
+My department address:
+Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 570228 China</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>研究方向 近似算法，组合优化决策，随机规划，鲁棒优化，及其工业应用。
+机器学习算法，数据科学。
+概率因果关系推理。
+发表论文 （Publications） “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
+&amp;ldquo;改进䲟鱼优化算法和熵测度的图像多阈值分割&amp;rdquo;, 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
+“混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
+Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. Web link
+Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014.</description>
+    </item>
+    
+  </channel>
+</rss>

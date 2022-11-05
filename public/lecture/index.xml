@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lectures on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>/lecture/</link>
+    <description>Recent content in Lectures on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/lecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人工智能导论（2022 春季）</title>
+      <link>/lecture/ai/2022-spring/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/2022-spring/</guid>
+      <description>内容提纲序号内容提纲对应章节幻灯片、作业1人工智能简介，课程内容介绍第1章，第26.3、27.4节pdf2智能行为体和环境第2章pdf3基础搜索算法,A*搜索,和启发式法第3章的1-4节，5-6节pdf , part2_pdf ；作业14局部搜索和不确定搜索第4章pdf5博弈对抗搜索，博弈原理基础第5章1-5节pdf; 作业26约束满足问题，回溯搜索第6章1，3-5节pdf7命题逻辑：语法和推理第7章第1-5、第6.1和第7节pdf课本参考：
+Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland Peter Norvig. Prentice Hall, 2009.</description>
+    </item>
+    
+    <item>
+      <title>AI lecture</title>
+      <link>/lecture/ai/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/</guid>
+      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。
+2019/12/2 作业6，已经贴出。
+2019/11/25 作业5，已经贴出。
+2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。
+作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
+    </item>
+    
+  </channel>
+</rss>
