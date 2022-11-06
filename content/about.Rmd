@@ -28,8 +28,5 @@ China
 
 
 
-  <div class="clustrmap_2" style="float: right; ">
-        
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=uEEw&d=VW_3s6UMNEB0hjShXsPzqtHsU0Dh8KQpZ2g_VEZI5nw"></script>
-        
-  </div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&cl=ffffff&w=a"></script>
+
