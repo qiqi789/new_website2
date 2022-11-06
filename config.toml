@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "齐琦 Qi Qi's Web portal"
 theme = "hugo-theme-cactus"
-googleAnalytics = "G-L4XYBFPXSH"
+googleAnalytics = "G-CQ1LVQ4JCK"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
