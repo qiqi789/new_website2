@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/graduate/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/grad-students/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/ai/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,13 +29,7 @@
     <loc>/lecture/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/lecture/ai/2022-spring/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
@@ -35,16 +41,9 @@
     <loc>/venues/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2018-05-26T08:33:49+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2018-05-26T08:33:49+08:00</lastmod>
-  </url><url>
-    <loc>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</loc>
-    <lastmod>2018-05-26T08:33:49+08:00</lastmod>
-  </url><url>
     <loc>/contact/</loc>
+  </url><url>
+    <loc>/tags/research/</loc>
   </url><url>
     <loc>/research/</loc>
   </url>

@@ -6,7 +6,16 @@
     <description>Recent content in Tags on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>graduate</title>
+      <link>/tags/graduate/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graduate/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AI</title>
       <link>/tags/ai/</link>
@@ -22,6 +31,15 @@
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     

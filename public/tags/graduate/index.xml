@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graduate on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>/tags/graduate/</link>
+    <description>Recent content in graduate on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/graduate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate students</title>
+      <link>/grad-students/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/grad-students/</guid>
+      <description>硕士研究生 梁哲敏，刘小龙 刘庆鑫 Alumni 林小惟（复旦大学中山医院，2022） 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
+    </item>
+    
+  </channel>
+</rss>

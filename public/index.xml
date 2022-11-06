@@ -6,7 +6,16 @@
     <description>Recent content on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate students</title>
+      <link>/grad-students/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/grad-students/</guid>
+      <description>硕士研究生 梁哲敏，刘小龙 刘庆鑫 Alumni 林小惟（复旦大学中山医院，2022） 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
+    </item>
+    
     <item>
       <title>人工智能导论（2022 春季）</title>
       <link>/lecture/ai/2022-spring/</link>
@@ -24,8 +33,9 @@ Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland P
       
       <guid>/about/</guid>
       <description>我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。 如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。
-我的研究(Research)网页
-更多最新信息可以访问网页 https://qiqi789.github.io/</description>
+过去的网页
+Contact Email: qqi @hainanu.edu.cn, or qiqi789 @ gmail.com
+My department address: Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 570228 China</description>
     </item>
     
     <item>
@@ -49,17 +59,6 @@ Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland P
       <guid>/venues/</guid>
       <description>The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.People, Lab, OrganizationACMIEEEUSENIXConferencesDigital libraries &amp; Search platformsChinese Science Citation DBElsevierSpringerCourses, WorkshopsSoftware, IndustryResearch online toolsResearch softwareLibraryCompetitions ROADEF/EURO CHALLENGE 2020
 International Olympiad in Informatics</description>
-    </item>
-    
-    <item>
-      <title>优秀毕业设计-2018</title>
-      <link>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
-      <pubDate>Sat, 26 May 2018 08:33:49 +0800</pubDate>
-      
-      <guid>/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
-      <description>在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：
-张孟杰，题目是“液化气体库存路径问题分析” \ 商乔，“基于自然语言处理技术的动漫手机助手” \ 李俊颉，“计算机视觉中人脸识别算法研究”
-如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 qqi@hainanu.edu.cn )。让我们一起讨论可能的合作机会与前景。</description>
     </item>
     
     <item>
