@@ -7,7 +7,7 @@ tags: ["research"]
 ---
 
 
-### 研究方向
+## 研究方向
 
 -  近似算法，组合优化决策，随机规划，鲁棒优化，及其工业应用。
 
@@ -16,7 +16,7 @@ tags: ["research"]
 - 概率因果关系推理。
 
 
-### 发表论文 （Publications）
+## 发表论文 （Publications）
 
 * “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
 
@@ -85,7 +85,7 @@ tags: ["research"]
     Networking Conference (CCNC’08), 2008, pp. 702-706.
     [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459)
 
-#### 博士论文 （Dissertation）
+### 博士论文 （Dissertation）
 
 -   “Statistical model-based methods for observation selection in wireless
     sensor networks and for feature selection in classification.”, Qi Qi,
@@ -94,7 +94,7 @@ tags: ["research"]
     MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
 
-### 主持的基金项目
+## 主持的基金项目
 
 - 『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021-2023
 
@@ -107,7 +107,7 @@ tags: ["research"]
 -  『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014-2015
 
 
-### 软件著作权
+## 软件著作权
 
 -   在线数据挖掘服务平台软件 V1.0，登记号 2016SR372230, 2016.12。
 
