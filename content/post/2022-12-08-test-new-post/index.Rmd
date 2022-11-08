@@ -1,11 +1,11 @@
 ---
 title: 人工智能算法在可解释性和公平可信发展趋势的初步调研
 author: Qi QI
-publishdate: '2022-12-08'
+publishdate: '2022-11-08'
 slug: test-new-post
-draft: true
+draft: false
 categories: []
-tags: []
+tags: [AI可解释]
 bibliography: 
   - reference2.bib
 csl: 
