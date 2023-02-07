@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on 齐琦 Qi Qi&#39;s Web portal</description>
+    <title>AI可解释 on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</link>
+    <description>Recent content in AI可解释 on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人工智能算法在可解释性和公平可信发展趋势的初步调研</title>
       <link>/2022/11/08/test-new-post/</link>

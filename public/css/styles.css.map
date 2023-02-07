@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/willi/Documents/GitHub/new_website2",
+	"sourceRoot": "D:/GitHub/new_website2",
 	"sources": [
 		"assets/scss/style.scss",
 		"assets/scss/_variables.scss",
