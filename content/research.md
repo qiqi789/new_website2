@@ -9,11 +9,11 @@ tags: ["research"]
 
 ## 研究方向
 
--  近似算法，组合优化。
+- 近似算法，组合优化。
 
--  鲁棒优化，随机规划，调度运筹。
+- 鲁棒优化，随机规划，调度运筹。
 
-* 机器学习，数据科学，概率因果关系推理。
+- 机器学习，数据科学，概率因果关系推理。
 
 
 
@@ -23,7 +23,7 @@ tags: ["research"]
 
 * Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding. Qingxin Liu, Qi Qi and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), 已录用.
 
-- SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022. 已录用.
+* SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022. 已录用.
 
 * “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
@@ -35,12 +35,9 @@ tags: ["research"]
 
 * Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)（ESI高被引，Editor's choice)
 
-
 * X. -W. Lin, N. Li and Q. Qi, "Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms," 2021 IEEE 7th Int Conf on Data Science & Systems (DSS), 2021, pp. 1259-1264, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192).
 
-
 * Q. Liu, Q. Qi, H. Jia and N. Li, "An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems," 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (DependSys), 2021, pp. 1996-2003, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298).
-
 
 * "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期。 [Web link](https://www.arocmag.com/article/01-2022-02-023.html)
 
