@@ -9,28 +9,31 @@ tags: ["research"]
 
 ## 研究方向
 
--  近似算法，组合优化决策，随机规划，鲁棒优化，及其工业应用。
+-  近似算法，组合优化。
 
--  机器学习算法，数据科学。
+-  鲁棒优化，随机规划，调度运筹。
 
-- 概率因果关系推理。
+* 机器学习，数据科学，概率因果关系推理。
+
 
 
 ## 发表论文 （Publications）
+
+* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review, 2023, accepted.
 
 * Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding. Qingxin Liu, Qi Qi and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), 已录用.
 
 - SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022. 已录用.
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
 * "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
 
 * “混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
 
-* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567)
+* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
 
-* Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)
+* Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)（ESI高被引，Editor's choice)
 
 
 * X. -W. Lin, N. Li and Q. Qi, "Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms," 2021 IEEE 7th Int Conf on Data Science & Systems (DSS), 2021, pp. 1259-1264, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192).
@@ -99,6 +102,8 @@ tags: ["research"]
 
 
 ## 主持的基金项目
+
+* “面向复杂环境光伏阵列最大功率点跟踪的群智能算法研究”，海南省高等学校科学研究项目，海南省教育厅，2023-2025
 
 - 『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021-2023
 
