@@ -6,7 +6,17 @@
     <description>Recent content on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人工智能导论（2023 春季）</title>
+      <link>/lecture/ai/2023-spring/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/lecture/ai/2023-spring/</guid>
+      <description>人工智能 2023春季学期 作业 作业1 内容提纲 序号 内容提纲 对应章节 幻灯片、作业 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf ；作业1 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf; 作业2 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 课本参考：
+Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009. </description>
+    </item>
+    
     <item>
       <title>人工智能算法在可解释性和公平可信发展趋势的初步调研</title>
       <link>/2022/11/08/test-new-post/</link>
@@ -30,7 +40,9 @@
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/grad-students/</guid>
-      <description>硕士研究生 梁哲敏，刘小龙 刘庆鑫 Alumni 林小惟（复旦大学中山医院，2022） 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
+      <description>硕士研究生 夏鹏，李金清，韩义博
+梁哲敏，刘小龙，刘庆鑫
+Alumni 戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill) 林小惟（复旦大学中山医院，2022），林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
     </item>
     
     <item>
@@ -57,10 +69,10 @@ My department address: Computer Science department Hainan University Renmin aven
     
     <item>
       <title>AI lecture</title>
-      <link>/lecture/ai/</link>
+      <link>/lecture/ai/2019-fall/ai/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/lecture/ai/</guid>
+      <guid>/lecture/ai/2019-fall/ai/</guid>
       <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。
 2019/12/2 作业6，已经贴出。
 2019/11/25 作业5，已经贴出。
@@ -97,14 +109,12 @@ Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>研究方向近似算法，组合优化决策，随机规划，鲁棒优化，及其工业应用。
-机器学习算法，数据科学。
-概率因果关系推理。
-发表论文 （Publications）SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022. 已录用.
-“多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
-“改进䲟鱼优化算法和熵测度的图像多阈值分割”, 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
-“混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
-Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems.</description>
+      <description>研究方向 近似算法，组合优化。
+鲁棒优化，随机规划，调度运筹。
+机器学习，数据科学，概率因果关系推理。
+发表论文 （Publications） A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review, 2023, accepted.
+Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding. Qingxin Liu, Qi Qi and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), 已录用.
+SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc.</description>
     </item>
     
   </channel>

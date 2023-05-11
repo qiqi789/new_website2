@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ai/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lectures/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/lecture/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/lecture/ai/2023-spring/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2022/11/08/test-new-post/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/graduate/</loc>
@@ -23,28 +41,13 @@
     <loc>/grad-students/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ai/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/lectures/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/lecture/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/lecture/ai/2022-spring/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
     <lastmod>2019-11-19T10:00:51-07:00</lastmod>
   </url><url>
-    <loc>/lecture/ai/</loc>
+    <loc>/lecture/ai/2019-fall/ai/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/venues/</loc>

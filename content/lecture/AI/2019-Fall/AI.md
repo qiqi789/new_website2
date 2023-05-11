@@ -1,5 +1,5 @@
 ---
-title: AI lecture
+title: 人工智能导论 2019 Fall
 author: Qi Qi
 date: '2019-11-19'
 slug: 
