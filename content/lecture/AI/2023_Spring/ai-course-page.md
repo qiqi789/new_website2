@@ -2,7 +2,7 @@
 title: '人工智能导论（2023 春季）'
 author: Qi Qi
 date: '2023-05-09'
-slug: 2023-Spring
+slug: /
 categories:
   - AI
 tags:
@@ -17,8 +17,9 @@ tags:
 * [作业1](hw/hw1.pdf)
 * [作业2](hw/hw2.pdf)
 * [作业3](hw/hw3.pdf)
-* 作业4
+* [作业4](hw/hw4.pdf)
 * 作业5
+
 
 ## 内容提纲
 

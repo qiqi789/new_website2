@@ -13,8 +13,7 @@
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/lecture/ai/2023-spring/</guid>
-      <description>人工智能 2023春季学期 作业 作业1 内容提纲 序号 内容提纲 对应章节 幻灯片、作业 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf ；作业1 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf; 作业2 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 课本参考：
-Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009. </description>
+      <description>人工智能 2023春季学期 作业 作业1 作业2 作业3 作业4 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 pdf 9 增强学习算法 第21章 pdf 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 pdf 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 pdf 14 机器学习：朴素贝叶斯 pdf 15 机器学习：感知机，逻辑斯特回归 pdf 16 机器学习：优化方法，神经网络模型 pdf 课本参考：</description>
     </item>
     
     <item>
@@ -68,7 +67,17 @@ My department address: Computer Science department Hainan University Renmin aven
     </item>
     
     <item>
-      <title>AI lecture</title>
+      <title>Links</title>
+      <link>/venues/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/venues/</guid>
+      <description>The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.People, Lab, OrganizationACMIEEEUSENIXConferencesDigital libraries &amp; Search platformsChinese Science Citation DBElsevierSpringerCourses, WorkshopsSoftware, IndustryResearch online toolsResearch softwareLibraryCompetitions ROADEF/EURO CHALLENGE 2020
+International Olympiad in Informatics</description>
+    </item>
+    
+    <item>
+      <title>人工智能导论 2019 Fall</title>
       <link>/lecture/ai/2019-fall/ai/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -78,16 +87,6 @@ My department address: Computer Science department Hainan University Renmin aven
 2019/11/25 作业5，已经贴出。
 2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。
 作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>/venues/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/venues/</guid>
-      <description>The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.People, Lab, OrganizationACMIEEEUSENIXConferencesDigital libraries &amp; Search platformsChinese Science Citation DBElsevierSpringerCourses, WorkshopsSoftware, IndustryResearch online toolsResearch softwareLibraryCompetitions ROADEF/EURO CHALLENGE 2020
-International Olympiad in Informatics</description>
     </item>
     
     <item>
