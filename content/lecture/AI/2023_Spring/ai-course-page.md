@@ -35,12 +35,12 @@ tags:
 |8 | 马尔科夫决策过程 |     第17章    |  [part1](../slides/lecture8-mdps-part1.pdf) , [part2](../slides/lecture8-mdps-part2.pdf)|
 |9 | 增强学习算法   |  第21章    |  [part1](../slides/lecture-9-reinforcement-learning-i.pdf) , [part2](../slides/lecture-9-reinforcement-learning-ii.pdf)  |
 |10 | 概率和贝叶斯推理 |  第13章    |  [pdf](../slides/lecture10-probability.pdf)  |
-| 11| 贝叶斯网络 |   第14章    |  [part1](../slides/lecture11-BN representation.pdf) , [part2](../slides/lecture12 - BNs Independence.pdf), [part3](../slides/lecture13 - BN Inference.pdf) , [part4](../slides/lecture14 - BN sampling.pdf)  |
+| 11| 贝叶斯网络 |   第14章    |  [part1](../slides/lecture11-BN-representation.pdf) , [part2](../slides/lecture12-BNs-Independence.pdf), [part3](../slides/lecture13-BN-Inference.pdf) , [part4](../slides/lecture14-BN-sampling.pdf)  |
 | 12| 决策网络和信息价值 |   第16章5-6节    |  [pdf](../slides/lecture15-decision-diagrams-and-vpis.pdf)  |
-| 13| 隐式马尔科夫模型，粒子滤波 |   第15章    |  [part1](../slides/lecture16-hmm.pdf) , [part2](../slides/lecture17-hmm-filtering.pdf),  |
-| 14| 机器学习：朴素贝叶斯 |       |  [pdf](../slides/lecture18-ML Naive Bayes.pdf)  |
-| 15| 机器学习：感知机，逻辑斯特回归 |       |  [pdf](../slides/lecture19-ML Perceptrons and Logistic Regression.pdf)  |
-| 16| 机器学习：优化方法，神经网络模型 |       |  [pdf](../slides/lecture20-ML Optimization and Neural Networks.pdf)  |
+| 13| 隐式马尔科夫模型，粒子滤波 |   第15章    |  [part1](../slides/lecture16-hmm.pdf) , [part2](../slides/lecture17-hmm-filtering.pdf)  |
+| 14| 机器学习：朴素贝叶斯 |       |  [pdf](../slides/lecture18-ML-Naive-Bayes.pdf)  |
+| 15| 机器学习：感知机，逻辑斯特回归 |       |  [pdf](../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf)  |
+| 16| 机器学习：优化方法，神经网络模型 |       |  [pdf](../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf)  |
 
 
 * 课本参考：
