@@ -18,7 +18,7 @@ tags:
 * [作业2](hw/hw2.pdf)
 * [作业3](hw/hw3.pdf)
 * [作业4](hw/hw4.pdf)
-* 作业5
+* [作业5](hw/hw5.pdf)
 
 
 ## 内容提纲
@@ -45,5 +45,13 @@ tags:
 
 * 课本参考：
 
-  -   Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+  - Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
     and Peter Norvig. Prentice Hall, 2009.
+
+* 参考资料：
+
+  - Vazirani, Vijay V. 2001. Approximation algorithms (Springer: Berlin ; New York).
+  - Shalev-Shwartz, Shai, and Shai Ben-David. 2014. Understanding machine learning : from theory to algorithms (Cambridge University Press: New York, NY, USA).
+  - Boyd, Stephen P., and Lieven Vandenberghe. 2004. Convex optimization (Cambridge University Press: Cambridge, UK ; New York).
+  - Ben-Tal, A., Laurent El Ghaoui, and A. S. Nemirovskiĭ. 2009. Robust optimization (Princeton University Press: Princeton).
+  
