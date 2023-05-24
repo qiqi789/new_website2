@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "齐琦 Qi Qi's Web portal"
-theme = "hugo-theme-cactus"                                                 
+theme = "hugo-theme-cactus"
 googleAnalytics = "G-CQ1LVQ4JCK"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -39,7 +39,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
     images = ['photo_mit_3.png']
     
-    mainSection = "about"
+    mainSection = "research"
     mainSectionTitle = "Writings"
     showAllPostsOnHomePage = true
     postsOnHomePage = 5
@@ -86,7 +86,7 @@ hasCJKLanguage = true
 
 [social]
     #github  = "https://github.com/rstudio/blogdown"
-    twitter = "https://twitter.com/qiziqi"
+  twitter = "https://twitter.com/qiziqi"
     
 [frontmatter]
   images = ['images']
