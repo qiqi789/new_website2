@@ -35,7 +35,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 4
 
 [params]
-    description = "![](images/photo_mit_3.png) <br>  我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn"
+    description = "![](images/photo_mit_3.png) <br>  我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。我在海南大学计算机科学与技术学院教授人工智能，从事相关领域科学研究工作。我之前在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。如果对算法，数据建模与预测，运筹优化等领域感兴趣，欢迎联系我，Email： qqi@hainanu.edu.cn"
+    
+    #images = ['photo_mit_3.png']
     
     mainSection = "post"
     mainSectionTitle = "Writings"
@@ -81,3 +83,8 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[social]
+    #github  = "https://github.com/rstudio/blogdown"
+    twitter = "https://twitter.com/qiziqi"
+    
