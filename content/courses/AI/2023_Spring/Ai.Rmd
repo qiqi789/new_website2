@@ -14,10 +14,10 @@ tags:
 
 ## 作业
 
-* [作业1](hw/hw1.pdf)
-* [作业2](hw/hw2.pdf)
-* [作业3](hw/hw3.pdf)
-* [作业4](hw/hw4.pdf)
+* [作业1](hw/hw1.pdf) . [参考答案](hw/sol1.pdf)
+* [作业2](hw/hw2.pdf) . [参考答案](hw/sol2.pdf)
+* [作业3](hw/hw3.pdf) . [参考答案](hw/sol3.pdf)
+* [作业4](hw/hw4.pdf) . [参考答案](hw/sol4.pdf)
 * [作业5](hw/hw5.pdf)
 
 
@@ -38,17 +38,19 @@ tags:
 | 11| 贝叶斯网络 |   第14章    |  [part1](../slides/lecture11-BN-representation.pdf) , [part2](../slides/lecture12-BNs-Independence.pdf), [part3](../slides/lecture13-BN-Inference.pdf) , [part4](../slides/lecture14-BN-sampling.pdf)  |
 | 12| 决策网络和信息价值 |   第16章5-6节    |  [pdf](../slides/lecture15-decision-diagrams-and-vpis.pdf)  |
 | 13| 隐式马尔科夫模型，粒子滤波 |   第15章    |  [part1](../slides/lecture16-hmm.pdf) , [part2](../slides/lecture17-hmm-filtering.pdf)  |
-| 14| 机器学习：朴素贝叶斯 |       |  [pdf](../slides/lecture18-ML-Naive-Bayes.pdf)  |
-| 15| 机器学习：感知机，逻辑斯特回归 |       |  [pdf](../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf)  |
-| 16| 机器学习：优化方法，神经网络模型 |       |  [pdf](../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf)  |
+| 14| 机器学习：朴素贝叶斯 | 第18.1,18.2,18.4章节      |  [pdf](../slides/lecture18-ML-Naive-Bayes.pdf)  |
+| 15| 机器学习：感知机，逻辑斯特回归 |  第18.6章节     |  [pdf](../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf)  |
+| 16| 机器学习：优化方法，神经网络模型 | 第18.6,18.7章节      |  [pdf](../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf)  |
 
 
-* 课本参考：
+## 推荐的教材和阅读
+
+* 课本：
 
   - Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
     and Peter Norvig. Prentice Hall, 2009.
 
-* 参考资料：
+* 阅读：
 
   - Vazirani, Vijay V. 2001. Approximation algorithms (Springer: Berlin ; New York).
   - Shalev-Shwartz, Shai, and Shai Ben-David. 2014. Understanding machine learning : from theory to algorithms (Cambridge University Press: New York, NY, USA).
