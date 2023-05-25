@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "齐琦 Qi Qi's Web portal"
+#theme = "hugo-theme-cactus"
 theme = "hugo-theme-cactus"
 googleAnalytics = "G-CQ1LVQ4JCK"
 disqusShortname = ""
@@ -63,7 +64,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # path to the favicon, under "static"
     favicon = "favicon.ico"
     
-    colortheme = "white" # dark, light, white, or classic
+    colortheme = "white" # "white" # dark, light, white, or classic
 
     [params.logo]
     url = "myweb.png"

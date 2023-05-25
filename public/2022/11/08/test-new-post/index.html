@@ -11,7 +11,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> 人工智能算法在可解释性和公平可信发展趋势的初步调研 | 齐琦 Qi Qi&#39;s Web portal</title>
   <link rel = 'canonical' href = '/2022/11/08/test-new-post/'>
-  <meta name="description" content="![](images/photo_mit_3.png) &lt;br&gt;  我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn">
+  <meta name="description" content="![](images/photo_mit_3.png) &lt;br&gt;  我的研究兴趣主要集中在近似算法，组合优化决策，鲁棒优化，随机规划，和机器学习算法。我在海南大学计算机科学与技术学院教授人工智能，从事相关领域科学研究工作。我之前在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。如果对算法，数据建模与预测，运筹优化等领域感兴趣，欢迎联系 Email： qqi@hainanu.edu.cn">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
@@ -26,11 +26,13 @@
 在文献[3]中，作者对人工智能数据管道中的每一个主要环节分别给出了一些关键建议。这些环节包括数据设计，数据处理和选择，数据评估策略等。整个数据管道也受数据有关法规政策的约束，以保证平衡、隐私保护的和可信的人工智能。在文章的最后，作者指出政府的法规和数据政策对于可信人工智能也扮演着重要的角色。例如，欧洲的AI规范草案中对构建模型的数据的规范性进行了明确的要求。有关的政策法规需要对隐私保护和数据访问之间进行合理的平衡。高质量和收集成本昂贵的数据集通常会成为公司私有的资产，学术界研究人员很难获取高质量的数据。政府在这方面的规范法规可以用来帮助改进数据的便携分享和控制。各国在这方面的努力仍处于初步阶段。同时，人工智能模型本身也可以用来对数据进行校准，检测其中的异常、错误和偏见。以数据为中心的方法将成为未来人工智能发展过程中不可缺少的组成部分。
 [1] KIM P T. Addressing Algorithmic Discrimination[J/OL]. Commun. ACM, 2021, 65(1): 25-27. https://doi.org/10.1145/3498660.[2] FINK O. NETLAND T. FEUERRIEGELC S. Artificial Intelligence across Company Borders[J/OL]. Commun. ACM, 2021, 65(1): 34-36. https://doi.org/10.1145/3470449.[3] LIANG W. TADESSE G A. HO D. 等. Advances, challenges and opportunities in creating data for trustworthy AI[J/OL]. Nature Machine Intelligence, 2022, 4(8): 669-677. https://doi.org/10.1038/s42256-022-00516-1.Email: qqi@hainanu.edu.cn↩︎" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/2022/11/08/test-new-post/" /><meta property="article:section" content="post" />
+<meta property="og:url" content="/2022/11/08/test-new-post/" /><meta property="og:image" content="/photo_mit_3.png"/><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2022-11-08T00:00:00+00:00" />
 <meta property="article:modified_time" content="2022-11-08T00:00:00+00:00" />
 
-  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/photo_mit_3.png"/>
+
 <meta name="twitter:title" content="人工智能算法在可解释性和公平可信发展趋势的初步调研"/>
 <meta name="twitter:description" content="人工智能算法在可解释性和公平可信发展趋势的初步调研1现代人工智能的应用普及，同时也带来了算法在决策上的偏见和区别对待等问题。例如，一个犯罪风险评估算法对黑人比白人辩护人更有可能做出错误的预测判断；广告投放算法会把秘书和超市工作的广告更多地推介给女性；一个医疗资源配置算法对于同等需求的患者更倾向于白人。想比较于人类决策中的歧视现象，算法的歧视更具有隐蔽性，因为算法的预测模型是通过对大量收集的数据进行处理分析以后所确立的，而不是基于当事人的抉择。然而，传统的机器学习算法的模型构建和预测有可能强化了所应用的数据中的偏见与不均匀的配置，从而导致具有偏见的预测判断。
 美国的现有法律明确禁止有目的歧视，比如差别对待。因此一个公司如果依赖于有歧视效应的预测模型来做出雇佣选择，那么它也是违反了相关法律[1]。然而，对于算法来说，如果仅是把一些诸如性别、种族等的特征数据从训练数据中刨除出去，也不一定能够保证算法的预测公平性。例如，在训练数据中，假如女性雇员的工作指标数据非常少，那么算法最终训练出来的模型可能对女性雇员的工作评价做出不公平的预测。因此，此类用于人力资源雇佣和评价决策的算法应该经常对其输入训练数据中不同群体的数据分布进行审计。
@@ -41,13 +43,14 @@
 即使是现在最先进的人工智能模型也经常会受数据的影响产生错误的关联推断和偏见。对数据的处理和准备能够很大程度上影响使用这些数据进行训练的模型的泛化学习能力和可靠性。因此从数据为中心的角度看，人工智能的发展需要系统化和标准化的方法对训练和测试数据进行评估、合成、清洗和标注。这些方面都极大影响到了训练出的人工智能模型的预测判断表现。[3]
 在文献[3]中，作者对人工智能数据管道中的每一个主要环节分别给出了一些关键建议。这些环节包括数据设计，数据处理和选择，数据评估策略等。整个数据管道也受数据有关法规政策的约束，以保证平衡、隐私保护的和可信的人工智能。在文章的最后，作者指出政府的法规和数据政策对于可信人工智能也扮演着重要的角色。例如，欧洲的AI规范草案中对构建模型的数据的规范性进行了明确的要求。有关的政策法规需要对隐私保护和数据访问之间进行合理的平衡。高质量和收集成本昂贵的数据集通常会成为公司私有的资产，学术界研究人员很难获取高质量的数据。政府在这方面的规范法规可以用来帮助改进数据的便携分享和控制。各国在这方面的努力仍处于初步阶段。同时，人工智能模型本身也可以用来对数据进行校准，检测其中的异常、错误和偏见。以数据为中心的方法将成为未来人工智能发展过程中不可缺少的组成部分。
 [1] KIM P T. Addressing Algorithmic Discrimination[J/OL]. Commun. ACM, 2021, 65(1): 25-27. https://doi.org/10.1145/3498660.[2] FINK O. NETLAND T. FEUERRIEGELC S. Artificial Intelligence across Company Borders[J/OL]. Commun. ACM, 2021, 65(1): 34-36. https://doi.org/10.1145/3470449.[3] LIANG W. TADESSE G A. HO D. 等. Advances, challenges and opportunities in creating data for trustworthy AI[J/OL]. Nature Machine Intelligence, 2022, 4(8): 669-677. https://doi.org/10.1038/s42256-022-00516-1.Email: qqi@hainanu.edu.cn↩︎"/>
+<meta name="twitter:site" content="@https://twitter.com/qiziqi"/>
 
   
   
     
   
   
-  <link rel="stylesheet" href="/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+  <link rel="stylesheet" href="/scss/style.scss" integrity=""> 
 
   
   
@@ -98,13 +101,13 @@ if (!doNotTrack) {
         <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x" aria-hidden="true"></i></a>
       </li>
       
-        <li><a href="/research/">Research</a></li>
+        <li><a href="/research/">Research and Publications</a></li>
+      
+        <li><a href="/courses/">Courses Taught</a></li>
       
         <li><a href="/post/">Posts</a></li>
       
-        <li><a href="/lecture/">Teaching</a></li>
-      
-        <li><a href="/grad-students/">Grads</a></li>
+        <li><a href="/advisees/">Advisees</a></li>
       
         <li><a href="/venues/">Links</a></li>
       
@@ -166,13 +169,13 @@ if (!doNotTrack) {
     <nav>
       <ul>
          
-        <li><a href="/research/">Research</a></li>
+        <li><a href="/research/">Research and Publications</a></li>
+         
+        <li><a href="/courses/">Courses Taught</a></li>
          
         <li><a href="/post/">Posts</a></li>
          
-        <li><a href="/lecture/">Teaching</a></li>
-         
-        <li><a href="/grad-students/">Grads</a></li>
+        <li><a href="/advisees/">Advisees</a></li>
          
         <li><a href="/venues/">Links</a></li>
          

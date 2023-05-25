@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人工智能导论（2023 春季）</title>
-      <link>/lecture/ai/2023-spring/</link>
+      <link>/courses/ai/2023_spring/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/lecture/ai/2023-spring/</guid>
-      <description>人工智能 2023春季学期 作业 作业1 作业2 作业3 作业4 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 pdf 9 增强学习算法 第21章 pdf 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 pdf 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 pdf 14 机器学习：朴素贝叶斯 pdf 15 机器学习：感知机，逻辑斯特回归 pdf 16 机器学习：优化方法，神经网络模型 pdf 课本参考：</description>
+      <guid>/courses/ai/2023_spring/</guid>
+      <description>人工智能 2023春季学期 作业 作业1 . 参考答案 作业2 . 参考答案 作业3 . 参考答案 作业4 . 参考答案 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 part1 , part2 9 增强学习算法 第21章 part1 , part2 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 part1 , part2, part3 , part4 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 part1 , part2 14 机器学习：朴素贝叶斯 第18.</description>
     </item>
     
     <item>
@@ -35,21 +35,19 @@
     
     <item>
       <title>Graduate students</title>
-      <link>/grad-students/</link>
+      <link>/advisees/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/grad-students/</guid>
-      <description>硕士研究生 夏鹏，李金清，韩义博
-梁哲敏，刘小龙，刘庆鑫
-Alumni 戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill) 林小惟（复旦大学中山医院，2022），林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
+      <guid>/advisees/</guid>
+      <description>硕士研究生 梁哲敏，刘小龙, 刘庆鑫 夏鹏，李金清，韩义博 Alumni 戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill) 林小惟（复旦大学中山医院，2022）, 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
     </item>
     
     <item>
       <title>人工智能导论（2022 春季）</title>
-      <link>/lecture/ai/2022-spring/</link>
+      <link>/courses/ai/2022-spring/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/lecture/ai/2022-spring/</guid>
+      <guid>/courses/ai/2022-spring/</guid>
       <description>内容提纲序号内容提纲对应章节幻灯片、作业1人工智能简介，课程内容介绍第1章，第26.3、27.4节pdf2智能行为体和环境第2章pdf3基础搜索算法,A*搜索,和启发式法第3章的1-4节，5-6节pdf , part2_pdf ；作业14局部搜索和不确定搜索第4章pdf5博弈对抗搜索，博弈原理基础第5章1-5节pdf; 作业26约束满足问题，回溯搜索第6章1，3-5节pdf7命题逻辑：语法和推理第7章第1-5、第6.1和第7节pdf课本参考：
 Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland Peter Norvig. Prentice Hall, 2009.</description>
     </item>
@@ -60,10 +58,23 @@ Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russelland P
       <pubDate>Tue, 19 Nov 2019 10:00:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。 如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。
-过去的网页
+      <description>我的研究方向集中在近似算法，组合优化决策，随机规划，机器学习算法。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位,现在海南大学计算机科学与技术学院教授人工智能，进行相关领域科学研究。 如果对算法，运筹优化，机器学习和数据科学等领域感兴趣，进行相关理论和应用上的研究，欢迎联系 Email： qqi@hainanu.edu.cn。
+过去的网页地址：qiqi789.github.io
 Contact Email: qqi @hainanu.edu.cn, or qiqi789 @ gmail.com
 My department address: Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 570228 China</description>
+    </item>
+    
+    <item>
+      <title>AI lecture</title>
+      <link>/courses/ai/2019-fall/ai/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/ai/2019-fall/ai/</guid>
+      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。
+2019/12/2 作业6，已经贴出。
+2019/11/25 作业5，已经贴出。
+2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。
+作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
     </item>
     
     <item>
@@ -77,29 +88,20 @@ International Olympiad in Informatics</description>
     </item>
     
     <item>
-      <title>人工智能导论 2019 Fall</title>
-      <link>/lecture/ai/2019-fall/ai/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/lecture/ai/2019-fall/ai/</guid>
-      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。
-2019/12/2 作业6，已经贴出。
-2019/11/25 作业5，已经贴出。
-2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。
-作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
       <description>Email:
-qqi@hainanu.edu.cn,
+qqi @hainanu.edu.cn,
 or qiqi789 @ gmail.com
 My department address:
-Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 570228 China</description>
+Computer Science department
+Hainan University
+Renmin avenue #58
+Haikou, Hainan, 570228
+China</description>
     </item>
     
     <item>
