@@ -23,7 +23,7 @@ tags: ["research"]
 
 * Q. Liu, Q. Qi and N. Li, "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
 
-* "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
+* "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
 
 * “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
