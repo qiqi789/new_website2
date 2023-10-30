@@ -18,6 +18,8 @@ tags:
 
 -   <https://www.cs.cornell.edu/home/kleinber/>
 
+    -   [INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)](https://courses.cs.cornell.edu/cs1340/2022sp/)
+
 -   <https://people.eecs.berkeley.edu/~jordan/publications.html>
 
 -   <http://www.columbia.edu/~cs2035/>
