@@ -11,6 +11,10 @@ tags:
 
 ## 科研学者经验分享
 
--   窦志成教授：如何撰写科研论文，<http://ai.ruc.edu.cn/research/science/20201014001.html>
+-   窦志成教授：如何撰写科研论文
 
--   赵鑫教授：科研入门的一些经验分享，<http://ai.ruc.edu.cn/research/science/20221125003.html>
+    <http://ai.ruc.edu.cn/research/science/20201014001.html>
+
+-   赵鑫教授：科研入门的一些经验分享
+
+    <http://ai.ruc.edu.cn/research/science/20221125003.html>
