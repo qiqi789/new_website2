@@ -44,9 +44,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
     mainSection = "research"
     mainSectionTitle = "Writings"
-    showAllPostsOnHomePage = true
-    postsOnHomePage = 5
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 13
     mainSections = ['post', 'courses']
+    tagsOverview = true
     
     
     # Post page settings
