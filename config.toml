@@ -48,6 +48,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     postsOnHomePage = 13
     mainSections = ['post', 'courses']
     tagsOverview = true
+    showAllPostsArchive = false # or false (default)
     
     
     # Post page settings
