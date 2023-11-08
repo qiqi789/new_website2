@@ -94,5 +94,5 @@ hasCJKLanguage = true
   twitter = "https://twitter.com/qiziqi"
     
 [frontmatter]
-  images = ['images']
+  images = ['static/images']
     
