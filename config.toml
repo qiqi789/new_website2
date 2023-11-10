@@ -50,7 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     mainSectionTitle = "Writings"
     showAllPostsOnHomePage = false
     postsOnHomePage = 13
-    mainSections = ['post', 'courses']
+    mainSections = ['post', 'courses', 'research']
     tagsOverview = true
     showAllPostsArchive = false # or false (default)
     
