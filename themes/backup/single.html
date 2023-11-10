@@ -38,19 +38,19 @@
           {{ $readTime }} minute read
         </div>
         {{ end }}
-        {{ if gt .categories 0 }}
+        {{ if gt .Params.categories 0 }}
         <div class="article-category">
             <i class="fas fa-archive"></i>
-            {{ range $index, $value := .categories }}
+            {{ range $index, $value := .Params.categories }}
             {{ if gt $index 0 }} {{ print ", " }} {{ end }}
             <a class="category-link" href="{{ "/categories/" | relLangURL }}{{ $value | urlize }}">{{ $value }}</a>
             {{ end }}
         </div>
         {{ end }}
-        {{ if gt .tags 0 }}
+        {{ if gt .Params.tags 0 }}
         <div class="article-tag">
             <i class="fas fa-tag"></i>
-            {{ range $index, $value := .tags }}
+            {{ range $index, $value := .Params.tags }}
             {{ if gt $index 0 }} {{ print ", " }} {{ end }}
             <a class="tag-link" href="{{ "/tags/" | relLangURL }}{{ $value | urlize }}" rel="tag">{{ $value }}</a>
             {{ end }}
