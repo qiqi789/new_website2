@@ -8,6 +8,7 @@ categories:
 tags:
   - reference
   - literature
+  - scholars
 ---
 
 # Online reference bookmarks
@@ -27,3 +28,5 @@ tags:
 -   <https://www.engineering.columbia.edu/faculty/christos-papadimitriou>
 
 -   <https://fan.princeton.edu/fan/classes/525.html>
+
+-   <https://ericbudish.org/>

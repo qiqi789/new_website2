@@ -29,3 +29,5 @@ tags:
 -   [高瓴人工智能研究院，人民大学](http://ai.ruc.edu.cn/index.htm)
 
 -   [华为算法创新Lab](https://www.huaweicloud.com/lab/algorithm/home.html)
+
+-   <http://marketdesigner.blogspot.com/>
