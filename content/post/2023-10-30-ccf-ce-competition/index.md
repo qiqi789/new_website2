@@ -20,6 +20,14 @@ tags:
 -   计算经济学专业组, <https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/>
 -   北京大学前沿计算研究中心，<https://cfcs.pku.edu.cn/people/directors/index.htm>
 
+## ACM links
+
+-   [ACM Special Interest Group on Economics and Computation](http://www.sigecom.org/)
+
+-   [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
+
+-   [ACM Conference on Economics and Computation](https://dl.acm.org/conference/ec)
+
 ## Related Links
 
 -   [理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学](https://itcs.sufe.edu.cn/LlChinese/main.htm)
