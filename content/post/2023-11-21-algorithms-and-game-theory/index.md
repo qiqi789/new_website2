@@ -2,12 +2,14 @@
 title: Algorithms and Game Theory
 author: ''
 date: '2023-11-21'
-slug: algorithms-and-game-theory
 categories:
   - research
 tags:
   - Algorithmic Games
   - 算法博弈
+  - research
+  - 研究前沿
+slug: algorithms-and-game-theory
 ---
 
 ## Conference
