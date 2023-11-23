@@ -65,11 +65,7 @@ slug: research
     Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.
     [link](http://www.biomedcentral.com/1753-6561/8/S6/S5), [PDF](PGM-based-pathways-reconstruction-2014.pdf)
 
-*   “Comparison of Probabilistic Chain Graphical Model Based and Gaussian
-    Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Qi,
-    Yi Shang, International Journal of Distributed Sensor Networks, vol. 2011,
-    article ID 928958, 2011.
-    [link](http://www.hindawi.com/journals/ijdsn/2011/928958/), [PDF](PGM-based-observation-selection_2011.pdf)
+*   “Comparison of Probabilistic Chain Graphical Model Based and Gaussian Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Q, Shang Y.，International Journal of Distributed Sensor Networks. 2011;7(1). doi:10.1155/2011/928958，[Web link](https://journals.sagepub.com/doi/10.1155/2011/928958), [PDF](PGM-based-observation-selection_2011.pdf)
 
 *   “An Improved Algorithm for Optimal Subset Selection in Chain Graphical
     Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
