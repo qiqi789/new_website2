@@ -23,6 +23,7 @@ slug: algorithms-and-game-theory
 [The 16th International Symposium on Algorithmic Game Theory (SAGT)](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/)
 
 -   [Proceeding Web link](https://link.springer.com/book/10.1007/978-3-031-43254-5)
+-   [International Symposium on Algorithmic Game Theory](https://link.springer.com/conference/sagt)
 
 ## Lectures
 
