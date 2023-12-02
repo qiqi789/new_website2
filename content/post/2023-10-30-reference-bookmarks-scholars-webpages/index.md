@@ -21,6 +21,12 @@ tags:
 
     -   [INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)](https://courses.cs.cornell.edu/cs1340/2022sp/)
 
+-   <https://tibshirani.su.domains/index.html>
+
+    -   <https://tibshirani.su.domains/research_page.html>
+
+    -   <https://tibshirani.su.domains/research.html>
+
 -   <https://people.eecs.berkeley.edu/~jordan/publications.html>
 
 -   <http://www.columbia.edu/~cs2035/>
