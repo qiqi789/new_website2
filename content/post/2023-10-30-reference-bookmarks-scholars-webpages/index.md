@@ -35,4 +35,6 @@ tags:
 
 -   <https://fan.princeton.edu/fan/classes/525.html>
 
+-   [https://rdpeng.org/ (R, Statistics, and Data Sciences)](https://rdpeng.org/)
+
 -   <https://ericbudish.org/>
