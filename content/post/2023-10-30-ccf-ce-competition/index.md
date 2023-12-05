@@ -30,6 +30,8 @@ tags:
 
 ## Related Links
 
+-   [Mixed Integer Programming Society, Mathematical Optimization Society](https://www.mixedinteger.org/)
+
 -   [理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学](https://itcs.sufe.edu.cn/LlChinese/main.htm)
 
 -   [人工智能研究院，北京大学](http://www.ai.pku.edu.cn/index.htm)

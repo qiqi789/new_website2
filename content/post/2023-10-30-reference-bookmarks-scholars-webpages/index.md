@@ -38,3 +38,9 @@ tags:
 -   [https://rdpeng.org/ (R, Statistics, and Data Sciences)](https://rdpeng.org/)
 
 -   <https://ericbudish.org/>
+
+## Matching 
+
+-   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
+
+-   <http://www.columbia.edu/~yf2414/research.html>
