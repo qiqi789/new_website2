@@ -1,0 +1,20 @@
+---
+title: Matching related references
+author: ''
+date: '2023-12-06'
+slug: matching-related-references
+categories:
+  - Research
+tags:
+  - Matching
+---
+
+-   <https://ics.uci.edu/~vazirani/>
+
+-   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
+
+-   <https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs>
+
+-   <http://www.columbia.edu/~yf2414/research.html>
+
+-   <http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html>
