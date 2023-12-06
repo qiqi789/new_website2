@@ -39,7 +39,9 @@ tags:
 
 -   <https://ericbudish.org/>
 
-## Matching 
+## Matching
+
+-   <https://ics.uci.edu/~vazirani/>
 
 -   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
 
