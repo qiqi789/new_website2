@@ -12,11 +12,11 @@ tags:
 
 -   <https://ics.uci.edu/~vazirani/>
 
--   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
+    -   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
 
--   <https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length>
+    -   <https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length>
 
--   [LP-Duality and the Cores of Games](https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27)
+    -   [LP-Duality and the Cores of Games](https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27)
 
 -   <https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs>
 
