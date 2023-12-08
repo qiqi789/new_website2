@@ -2,6 +2,7 @@
 title: Matching related references
 author: ''
 date: '2023-12-06'
+lastmod: '2023-12-08'
 slug: matching-related-references
 categories:
   - Research
@@ -12,6 +13,8 @@ tags:
 -   <https://ics.uci.edu/~vazirani/>
 
 -   <https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets>
+
+-   <https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length>
 
 -   [LP-Duality and the Cores of Games](https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27)
 
