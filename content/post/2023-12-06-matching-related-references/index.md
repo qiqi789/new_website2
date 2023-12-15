@@ -27,3 +27,5 @@ tags:
     -   <https://icerm.brown.edu/video_archive/?play=3027>
 
 -   <http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html>
+
+-   [International Conference on Integer Programming and Combinatorial Optimization](https://link.springer.com/conference/ipco)
