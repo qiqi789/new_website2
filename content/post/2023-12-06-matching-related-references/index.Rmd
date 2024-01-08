@@ -33,3 +33,5 @@ tags:
 <https://yufeizhao.com/>
 
 -   [Graph Theory and Additive Combinatorics book](https://yufeizhao.com/gtacbook/)
+    -   <https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/>
+-   <https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/>
