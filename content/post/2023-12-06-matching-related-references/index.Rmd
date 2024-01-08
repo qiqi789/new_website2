@@ -37,3 +37,5 @@ tags:
 -   <https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/>
 
 [Erdős and Shannon: A Story of Probability, Communication, and Combinatorics \| Richard M. Karp Distinguished Lecture, Jacob Fox](https://simons.berkeley.edu/events/erdos-shannon-story-probability-communication-combinatorics-richard-m-karp-distinguished)
+
+[Introduction to Data Structures and Optimization for Fast Algorithms \| Richard M. Karp Distinguished Lecture](https://simons.berkeley.edu/events/introduction-data-structures-optimization-fast-algorithms-richard-m-karp-distinguished)
