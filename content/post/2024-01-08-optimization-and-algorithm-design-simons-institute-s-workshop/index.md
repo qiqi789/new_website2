@@ -16,3 +16,7 @@ tags:
 <https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs>
 
 -   [Nash Social Welfare and A Tale of Mathematical Programs](https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28)
+
+Richard M. Karp Distinguished Lectures
+
+<https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures>
