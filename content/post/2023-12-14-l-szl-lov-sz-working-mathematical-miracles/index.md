@@ -27,3 +27,7 @@ Selected topics in graph theory
 Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, [Heidelberg Laureate Forum](https://scilogs.spektrum.de/hlf "Go to Heidelberg Laureate Forum.") 
 
 <https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/>
+
+Why People Hate Maths, and Why You Should Love It
+
+<https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/>
