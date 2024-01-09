@@ -44,15 +44,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
     #description = "![](images/photo_mit_3.png) <br>  我的研究兴趣主要集中在近似算法，组合优化决策，鲁棒优化，随机规划，和机器学习算法。我在海南大学计算机科学与技术学院教授人工智能，从事相关领域科学研究工作。我之前在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。如果对算法，数据建模与预测，运筹优化等领域感兴趣，欢迎联系 Email： qqi@hainanu.edu.cn"
     
+    
     images = ['photo_mit_3.png']
     
+    mainSectionTitle = "Research page"
     mainSection = "research"
-    mainSectionTitle = "Writings"
+    
     showAllPostsOnHomePage = false
     postsOnHomePage = 13
     mainSections = ['post', 'courses', 'research']
     tagsOverview = true
-    showAllPostsArchive = false # or false (default)
+    showAllPostsArchive = true # or false (default)
     
     
     # Post page settings
@@ -70,10 +72,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "favicon.png" # "favicon.ico"
+    
     
     colortheme = "white" # "white" # dark, light, white, or classic
-
+    
+    iconFont = "mono-social"
+    socialIconStyle = "circle"
+    
     [params.logo]
     url = "myweb.png"
     width = 50
