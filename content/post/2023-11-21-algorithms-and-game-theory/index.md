@@ -56,6 +56,14 @@ slug: algorithms-and-game-theory
 
 -   [SAGT 2008](https://link.springer.com/book/10.1007/978-3-540-79309-0)
 
+## ACM links
+
+-   [ACM Special Interest Group on Economics and Computation](http://www.sigecom.org/)
+
+-   [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
+
+-   [ACM Conference on Economics and Computation](https://dl.acm.org/conference/ec)
+
 ## Lectures
 
 [Matchings](http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html)
