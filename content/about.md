@@ -5,8 +5,8 @@ title: 关于我的研究，About my research
 
 ![](/images/Qi_photo2.JPG)
 
-我的研究方向集中在近似算法，组合优化决策，随机规划，机器学习算法。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位,现在海南大学计算机科学与技术学院教授人工智能，进行相关领域科学研究。
-如果对算法，运筹优化，机器学习和数据科学等领域感兴趣，进行相关理论和应用上的研究，欢迎联系 Email： qqi@hainanu.edu.cn。
+我在海南大学计算机科学系教授人工智能等，并进行科研工作。我的研究兴趣主要集中在组合优化问题及其在计算机科学中的应用。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位，我的导师是[Yi Shang](https://engineering.missouri.edu/faculty/yi-shang/)。
+我的Email: qqi@hainanu.edu.cn .
 
 [过去的网页地址：qiqi789.github.io](https://qiqi789.github.io/research/)
 
