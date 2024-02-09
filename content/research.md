@@ -24,7 +24,9 @@ slug: research
 
 ## 发表论文 （Publications）
 
-* "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", accepted to IEEE ICPADS 2023.
+* "Robust modeling of the multi-depot vehicle routing problem under uncertain demands", with Jinqing Li, accepted to 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).
+
+* "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", with Yibo Han, accepted to IEEE ICPADS 2023.
 
 * A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Q. Liu, Q. Qi and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
 
