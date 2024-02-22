@@ -26,3 +26,9 @@ Online and Matching-Based Market Design
 Learning and Games
 
 <https://simons.berkeley.edu/programs/games2022>
+
+Analysis and TCS Boot Camp
+
+<https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs>
+
+[Applications in Extremal Combinatorics 2](https://simons.berkeley.edu/talks/noam-lifshitz-hebrew-university-2023-06-08)
