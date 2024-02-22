@@ -2,7 +2,7 @@
 title: Simons Institute for the Theory of Computing bookmarks
 author: Qi Qi
 date: '2023-10-30'
-lastmod: '2024-01-09'
+lastmod: '2024-02-22'
 slug: simons-institute-for-the-theory-of-computing-bookmarks
 categories:
   - reference
