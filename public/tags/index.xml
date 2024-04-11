@@ -2,55 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>/tags/</link>
+    <link>//localhost:4321/tags/</link>
     <description>Recent content in Tags on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math</title>
+      <link>//localhost:4321/tags/math/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simons</title>
+      <link>//localhost:4321/tags/simons/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/simons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>//localhost:4321/tags/workshop/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matching</title>
+      <link>//localhost:4321/tags/matching/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/matching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Combinatorics</title>
+      <link>//localhost:4321/tags/combinatorics/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/combinatorics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scholars</title>
+      <link>//localhost:4321/tags/scholars/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/scholars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reference</title>
+      <link>//localhost:4321/tags/reference/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:4321/tags/research/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>学者分享</title>
+      <link>//localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithmic Games</title>
+      <link>//localhost:4321/tags/algorithmic-games/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/algorithmic-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computation and Economics</title>
+      <link>//localhost:4321/tags/computation-and-economics/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/computation-and-economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literature</title>
+      <link>//localhost:4321/tags/literature/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market Design</title>
+      <link>//localhost:4321/tags/market-design/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/market-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>市场设计</title>
+      <link>//localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>研究前沿</title>
+      <link>//localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>算法博弈</title>
+      <link>//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>计算经济</title>
+      <link>//localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turing-Award</title>
+      <link>//localhost:4321/tags/turing-award/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/tags/turing-award/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
-      <link>/tags/ai/</link>
+      <link>//localhost:4321/tags/ai/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ai/</guid>
+      <guid>//localhost:4321/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lectures</title>
-      <link>/tags/lectures/</link>
+      <title>Lectures</title>
+      <link>//localhost:4321/tags/lectures/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lectures/</guid>
+      <guid>//localhost:4321/tags/lectures/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI可解释</title>
-      <link>/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</link>
+      <link>//localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</guid>
+      <guid>//localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>graduate</title>
-      <link>/tags/graduate/</link>
+      <title>Graduate</title>
+      <link>//localhost:4321/tags/graduate/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/graduate/</guid>
+      <guid>//localhost:4321/tags/graduate/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>research</title>
-      <link>/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/research/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matching on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>//localhost:4321/tags/matching/</link>
+    <description>Recent content in Matching on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mathematics of László Lovász</title>
+      <link>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
+      <description>The Mathematics of László Lovász</description>
+    </item>
+    <item>
+      <title>Matching , Graph theory, Combinatorics related references</title>
+      <link>//localhost:4321/2023/12/06/matching-related-references/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/12/06/matching-related-references/</guid>
+      <description>https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#xA;LP-Duality and the Cores of Games&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#xA;http://www.columbia.edu/~yf2414/research.html&#xA;http://www.columbia.edu/~yf2414/teaching.html&#xA;https://icerm.brown.edu/video_archive/?play=3027&#xA;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#xA;International Conference on Integer Programming and Combinatorial Optimization&#xA;https://yufeizhao.com/&#xA;Graph Theory and Additive Combinatorics book https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/ https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/ Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&#xA;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture</description>
+    </item>
+  </channel>
+</rss>

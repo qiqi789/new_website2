@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>//localhost:4321/tags/reference/</link>
+    <description>Recent content in Reference on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
+      <link>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
+      <description>Optimization and Algorithm Design, Simons Institute for the Theory of Computing https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#xA;Nash Social Welfare and A Tale of Mathematical Programs Richard M. Karp Distinguished Lectures https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures</description>
+    </item>
+    <item>
+      <title>Algorithms and Game Theory</title>
+      <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>Conference International Symposium on Algorithmic Game Theory&#xA;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&#xA;Proceeding Web link SAGT 2022&#xA;SAGT 2021&#xA;SAGT 2020&#xA;SAGT 2019&#xA;SAGT 2018&#xA;SAGT 2017&#xA;SAGT 2016&#xA;SAGT 2015&#xA;SAGT 2014&#xA;SAGT 2013&#xA;SAGT 2012&#xA;SAGT 2011&#xA;SAGT 2010&#xA;SAGT 2009&#xA;SAGT 2008&#xA;ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation</description>
+    </item>
+    <item>
+      <title>Online and Matching-Based Market Design</title>
+      <link>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <description>Online and Matching-Based Market Design workshop Workshop, Oct. 2023, Simons Institute for the Theory of Computing&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs</description>
+    </item>
+    <item>
+      <title>Reference bookmarks -- scholars webpages</title>
+      <link>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
+      <description>Online reference bookmarks https://ics.uci.edu/~vazirani/&#xA;https://home.ttic.edu/~avrim/Papers/pubs.html&#xA;https://www.cs.cornell.edu/home/kleinber/&#xA;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu) https://tibshirani.su.domains/index.html&#xA;https://tibshirani.su.domains/research_page.html&#xA;https://tibshirani.su.domains/research.html&#xA;https://people.eecs.berkeley.edu/~jordan/publications.html&#xA;http://www.columbia.edu/~cs2035/&#xA;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#xA;https://fan.princeton.edu/fan/classes/525.html&#xA;https://rdpeng.org/ (R, Statistics, and Data Sciences)&#xA;https://www.cis.upenn.edu/~aaroth/&#xA;https://ericbudish.org/&#xA;https://stanford.edu/~jacobfox/&#xA;https://www.its.caltech.edu/~dconlon/&#xA;Matching https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;http://www.columbia.edu/~yf2414/research.html</description>
+    </item>
+    <item>
+      <title>Simons Institute for the Theory of Computing bookmarks</title>
+      <link>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
+      <description>Richard M. Karp Distinguished Lectures&#xA;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#xA;LP-Duality and the Cores of Games&#xA;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#xA;Online and Matching-Based Market Design&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#xA;Learning and Games&#xA;https://simons.berkeley.edu/programs/games2022&#xA;Analysis and TCS Boot Camp&#xA;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&#xA;Applications in Extremal Combinatorics 2</description>
+    </item>
+  </channel>
+</rss>

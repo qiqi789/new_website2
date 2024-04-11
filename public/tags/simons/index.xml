@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simons on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>//localhost:4321/tags/simons/</link>
+    <description>Recent content in Simons on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/simons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning and Games - Simons Institute for theory of computing</title>
+      <link>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</guid>
+      <description>Learning and Games workshops&#xA;https://simons.berkeley.edu/programs/games2022/workshops</description>
+    </item>
+  </channel>
+</rss>

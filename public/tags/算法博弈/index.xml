@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>算法博弈 on 齐琦 Qi Qi&#39;s Web portal</title>
+    <link>//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</link>
+    <description>Recent content in 算法博弈 on 齐琦 Qi Qi&#39;s Web portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms and Game Theory</title>
+      <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>Conference International Symposium on Algorithmic Game Theory&#xA;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&#xA;Proceeding Web link SAGT 2022&#xA;SAGT 2021&#xA;SAGT 2020&#xA;SAGT 2019&#xA;SAGT 2018&#xA;SAGT 2017&#xA;SAGT 2016&#xA;SAGT 2015&#xA;SAGT 2014&#xA;SAGT 2013&#xA;SAGT 2012&#xA;SAGT 2011&#xA;SAGT 2010&#xA;SAGT 2009&#xA;SAGT 2008&#xA;ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation</description>
+    </item>
+    <item>
+      <title>Online and Matching-Based Market Design</title>
+      <link>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <description>Online and Matching-Based Market Design workshop Workshop, Oct. 2023, Simons Institute for the Theory of Computing&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs</description>
+    </item>
+    <item>
+      <title>CCF 计算经济大赛，专委会，相关网页</title>
+      <link>//localhost:4321/2023/10/30/ccf-ce-competition/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2023/10/30/ccf-ce-competition/</guid>
+      <description>CCF 计算经济学大赛 CCF 计算经济学大赛，https://ccf.pkucxpl.com/ 计算经济学专业组, https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/ 北京大学前沿计算研究中心，https://cfcs.pku.edu.cn/people/directors/index.htm ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation&#xA;Related Links Mixed Integer Programming Society, Mathematical Optimization Society&#xA;理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学&#xA;人工智能研究院，北京大学&#xA;高瓴人工智能研究院，人民大学&#xA;华为算法创新Lab&#xA;http://marketdesigner.blogspot.com/</description>
+    </item>
+  </channel>
+</rss>
