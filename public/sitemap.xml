@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/combinatorics/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/inspiration/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/post/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/scholars/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/turing-award/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/tags/math/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/tags/simons/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/2024/04/03/wolfram-alpha/</loc>
@@ -22,15 +43,6 @@
   </url><url>
     <loc>//localhost:4321/tags/workshop/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/inspiration/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/tags/matching/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
@@ -40,9 +52,6 @@
   </url><url>
     <loc>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/combinatorics/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
@@ -54,9 +63,6 @@
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/research/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/scholars/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</loc>
@@ -130,9 +136,6 @@
   </url><url>
     <loc>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/turing-award/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/2023/10/30/research-scholars/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
