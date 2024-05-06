@@ -2,6 +2,7 @@
 title: Reference bookmarks -- scholars webpages
 author: Qi Qi
 date: '2023-10-30'
+lastmod: '2024-05-06'
 slug: reference-bookmarks-scholars-webpages
 categories:
   - reference
@@ -26,6 +27,8 @@ tags:
     -   <https://tibshirani.su.domains/research_page.html>
 
     -   <https://tibshirani.su.domains/research.html>
+
+    -   <https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1>
 
 -   <https://people.eecs.berkeley.edu/~jordan/publications.html>
 
