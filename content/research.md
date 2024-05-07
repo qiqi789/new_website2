@@ -2,7 +2,7 @@
 title: Research
 author: Qi Qi
 date: '2023-11-10'
-lastmod: '2023-11-10'
+lastmod: '2024-05-07'
 categories:
   - research
 tags:
@@ -11,15 +11,13 @@ tags:
 slug: research
 ---
 
-
 ## 研究方向
 
 - 组合优化与博弈问题。 Combinatorial Optimization; Algorithmic Games.
 
+- 机器学习，数据科学。Machine Learning; Data Science.
+
 - 鲁棒优化，运筹优化。 Robust optimization; Operations research.
-
-- 机器学习，数据科学，概率因果关系推理。Machine Learning; Data Science.
-
 
 
 ## 发表论文 （Publications）
