@@ -16,6 +16,8 @@ tags:
 
 -   <https://ics.uci.edu/~vazirani/>
 
+    -   <https://arxiv.org/search/cs?searchtype=author&query=Vazirani,+V+V>
+
 -   <https://home.ttic.edu/~avrim/Papers/pubs.html>
 
 -   <https://www.cs.cornell.edu/home/kleinber/>
