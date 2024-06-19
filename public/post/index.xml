@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Game Theory, Data Science, courses</title>
+      <link>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
+      <description>TTIC 31260 - Algorithmic Game Theory (Spring 2024)&#xA;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)</description>
+    </item>
     <item>
       <title>Art &amp; Science</title>
       <link>//localhost:4321/2024/05/08/art-science/</link>
