@@ -6,8 +6,15 @@
     <description>Recent content in 算法博弈 on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Game Theory, Data Science, courses, conferences, journals, and books</title>
+      <link>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
+      <description>Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&#xA;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&#xA;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&#xA;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&#xA;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.</description>
+    </item>
     <item>
       <title>New Directions in Market Design</title>
       <link>//localhost:4321/2024/04/26/new-directions-in-market-design/</link>

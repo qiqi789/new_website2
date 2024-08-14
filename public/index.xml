@@ -6,14 +6,14 @@
     <description>Recent content on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithmic Game Theory, Data Science, courses</title>
+      <title>Algorithmic Game Theory, Data Science, courses, conferences, journals, and books</title>
       <link>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
-      <description>TTIC 31260 - Algorithmic Game Theory (Spring 2024)&#xA;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)</description>
+      <description>Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&#xA;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&#xA;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&#xA;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&#xA;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.</description>
     </item>
     <item>
       <title>Art &amp; Science</title>
@@ -118,7 +118,7 @@
       <link>//localhost:4321/research/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/research/</guid>
-      <description>研究方向 组合优化与博弈问题。 Combinatorial Optimization; Algorithmic Games.&#xA;机器学习，数据科学。Machine Learning; Data Science.&#xA;发表论文 （Publications） &amp;ldquo;Robust modeling of the multi-depot vehicle routing problem under uncertain demands&amp;rdquo;, with Jinqing Li, accepted to 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).&#xA;&amp;ldquo;Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling&amp;rdquo;, Y. Han, Q. Qi, N. Li and J. Li, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp.</description>
+      <description>研究方向 组合优化与博弈问题。 Combinatorial Optimization; Algorithmic Games.&#xA;机器学习，数据科学。Machine Learning; Data Science.&#xA;发表论文 （Publications） &amp;ldquo;Robust modeling of the multi-depot vehicle routing problem under uncertain demands&amp;rdquo;, with Jinqing Li, accepted to 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024). Web link&#xA;&amp;ldquo;Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling&amp;rdquo;, Y. Han, Q. Qi, N. Li and J. Li, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp.</description>
     </item>
     <item>
       <title>Online and Matching-Based Market Design</title>

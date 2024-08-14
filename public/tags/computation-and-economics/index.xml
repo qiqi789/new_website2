@@ -6,8 +6,15 @@
     <description>Recent content in Computation and Economics on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/tags/computation-and-economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Game Theory, Data Science, courses, conferences, journals, and books</title>
+      <link>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
+      <description>Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&#xA;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&#xA;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&#xA;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&#xA;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.</description>
+    </item>
     <item>
       <title>Algorithms and Game Theory</title>
       <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
