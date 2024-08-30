@@ -19,7 +19,6 @@ slug: research
 
 <!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. -->
 
-
 ## 发表论文 （Publications）
 
 * "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han, accepted to Journal of PeerJ Computer Science, 2024.
@@ -34,28 +33,28 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted to 2024 9th In
 * "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", Y. Han, Q. Qi, N. Li and J. Li,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. [Web link](https://ieeexplore.ieee.org/document/10476145)
 
 
-* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Q. Liu, Q. Qi and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
+* "A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy", with Q. Liu, and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
 
-* Q. Liu, Q. Qi and N. Li, "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
+* "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," with Q. Liu, and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
 
-* "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
+* "SLEO: An efficient Equilibrium Optimizer for numerical optimization", with Q. Liu, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
 
-* "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem," Q. Liu, H. Jia, D. Wu, N. Li, Q. Qi and X. Huang, 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
+* "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem," with Q. Liu, H. Jia, and etc., 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
 
-* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 李霓, 贾鹤鸣，齐琦，智能系统学报,2024,19(2):381-391. [Web link](https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202205018)。
+* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 贾鹤鸣，等，智能系统学报,2024,19(2):381-391. [Web link](https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202205018)。
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
 
-* “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 齐琦, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
+* “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
 
-* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
+* "A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems", with Liu Q., Li N., Jia H., Abualigah L., Liu Y., Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
 
-* Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)（ESI高被引，Editor's choice)
+* "Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation", Q. Liu, N. Li, H. Jia, L. Abualigah, Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)（ESI高被引，Editor's choice)
 
-* X. -W. Lin, N. Li and Q. Qi, "Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms," 2021 IEEE 7th Int Conf on Data Science & Systems (DSS), 2021, pp. 1259-1264, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192).
+* "Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms," X. -W. Lin, N. Li and Q. Qi, 2021 IEEE 7th Int Conf on Data Science & Systems (DSS), 2021, pp. 1259-1264, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192).
 
-* Q. Liu, Q. Qi, H. Jia and N. Li, "An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems," 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (DependSys), 2021, pp. 1996-2003, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298).
+* "An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems," Q. Liu, Q. Qi, H. Jia and N. Li, 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (DependSys), 2021, pp. 1996-2003, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298).
 
 * "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期。 [Web link](https://www.arocmag.com/abs/2021.07.0264)
 
