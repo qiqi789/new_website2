@@ -17,6 +17,8 @@ slug: research
 
 - 机器学习，数据科学。Machine Learning; Data Science.
 
+* 计算与经济。 Computation and Economics.
+
 <!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. -->
 
 ## 发表论文 （Publications）
