@@ -37,3 +37,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [ACM Transactions on Economics and Computation](https://dl.acm.org/journal/teac)
 
 [International Symposium on Algorithmic Game Theory](https://link.springer.com/conference/sagt)
+
+[Robert Schapire's publication list](http://rob.schapire.net/publist.html)
