@@ -38,6 +38,8 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 
 [International Symposium on Algorithmic Game Theory](https://link.springer.com/conference/sagt)
 
+[Vijay V. Vazirani's publication](https://ics.uci.edu/~vazirani/)
+
 [Robert Schapire's publication list](http://rob.schapire.net/publist.html)
 
 [Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
