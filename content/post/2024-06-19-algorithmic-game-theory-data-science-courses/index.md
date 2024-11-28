@@ -43,3 +43,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Robert Schapire's publication list](http://rob.schapire.net/publist.html)
 
 [Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
+
+[Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
