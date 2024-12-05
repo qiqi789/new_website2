@@ -2,7 +2,7 @@
 title: Algorithmic Game Theory, Data Science, courses, conferences, journals, and books
 author: ''
 date: '2024-06-19'
-lastmod: '2024-10-28'
+lastmod: '2024-12-05'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -45,3 +45,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
 
 [Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
+
+[Games and Equilibria in System Design and Analysis, Simons Institute workshop](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
