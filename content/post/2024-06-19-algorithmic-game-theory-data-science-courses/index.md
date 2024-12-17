@@ -47,3 +47,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
 
 [Games and Equilibria in System Design and Analysis, Simons Institute workshop](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
+
+[Takayuki Ito's publications](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research)
