@@ -28,6 +28,8 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 
 [TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)](https://home.ttic.edu/~avrim/Toolkit23/)
 
+[CMU - Foundations of Machine Learning and Data Science](https://www.cs.cmu.edu/~ninamf/courses/806/)
+
 [COURSE: CS 15-892 Foundations of Electronic Marketplaces](https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm)
 
 [Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~./15281/)
