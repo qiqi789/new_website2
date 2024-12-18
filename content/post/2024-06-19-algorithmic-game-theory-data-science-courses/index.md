@@ -49,3 +49,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Games and Equilibria in System Design and Analysis, Simons Institute workshop](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
 
 [Takayuki Ito's publications](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research)
+
+[Advanced Combinatorial Optimization course by Michel Goemans](https://math.mit.edu/~goemans/18455-2020SP.html)
