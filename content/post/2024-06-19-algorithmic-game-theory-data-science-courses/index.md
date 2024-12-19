@@ -2,7 +2,7 @@
 title: Algorithmic Game Theory, Data Science, courses, conferences, journals, and books
 author: ''
 date: '2024-06-19'
-lastmod: '2024-12-05'
+lastmod: '2024-12-19'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -53,3 +53,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Takayuki Ito's publications](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research)
 
 [Advanced Combinatorial Optimization course by Michel Goemans](https://math.mit.edu/~goemans/18455-2020SP.html)
+
+[Satoru Iwata's lectures and publications](https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/)
