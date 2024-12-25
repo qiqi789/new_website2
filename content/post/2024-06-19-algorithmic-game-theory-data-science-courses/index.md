@@ -55,3 +55,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Advanced Combinatorial Optimization course by Michel Goemans](https://math.mit.edu/~goemans/18455-2020SP.html)
 
 [Satoru Iwata's lectures and publications](https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/)
+
+[ACM-SIAM Symposium on Discrete Algorithms (SODA)](https://epubs.siam.org/action/showPublications?pubType=proceedings&category=10.1555/category.40105908&expand=10.1555/category.40105908)
