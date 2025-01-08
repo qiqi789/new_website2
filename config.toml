@@ -57,6 +57,7 @@ hasCJKLanguage = true
     math = true # for introducing $KaTEX$
     env = "production" # for Google Analytics and DISQUS.
     useChineseFonts = true # for font Noto Serif etc.
+    postDateFormat = "2006-1-2" # override custom date format posts.
     
     images = ['photo_mit_3.png']
     
@@ -64,7 +65,7 @@ hasCJKLanguage = true
     mainSection = "research"
     
     showAllPostsOnHomePage = false
-    postsOnHomePage = 21
+    #postsOnHomePage = 21
     mainSections = ['post', 'courses', 'research']
     tagsOverview = true
     showAllPostsArchive = true # or false (default)
