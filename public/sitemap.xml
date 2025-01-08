@@ -2,207 +2,209 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/algorithmic-games/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/algorithmic-games/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/computation-and-economics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/computation-and-economics/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/reference/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/reference/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/art/</loc>
+    <loc>http://localhost:4321/tags/art/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/art/</loc>
+    <loc>http://localhost:4321/categories/art/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/05/08/art-science/</loc>
+    <loc>http://localhost:4321/2024/05/08/art-science/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/inspiration/</loc>
+    <loc>http://localhost:4321/categories/inspiration/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/04/26/new-directions-in-market-design/</loc>
+    <loc>http://localhost:4321/2024/04/26/new-directions-in-market-design/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/research/</loc>
+    <loc>http://localhost:4321/categories/research/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</loc>
+    <loc>http://localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</loc>
+    <loc>http://localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</loc>
+    <loc>http://localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</loc>
+    <loc>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/combinatorics/</loc>
+    <loc>http://localhost:4321/tags/combinatorics/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/scholars/</loc>
+    <loc>http://localhost:4321/tags/scholars/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/turing-award/</loc>
+    <loc>http://localhost:4321/tags/turing-award/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</loc>
+    <loc>http://localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/math/</loc>
+    <loc>http://localhost:4321/tags/math/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/simons/</loc>
+    <loc>http://localhost:4321/tags/simons/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/04/03/wolfram-alpha/</loc>
+    <loc>http://localhost:4321/2024/04/03/wolfram-alpha/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/workshop/</loc>
+    <loc>http://localhost:4321/tags/workshop/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/matching/</loc>
+    <loc>http://localhost:4321/tags/matching/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/math/</loc>
+    <loc>http://localhost:4321/categories/math/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</loc>
+    <loc>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</loc>
+    <loc>http://localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</loc>
+    <loc>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</loc>
+    <loc>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</loc>
+    <loc>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/reference/</loc>
+    <loc>http://localhost:4321/tags/reference/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/research/</loc>
+    <loc>http://localhost:4321/tags/research/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</loc>
+    <loc>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</loc>
     <lastmod>2023-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</loc>
+    <loc>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</loc>
+    <loc>http://localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</loc>
+    <loc>http://localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/12/06/matching-related-references/</loc>
+    <loc>http://localhost:4321/2023/12/06/matching-related-references/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/11/21/algorithms-and-game-theory/</loc>
+    <loc>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/literature/</loc>
+    <loc>http://localhost:4321/tags/literature/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/market-design/</loc>
+    <loc>http://localhost:4321/tags/market-design/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</loc>
+    <loc>http://localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/research/</loc>
+    <loc>http://localhost:4321/research/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</loc>
+    <loc>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/10/30/ccf-ce-competition/</loc>
+    <loc>http://localhost:4321/2023/10/30/ccf-ce-competition/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</loc>
+    <loc>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</loc>
+    <loc>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</loc>
+    <loc>http://localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2023/10/30/research-scholars/</loc>
+    <loc>http://localhost:4321/2023/10/30/research-scholars/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/ai/</loc>
+    <loc>http://localhost:4321/tags/ai/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/ai/</loc>
+    <loc>http://localhost:4321/categories/ai/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/courses/</loc>
+    <loc>http://localhost:4321/courses/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/lectures/</loc>
+    <loc>http://localhost:4321/tags/lectures/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/courses/ai/2023_spring/</loc>
+    <loc>http://localhost:4321/courses/ai/2023_spring/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</loc>
+    <loc>http://localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2022/11/08/test-new-post/</loc>
+    <loc>http://localhost:4321/2022/11/08/test-new-post/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/graduate/</loc>
+    <loc>http://localhost:4321/tags/graduate/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/advisees/</loc>
+    <loc>http://localhost:4321/advisees/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/courses/ai/2022-spring/</loc>
+    <loc>http://localhost:4321/courses/ai/2022-spring/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/about/</loc>
+    <loc>http://localhost:4321/about/</loc>
     <lastmod>2019-11-19T10:00:51-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/courses/ai/2019-fall/ai/</loc>
+    <loc>http://localhost:4321/courses/ai/2019-fall/ai/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/venues/</loc>
+    <loc>http://localhost:4321/venues/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/news/</loc>
+    <loc>http://localhost:4321/categories/news/</loc>
     <lastmod>2018-05-26T08:33:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</loc>
+    <loc>http://localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</loc>
     <lastmod>2018-05-26T08:33:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/contact/</loc>
+    <loc>http://localhost:4321/contact/</loc>
+  </url><url>
+    <loc>http://localhost:4321/series/</loc>
   </url>
 </urlset>

@@ -2,32 +2,619 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/courses/</link>
+    <link>http://localhost:4321/courses/</link>
     <description>Recent content in Courses on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>人工智能导论（2023 春季）</title>
-      <link>//localhost:4321/courses/ai/2023_spring/</link>
+      <link>http://localhost:4321/courses/ai/2023_spring/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2023_spring/</guid>
-      <description>人工智能 2023春季学期 作业 作业1 . 参考答案 作业2 . 参考答案 作业3 . 参考答案 作业4 . 参考答案 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 part1 , part2 9 增强学习算法 第21章 part1 , part2 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 part1 , part2, part3 , part4 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 part1 , part2 14 机器学习：朴素贝叶斯 第18.</description>
+      
+      <guid>http://localhost:4321/courses/ai/2023_spring/</guid>
+      <description>&lt;h1 id=&#34;人工智能-2023春季学期&#34;&gt;人工智能 2023春季学期&lt;/h1&gt;
+&lt;h2 id=&#34;作业&#34;&gt;作业&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw1.pdf&#34;&gt;作业1&lt;/a&gt; . &lt;a href=&#34;hw/sol1.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw2.pdf&#34;&gt;作业2&lt;/a&gt; . &lt;a href=&#34;hw/sol2.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw3.pdf&#34;&gt;作业3&lt;/a&gt; . &lt;a href=&#34;hw/sol3.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw4.pdf&#34;&gt;作业4&lt;/a&gt; . &lt;a href=&#34;hw/sol4.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw5.pdf&#34;&gt;作业5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td&gt;马尔科夫决策过程&lt;/td&gt;
+          &lt;td&gt;第17章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture8-mdps-part1.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture8-mdps-part2.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td&gt;增强学习算法&lt;/td&gt;
+          &lt;td&gt;第21章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture-9-reinforcement-learning-i.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture-9-reinforcement-learning-ii.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;
+          &lt;td&gt;概率和贝叶斯推理&lt;/td&gt;
+          &lt;td&gt;第13章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture10-probability.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
+          &lt;td&gt;贝叶斯网络&lt;/td&gt;
+          &lt;td&gt;第14章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture11-BN-representation.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture12-BNs-Independence.pdf&#34;&gt;part2&lt;/a&gt;, &lt;a href=&#34;../slides/lecture13-BN-Inference.pdf&#34;&gt;part3&lt;/a&gt; , &lt;a href=&#34;../slides/lecture14-BN-sampling.pdf&#34;&gt;part4&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12&lt;/td&gt;
+          &lt;td&gt;决策网络和信息价值&lt;/td&gt;
+          &lt;td&gt;第16章5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture15-decision-diagrams-and-vpis.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
+          &lt;td&gt;隐式马尔科夫模型，粒子滤波&lt;/td&gt;
+          &lt;td&gt;第15章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture16-hmm.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture17-hmm-filtering.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14&lt;/td&gt;
+          &lt;td&gt;机器学习：朴素贝叶斯&lt;/td&gt;
+          &lt;td&gt;第18.1,18.2,18.4章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture18-ML-Naive-Bayes.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15&lt;/td&gt;
+          &lt;td&gt;机器学习：感知机，逻辑斯特回归&lt;/td&gt;
+          &lt;td&gt;第18.6章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16&lt;/td&gt;
+          &lt;td&gt;机器学习：优化方法，神经网络模型&lt;/td&gt;
+          &lt;td&gt;第18.6,18.7章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;推荐的教材和阅读&#34;&gt;推荐的教材和阅读&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vazirani, Vijay V. 2001. Approximation algorithms (Springer: Berlin ; New York).&lt;/li&gt;
+&lt;li&gt;Shalev-Shwartz, Shai, and Shai Ben-David. 2014. Understanding machine learning : from theory to algorithms (Cambridge University Press: New York, NY, USA).&lt;/li&gt;
+&lt;li&gt;Boyd, Stephen P., and Lieven Vandenberghe. 2004. Convex optimization (Cambridge University Press: Cambridge, UK ; New York).&lt;/li&gt;
+&lt;li&gt;Ben-Tal, A., Laurent El Ghaoui, and A. S. Nemirovskiĭ. 2009. Robust optimization (Princeton University Press: Princeton).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>人工智能导论（2022 春季）</title>
-      <link>//localhost:4321/courses/ai/2022-spring/</link>
+      <link>http://localhost:4321/courses/ai/2022-spring/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2022-spring/</guid>
-      <description>内容提纲 序号 内容提纲 对应章节 幻灯片、作业 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf ；作业1 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf; 作业2 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 课本参考：&#xA;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009. </description>
+      
+      <guid>http://localhost:4321/courses/ai/2022-spring/</guid>
+      <description>&lt;h3 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片、作业&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt; ；&lt;a href=&#34;../hw/hw1.docx&#34;&gt;作业1&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;; &lt;a href=&#34;../hw/hw2.docx&#34;&gt;作业2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>AI lecture</title>
-      <link>//localhost:4321/courses/ai/2019-fall/ai/</link>
+      <link>http://localhost:4321/courses/ai/2019-fall/ai/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2019-fall/ai/</guid>
-      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&#xA;2019/12/2 作业6，已经贴出。&#xA;2019/11/25 作业5，已经贴出。&#xA;2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。&#xA;作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
+      
+      <guid>http://localhost:4321/courses/ai/2019-fall/ai/</guid>
+      <description>&lt;h2 id=&#34;人工智能-2019秋季&#34;&gt;人工智能 （2019秋季）&lt;/h2&gt;
+&lt;h3 id=&#34;更新通知&#34;&gt;更新通知&lt;/h3&gt;
+&lt;h4 id=&#34;2019129&#34;&gt;2019/12/9&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;2019122&#34;&gt;2019/12/2&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业6，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;20191125&#34;&gt;2019/11/25&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业5，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;20191118&#34;&gt;2019/11/18&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业1，2，3（作业1-3是往年的），4，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;作业&#34;&gt;作业&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW1.pdf&#34;&gt;作业1&lt;/a&gt;, &lt;a href=&#34;hw/HW1_solution_publish.pdf&#34;&gt;答案1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW2.pdf&#34;&gt;作业2&lt;/a&gt;, &lt;a href=&#34;hw/HW2_solution_publish.pdf&#34;&gt;答案2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW3.pdf&#34;&gt;作业3&lt;/a&gt;, &lt;a href=&#34;hw/HW3_solution_publish.pdf&#34;&gt;答案3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW4.pdf&#34;&gt;作业4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW5.pdf&#34;&gt;作业5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW6.pdf&#34;&gt;作业6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;内容安排&#34;&gt;内容安排&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;顺序&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;内容标题&lt;/th&gt;
+          &lt;th&gt;阅读书上章节&lt;/th&gt;
+          &lt;th&gt;幻灯片&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;人工智能简介；课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，和26.3,27.4&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture1.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture2.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;基础搜索算法；A星搜索和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture3.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture4.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;博弈问题&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture5.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;约束满足问题&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture6.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、6.1和第7节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture7.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;马可夫决策过程 (MDP)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture8-mdps-part1.pptx&#34;&gt;ppt-part1&lt;/a&gt;, &lt;a href=&#34;slides/lecture8-mdps-part2.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;强化学习 (Reinforcement learning)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture-9-reinforcement-learning-i.pptx&#34;&gt;ppt-part1&lt;/a&gt;, &lt;a href=&#34;slides/lecture-9-reinforcement-learning-ii.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;概率（贝叶斯）推理&lt;/td&gt;
+          &lt;td&gt;第13章第1-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture10-probability.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：语法和语义&lt;/td&gt;
+          &lt;td&gt;第14章第1-4节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture11-BN representation.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：D分离&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture12 - BNs Independence.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：精确推断&lt;/td&gt;
+          &lt;td&gt;第14章第1-4节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture13 - BN Inference.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：近似推理（采样）&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture14 - BN sampling.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;决策网络与信息价值&lt;/td&gt;
+          &lt;td&gt;第16章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture15-decision-diagrams-and-vpis.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;马科夫模型，粒子滤波&lt;/td&gt;
+          &lt;td&gt;第15章第1-3节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture16-hmm.pptx&#34;&gt;ppt-part1&lt;/a&gt; , &lt;a href=&#34;slides/lecture17-hmm-filtering.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：朴素贝叶斯模型&lt;/td&gt;
+          &lt;td&gt;第20章第1-2节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture18 ML-naive bayes.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：感知机，逻辑斯特回归&lt;/td&gt;
+          &lt;td&gt;第18章第6，8节&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：优化方法，人工神经网络&lt;/td&gt;
+          &lt;td&gt;第18章第6，8节&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;课程信息&#34;&gt;课程信息&lt;/h3&gt;
+&lt;h4 id=&#34;课本参考&#34;&gt;课本参考：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;以往课程网页&#34;&gt;以往课程网页&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;AI/archive/2017fall/AI&#34;&gt;2017 秋季学期&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;AI/archive/2016fall/AI&#34;&gt;2016 秋季学期&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;数学参考&#34;&gt;数学参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mathworld.wolfram.com/&#34;&gt;Wolfram mathworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathwarehouse.com/&#34;&gt;Math Warehouse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;机器学习参考&#34;&gt;机器学习参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!categories/ml-news/cfp&#34;&gt;Machine learning group&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/learning-theory&#34;&gt;COLT (Computational Learning Theory) group&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://opt-ml.org/&#34;&gt;NIPS workshops on optimization for machine learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.nips.cc/&#34;&gt;NIPS papers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/competitions&#34;&gt;Kaggle competitions&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/datasets&#34;&gt;Kaggle datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.chalearn.org/challenges.html&#34;&gt;Challenges in machine learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://competitions.codalab.org/&#34;&gt;Competitions at Codalab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.csmining.org/cdmc2017/&#34;&gt;Cybersecurity data mining competition 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdnuggets.com/&#34;&gt;kdnuggets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.google.com/communities/107785538899595981479&#34;&gt;machine learning community - google+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.google.com/communities/112866381580457264725&#34;&gt;deep learning community - google+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.huji.ac.il/~shais/&#34;&gt;Shai Shalev-Shwartz&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~avrim/&#34;&gt;Avrim Blum&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.machinelearning.com/avrim&#34;&gt;http://www.machinelearning.com/avrim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/jeh/book%20June%2014,%202017pdf.pdf&#34;&gt;Foundations of Data Science, the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://data8.org/&#34;&gt;Berkeley course - The Foundations of Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inferentialthinking.com/&#34;&gt;The Foundations of Data Science, online book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs231n.github.io/&#34;&gt;Stanford course: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34;&gt;http://cs231n.stanford.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.github.io/convolutional-networks/&#34;&gt;Convolutional Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.robots.ox.ac.uk/~parg/home&#34;&gt;Machine learning research group &amp;ndash; University of Oxford&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oxford-man.ox.ac.uk/&#34;&gt;Oxford-man institute of quantitative finance&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://distill.pub/&#34;&gt;Distill pub &amp;ndash; online journal, seeking clarity in Machine Learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs229.stanford.edu/&#34;&gt;Machine learning course at Stanford&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;python-参考&#34;&gt;Python 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://conda.io/docs/commands.html&#34;&gt;Conda documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/index.html&#34;&gt;Python documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/tutorial/index.html&#34;&gt;Python tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.scipy.org/doc/numpy/&#34;&gt;Numpy manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.scipy.org/doc/numpy-1.13.0/user/numpy-for-matlab-users.html&#34;&gt;NumPy for Matlab users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.github.io/python-numpy-tutorial/&#34;&gt;Numpy tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cvxopt.org/userguide/index.html&#34;&gt;CVXOPT user&amp;rsquo;s guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Python data analysis library &amp;ndash; pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pytorch.org/&#34;&gt;pytorch, tensors and dynamic neural nets in python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keras.io/&#34;&gt;Keras &amp;ndash; Python Deep Learning library (high level)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.keras.io/index.html&#34;&gt;Keras blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;scala-参考&#34;&gt;Scala 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala main website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;写作工具&#34;&gt;写作工具&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom, a modern text editor(for markdown, Scala, etc.)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shd101wyy.github.io/markdown-preview-enhanced/&#34;&gt;Markdown Preview Enhanced&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texts.io/&#34;&gt;Texts, a rich editor for markdown (purchase)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rmarkdown.rstudio.com/authoring_basics.html&#34;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sharelatex.com/learn/Main_Page&#34;&gt;Latex online guidance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gnuplot.info/&#34;&gt;Gnuplot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://endnote.com/&#34;&gt;EndNote - managing bibliographies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bibdesk.sourceforge.net/&#34;&gt;BibDesk - MAC BIBLIOGRAPHY MANAGER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nschloe/betterbib&#34;&gt;betterbib - python tool for bib conversion according to crossRef or DBLP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;r-参考&#34;&gt;R 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science (an online book)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参考&#34;&gt;参考&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aispace.org/index.shtml&#34;&gt;AI Space &amp;ndash; Tools for Learning Artificial Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://playground.tensorflow.org/&#34;&gt;Neural Networks demos in browser&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fast.ai/&#34;&gt;fast.ai. neural nets, deep learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://livebooklabs.com/keeppies/c5a5868ce26b8125&#34;&gt;LiveBook: Optimization models and
+applications&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://inst.eecs.berkeley.edu/~ee127a/book/login/l_intro_main.html&#34;&gt;HyperText-book: Optimization Models -
+Berkeley&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.harchaoui.eu/zaid/teaching/nyu/fall2015/&#34;&gt;Computational Machine Learning - NYU
+course&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.ubc.ca/~nando/340-2012/lectures.php&#34;&gt;Machine learning and Data mining &amp;ndash; CPSC
+340&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/artificial-intelligence-2/&#34;&gt;Techcrunch - AI news&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cmr.berkeley.edu/blog/2016/6/ai/&#34;&gt;How Artificial Intelligence is Reshaping
+Management&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umass.edu/newsoffice/article/deep-learning-helps-map-mars-and-analyze&#34;&gt;Deep Learning Helps to Map Mars and Analyze its Surface
+Chemistry&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umass.edu/newsoffice/article/software-beat-world%E2%80%99s-best-human-%E2%80%98go%E2%80%99&#34;&gt;Software That Beat World’s Best Human ‘Go’ Player Has Roots in UMass
+Amherst Computer
+Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.msn.com/en-us/news/technology/artificial-intelligence-just-made-a-huge-leap-in-warfare/ar-AAhJK16?ocid=UE01DHP&#34;&gt;Artificial intelligence just made a huge leap in
+warfare&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.bbc.com/news/technology-30290540&#34;&gt;Stephen Hawking warns artificial intelligence could end
+mankind&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2014/10/future-of-artificial-intelligence&#34;&gt;The Three Breakthroughs That Have Finally Unleashed AI on the
+World&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aispace.org/index.shtml&#34;&gt;Tools for Learning Artificial
+Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aaai.org/AILandscape&#34;&gt;AI Landscape&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.acm.org/education/CS2013-final-report.pdf&#34;&gt;ACM&amp;rsquo;s Computer Science 2013: Curriculum Guidelines for Undergraduate
+Programs in Computer
+Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/0199678111?tag=viglink20784-20&amp;amp;pldnSite=1&#34;&gt;Book: Superintelligence, Nick
+Bostrom&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/bestsellers/books/491300/ref=zg_b_bs_491300_1&#34;&gt;Best sellers in Artificial
+Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://intelligence.org&#34;&gt;Machine intellience research institute&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://lesswrong.com/r/discussion/&#34;&gt;Less Wrong Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf&#34;&gt;I, algorithm: A new dawn for artificial
+intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;ML/&#34;&gt;machine learning resources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

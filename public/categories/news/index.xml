@@ -2,18 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/categories/news/</link>
+    <link>http://localhost:4321/categories/news/</link>
     <description>Recent content in News on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Sat, 26 May 2018 08:33:49 +0800</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>优秀毕业设计-2018</title>
-      <link>//localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
+      <link>http://localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
       <pubDate>Sat, 26 May 2018 08:33:49 +0800</pubDate>
-      <guid>//localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
-      <description>在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：&#xA;张孟杰，题目是“液化气体库存路径问题分析” \ 商乔，“基于自然语言处理技术的动漫手机助手” \ 李俊颉，“计算机视觉中人脸识别算法研究”&#xA;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 qqi@hainanu.edu.cn )。让我们一起讨论可能的合作机会与前景。</description>
+      
+      <guid>http://localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
+      <description>&lt;p&gt;在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：&lt;/p&gt;
+&lt;p&gt;张孟杰，题目是“液化气体库存路径问题分析” \
+商乔，“基于自然语言处理技术的动漫手机助手” \
+李俊颉，“计算机视觉中人脸识别算法研究”&lt;/p&gt;
+&lt;p&gt;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt; )。让我们一起讨论可能的合作机会与前景。&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

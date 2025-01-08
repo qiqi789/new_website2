@@ -2,46 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scholars on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/scholars/</link>
+    <link>http://localhost:4321/tags/scholars/</link>
     <description>Recent content in Scholars on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/scholars/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4321/tags/scholars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award</title>
-      <link>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
+      <link>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
-      <description>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#xA;Randomness in computation wins computer-science ‘Nobel’ https://www.nature.com/articles/d41586-024-01055-y&#xA;Avi Wigderson&amp;rsquo;s Website&#xA;https://www.math.ias.edu/avi/&#xA;His book: Mathematics and Computation&#xA;https://www.math.ias.edu/avi/book&#xA;Abel Prize celebrates union of mathematics and computer science The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&#xA;https://www.nature.com/articles/d41586-021-00694-9</description>
+      
+      <guid>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
+      <description>&lt;h2 id=&#34;avi-wigderson-complexity-theory-pioneer-wins-turing-award&#34;&gt;Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#34;&gt;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;randomness-in-computation-wins-computer-science-nobel&#34;&gt;&lt;strong&gt;Randomness in computation wins computer-science ‘Nobel’&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-024-01055-y&#34;&gt;https://www.nature.com/articles/d41586-024-01055-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Avi Wigderson&amp;rsquo;s Website&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/&#34;&gt;https://www.math.ias.edu/avi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;His book: Mathematics and Computation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/book&#34;&gt;https://www.math.ias.edu/avi/book&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abel-prize-celebrates-union-of-mathematics-and-computer-science&#34;&gt;&lt;strong&gt;Abel Prize celebrates union of mathematics and computer science&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-021-00694-9&#34;&gt;https://www.nature.com/articles/d41586-021-00694-9&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Abel interview 2021: László Lovász and Avi Wigderson</title>
-      <link>//localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
+      <link>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
-      <description>Abel interview 2021: László Lovász and Avi Wigderson https://euromathsoc.org/magazine/articles/54&#xA;2023 Interview with László Lovász Interview with László Lovász&#xA;https://euromathsoc.org/magazine</description>
+      
+      <guid>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
+      <description>&lt;h2 id=&#34;abel-interview-2021-lászló-lovász-and-avi-wigderson&#34;&gt;Abel interview 2021: László Lovász and Avi Wigderson&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/54&#34;&gt;https://euromathsoc.org/magazine/articles/54&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2023-interview-with-lászló-lovász&#34;&gt;&lt;strong&gt;2023 Interview with László Lovász&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/157&#34;&gt;Interview with László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine&#34;&gt;https://euromathsoc.org/magazine&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him</title>
-      <link>//localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
+      <link>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
-      <description>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him From the International Olympiad in Informatics Journal Vol 17, 2023</description>
+      
+      <guid>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
+      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-himhttpsioitelvoipdfv17_2023_3_18pdf&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ioi.te.lv/oi_content_v17.shtml&#34;&gt;From the International Olympiad in Informatics Journal Vol 17, 2023&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>László Lovász: Working mathematical miracles</title>
-      <link>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
+      <link>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
-      <description>László Lovász: Working mathematical miracles&#xA;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#xA;Pioneering Graph Theory – László Lovász&#xA;Selected topics in graph theory&#xA;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#xA;https://lovasz.web.elte.hu//kurzusok/&#xA;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, Heidelberg Laureate Forum https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#xA;Why People Hate Maths, and Why You Should Love It&#xA;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/</description>
+      
+      <guid>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
+      <description>&lt;p&gt;László Lovász: Working mathematical miracles&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#34;&gt;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/pioneering-graph-theory-laszlo-lovasz/&#34;&gt;Pioneering Graph Theory – László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Selected topics in graph theory&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#34;&gt;https://lovasz.web.elte.hu//kurzusok/limit2023.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/&#34;&gt;https://lovasz.web.elte.hu//kurzusok/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, &lt;a href=&#34;https://scilogs.spektrum.de/hlf&#34; title=&#34;Go to Heidelberg Laureate Forum.&#34;&gt;Heidelberg Laureate Forum&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#34;&gt;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why People Hate Maths, and Why You Should Love It&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&#34;&gt;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Reference bookmarks -- scholars webpages</title>
-      <link>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
+      <link>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
-      <description>Online reference bookmarks https://ics.uci.edu/~vazirani/&#xA;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V https://home.ttic.edu/~avrim/Papers/pubs.html&#xA;https://www.cs.cornell.edu/home/kleinber/&#xA;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu) https://tibshirani.su.domains/index.html&#xA;https://tibshirani.su.domains/research_page.html&#xA;https://tibshirani.su.domains/research.html&#xA;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#xA;https://people.eecs.berkeley.edu/~jordan/publications.html&#xA;http://www.columbia.edu/~cs2035/&#xA;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#xA;https://fan.princeton.edu/fan/classes/525.html&#xA;https://rdpeng.org/ (R, Statistics, and Data Sciences)&#xA;https://www.cis.upenn.edu/~aaroth/&#xA;https://ericbudish.org/&#xA;https://stanford.edu/~jacobfox/&#xA;https://www.its.caltech.edu/~dconlon/&#xA;Matching https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;http://www.columbia.edu/~yf2414/research.html</description>
+      
+      <guid>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
+      <description>&lt;h1 id=&#34;online-reference-bookmarks&#34;&gt;Online reference bookmarks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&#34;&gt;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Papers/pubs.html&#34;&gt;https://home.ttic.edu/~avrim/Papers/pubs.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/kleinber/&#34;&gt;https://www.cs.cornell.edu/home/kleinber/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs1340/2022sp/&#34;&gt;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/index.html&#34;&gt;https://tibshirani.su.domains/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research_page.html&#34;&gt;https://tibshirani.su.domains/research_page.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research.html&#34;&gt;https://tibshirani.su.domains/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#34;&gt;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/publications.html&#34;&gt;https://people.eecs.berkeley.edu/~jordan/publications.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/&#34;&gt;http://www.columbia.edu/~cs2035/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#34;&gt;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fan.princeton.edu/fan/classes/525.html&#34;&gt;https://fan.princeton.edu/fan/classes/525.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://rdpeng.org/&#34;&gt;https://rdpeng.org/ (R, Statistics, and Data Sciences)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/&#34;&gt;https://www.cis.upenn.edu/~aaroth/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ericbudish.org/&#34;&gt;https://ericbudish.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stanford.edu/~jacobfox/&#34;&gt;https://stanford.edu/~jacobfox/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.its.caltech.edu/~dconlon/&#34;&gt;https://www.its.caltech.edu/~dconlon/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matching&#34;&gt;Matching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

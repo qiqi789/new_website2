@@ -2,25 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/ai/</link>
+    <link>http://localhost:4321/tags/ai/</link>
     <description>Recent content in AI on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>人工智能导论（2023 春季）</title>
-      <link>//localhost:4321/courses/ai/2023_spring/</link>
+      <link>http://localhost:4321/courses/ai/2023_spring/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2023_spring/</guid>
-      <description>人工智能 2023春季学期 作业 作业1 . 参考答案 作业2 . 参考答案 作业3 . 参考答案 作业4 . 参考答案 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 part1 , part2 9 增强学习算法 第21章 part1 , part2 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 part1 , part2, part3 , part4 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 part1 , part2 14 机器学习：朴素贝叶斯 第18.</description>
+      
+      <guid>http://localhost:4321/courses/ai/2023_spring/</guid>
+      <description>&lt;h1 id=&#34;人工智能-2023春季学期&#34;&gt;人工智能 2023春季学期&lt;/h1&gt;
+&lt;h2 id=&#34;作业&#34;&gt;作业&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw1.pdf&#34;&gt;作业1&lt;/a&gt; . &lt;a href=&#34;hw/sol1.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw2.pdf&#34;&gt;作业2&lt;/a&gt; . &lt;a href=&#34;hw/sol2.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw3.pdf&#34;&gt;作业3&lt;/a&gt; . &lt;a href=&#34;hw/sol3.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw4.pdf&#34;&gt;作业4&lt;/a&gt; . &lt;a href=&#34;hw/sol4.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw5.pdf&#34;&gt;作业5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td&gt;马尔科夫决策过程&lt;/td&gt;
+          &lt;td&gt;第17章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture8-mdps-part1.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture8-mdps-part2.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td&gt;增强学习算法&lt;/td&gt;
+          &lt;td&gt;第21章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture-9-reinforcement-learning-i.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture-9-reinforcement-learning-ii.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;
+          &lt;td&gt;概率和贝叶斯推理&lt;/td&gt;
+          &lt;td&gt;第13章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture10-probability.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
+          &lt;td&gt;贝叶斯网络&lt;/td&gt;
+          &lt;td&gt;第14章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture11-BN-representation.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture12-BNs-Independence.pdf&#34;&gt;part2&lt;/a&gt;, &lt;a href=&#34;../slides/lecture13-BN-Inference.pdf&#34;&gt;part3&lt;/a&gt; , &lt;a href=&#34;../slides/lecture14-BN-sampling.pdf&#34;&gt;part4&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12&lt;/td&gt;
+          &lt;td&gt;决策网络和信息价值&lt;/td&gt;
+          &lt;td&gt;第16章5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture15-decision-diagrams-and-vpis.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
+          &lt;td&gt;隐式马尔科夫模型，粒子滤波&lt;/td&gt;
+          &lt;td&gt;第15章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture16-hmm.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture17-hmm-filtering.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14&lt;/td&gt;
+          &lt;td&gt;机器学习：朴素贝叶斯&lt;/td&gt;
+          &lt;td&gt;第18.1,18.2,18.4章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture18-ML-Naive-Bayes.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15&lt;/td&gt;
+          &lt;td&gt;机器学习：感知机，逻辑斯特回归&lt;/td&gt;
+          &lt;td&gt;第18.6章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16&lt;/td&gt;
+          &lt;td&gt;机器学习：优化方法，神经网络模型&lt;/td&gt;
+          &lt;td&gt;第18.6,18.7章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;推荐的教材和阅读&#34;&gt;推荐的教材和阅读&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vazirani, Vijay V. 2001. Approximation algorithms (Springer: Berlin ; New York).&lt;/li&gt;
+&lt;li&gt;Shalev-Shwartz, Shai, and Shai Ben-David. 2014. Understanding machine learning : from theory to algorithms (Cambridge University Press: New York, NY, USA).&lt;/li&gt;
+&lt;li&gt;Boyd, Stephen P., and Lieven Vandenberghe. 2004. Convex optimization (Cambridge University Press: Cambridge, UK ; New York).&lt;/li&gt;
+&lt;li&gt;Ben-Tal, A., Laurent El Ghaoui, and A. S. Nemirovskiĭ. 2009. Robust optimization (Princeton University Press: Princeton).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>人工智能导论（2022 春季）</title>
-      <link>//localhost:4321/courses/ai/2022-spring/</link>
+      <link>http://localhost:4321/courses/ai/2022-spring/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2022-spring/</guid>
-      <description>内容提纲 序号 内容提纲 对应章节 幻灯片、作业 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf ；作业1 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf; 作业2 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 课本参考：&#xA;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009. </description>
+      
+      <guid>http://localhost:4321/courses/ai/2022-spring/</guid>
+      <description>&lt;h3 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片、作业&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt; ；&lt;a href=&#34;../hw/hw1.docx&#34;&gt;作业1&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;; &lt;a href=&#34;../hw/hw2.docx&#34;&gt;作业2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

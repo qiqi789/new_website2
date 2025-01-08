@@ -2,25 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matching on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/matching/</link>
+    <link>http://localhost:4321/tags/matching/</link>
     <description>Recent content in Matching on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The Mathematics of László Lovász</title>
-      <link>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
+      <link>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
-      <description>The Mathematics of László Lovász</description>
+      
+      <guid>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ar5iv.labs.arxiv.org/html/2303.03148&#34;&gt;The Mathematics of László Lovász&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Matching , Graph theory, Combinatorics related references</title>
-      <link>//localhost:4321/2023/12/06/matching-related-references/</link>
+      <link>http://localhost:4321/2023/12/06/matching-related-references/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/06/matching-related-references/</guid>
-      <description>https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#xA;LP-Duality and the Cores of Games&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#xA;http://www.columbia.edu/~yf2414/research.html&#xA;http://www.columbia.edu/~yf2414/teaching.html&#xA;https://icerm.brown.edu/video_archive/?play=3027&#xA;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#xA;International Conference on Integer Programming and Combinatorial Optimization&#xA;https://yufeizhao.com/&#xA;Graph Theory and Additive Combinatorics book https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/ https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/ Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&#xA;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture</description>
+      
+      <guid>http://localhost:4321/2023/12/06/matching-related-references/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#34;&gt;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;LP-Duality and the Cores of Games&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/teaching.html&#34;&gt;http://www.columbia.edu/~yf2414/teaching.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=3027&#34;&gt;https://icerm.brown.edu/video_archive/?play=3027&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/ipco&#34;&gt;International Conference on Integer Programming and Combinatorial Optimization&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://yufeizhao.com/&#34;&gt;https://yufeizhao.com/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yufeizhao.com/gtacbook/&#34;&gt;Graph Theory and Additive Combinatorics book&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&#34;&gt;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&#34;&gt;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/erdos-shannon-story-probability-communication-combinatorics-richard-m-karp-distinguished&#34;&gt;Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/introduction-data-structures-optimization-fast-algorithms-richard-m-karp-distinguished&#34;&gt;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

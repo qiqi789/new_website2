@@ -2,39 +2,301 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/research/</link>
+    <link>http://localhost:4321/tags/research/</link>
     <description>Recent content in Research on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4321/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
-      <link>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
+      <link>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
-      <description>Optimization and Algorithm Design, Simons Institute for the Theory of Computing https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#xA;Nash Social Welfare and A Tale of Mathematical Programs Richard M. Karp Distinguished Lectures https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures</description>
+      
+      <guid>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
+      <description>&lt;h2 id=&#34;optimization-and-algorithm-design-simons-institute-for-the-theory-of-computing&#34;&gt;Optimization and Algorithm Design, Simons Institute for the Theory of Computing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28&#34;&gt;Nash Social Welfare and A Tale of Mathematical Programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;richard-m-karp-distinguished-lectures&#34;&gt;Richard M. Karp Distinguished Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Algorithms and Game Theory</title>
-      <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
-      <description>Conference International Symposium on Algorithmic Game Theory&#xA;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&#xA;Proceeding Web link SAGT 2022&#xA;SAGT 2021&#xA;SAGT 2020&#xA;SAGT 2019&#xA;SAGT 2018&#xA;SAGT 2017&#xA;SAGT 2016&#xA;SAGT 2015&#xA;SAGT 2014&#xA;SAGT 2013&#xA;SAGT 2012&#xA;SAGT 2011&#xA;SAGT 2010&#xA;SAGT 2009&#xA;SAGT 2008&#xA;ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation</description>
+      
+      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/&#34;&gt;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-43254-5&#34;&gt;Proceeding Web link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-15714-1&#34;&gt;SAGT 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-85947-3&#34;&gt;SAGT 2021&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-57980-7&#34;&gt;SAGT 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-30473-7&#34;&gt;SAGT 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-99660-8&#34;&gt;SAGT 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-66700-3&#34;&gt;SAGT 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-53354-3&#34;&gt;SAGT 2016&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-48433-3&#34;&gt;SAGT 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-44803-8&#34;&gt;SAGT 2014&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-41392-6&#34;&gt;SAGT 2013&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-33996-7&#34;&gt;SAGT 2012&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-24829-0&#34;&gt;SAGT 2011&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-16170-4&#34;&gt;SAGT 2010&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-04645-2&#34;&gt;SAGT 2009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-79309-0&#34;&gt;SAGT 2008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;Matchings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2023fa/lectures.html&#34;&gt;Algorithms core theory&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Research</title>
-      <link>//localhost:4321/research/</link>
+      <link>http://localhost:4321/research/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/</guid>
-      <description>研究方向 组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.&#xA;机器学习，数据科学。Machine Learning. Data Science.&#xA;发表论文 （Publications） &amp;ldquo;A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&amp;rdquo;, with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. Web link&#xA;&amp;ldquo;DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies&amp;rdquo;, with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024.</description>
+      
+      <guid>http://localhost:4321/research/</guid>
+      <description>&lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机器学习，数据科学。Machine Learning. Data Science.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. --&gt;
+&lt;h2 id=&#34;发表论文-publications&#34;&gt;发表论文 （Publications）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&amp;rdquo;, with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies&amp;rdquo;, with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024. &lt;a href=&#34;https://peerj.com/articles/cs-2253/&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis&amp;rdquo;, with Peng Xia, accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;An Intra-Network Multi-Teacher Distillation Method Towards
+Lightweight Knowledge Graph Completion&amp;rdquo;, with Zeyu Yang, accepted by 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). &lt;a href=&#34;https://ieeexplore.ieee.org/document/10719142&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Robust modeling of the multi-depot vehicle routing problem under uncertain demands&amp;rdquo;, with Jinqing Li, 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024). &lt;a href=&#34;https://ieeexplore.ieee.org/document/10580781&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling&amp;rdquo;, Y. Han, Q. Qi, N. Li and J. Li,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10476145&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy&amp;rdquo;, with Q. Liu, and etc., Artificial Intelligence Review (2023), &lt;a href=&#34;https://doi.org/10.1007/s10462-023-10498-0&#34;&gt;https://doi.org/10.1007/s10462-023-10498-0&lt;/a&gt;. &lt;a href=&#34;https://link.springer.com/article/10.1007/s10462-023-10498-0&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding,&amp;rdquo; with Q. Liu, and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10152600&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;SLEO: An efficient Equilibrium Optimizer for numerical optimization&amp;rdquo;, with Q. Liu, 2022 IEEE Smartworld, Ubiquitous Intelligence &amp;amp; Computing, Scalable Computing &amp;amp; Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous &amp;amp; Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10189595&#34;&gt;Web page&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem,&amp;rdquo; with Q. Liu, H. Jia, and etc., 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10054988&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;改进䲟鱼优化算法和熵测度的图像多阈值分割&amp;rdquo;, 刘庆鑫, 贾鹤鸣，等，智能系统学报,2024,19(2):381-391. &lt;a href=&#34;https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&amp;amp;id=202205018&#34;&gt;Web link&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. &lt;a href=&#34;https://rs.yiigle.com/cmaid/1456377&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. &lt;a href=&#34;http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems&amp;rdquo;, with Liu Q., Li N., Jia H., Abualigah L., Liu Y., Mathematics. 2022; 10(9):1567. &lt;a href=&#34;https://doi.org/10.3390/math10091567&#34;&gt;Web link&lt;/a&gt; （ESI高被引）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation&amp;rdquo;, Q. Liu, N. Li, H. Jia, L. Abualigah, Mathematics 2022, 10, 1014. &lt;a href=&#34;https://doi.org/10.3390/math10071014&#34;&gt;Web link&lt;/a&gt;（ESI高被引，Editor&amp;rsquo;s choice)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms,&amp;rdquo; X. -W. Lin, N. Li and Q. Qi, 2021 IEEE 7th Int Conf on Data Science &amp;amp; Systems (DSS), 2021, pp. 1259-1264, &lt;a href=&#34;https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192&#34;&gt;doi link:&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems,&amp;rdquo; Q. Liu, Q. Qi, H. Jia and N. Li, 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud &amp;amp; Big Data Systems &amp;amp; Application (DependSys), 2021, pp. 1996-2003, &lt;a href=&#34;https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298&#34;&gt;doi link:&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究&amp;rdquo;，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期。 &lt;a href=&#34;https://www.arocmag.com/abs/2021.07.0264&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Semi-supervised Learning Approach for High Dimensional Android Malware Classification&amp;rdquo;, Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3&#34;&gt;Web link&lt;/a&gt;, &lt;a href=&#34;semi-supervised-Learning-High-Dimensional-Classification-2021.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks&amp;rdquo;, Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)&lt;a href=&#34;https://www.worldscientific.com/doi/10.1142/S021819402140009X&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Classification of IoT Malware based on Convolutional Neural Network&amp;rdquo;, Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, &lt;a href=&#34;https://doi.org/10.1109/ICSS50103.2020.00016&#34;&gt;doi: 10.1109/ICSS50103.2020.00016.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Exploration of Heuristic-Based Feature Selection on Classification Problems&amp;rdquo;, Qi Q., Li N., Li W.. PAAP 2017 proceeding, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9&#34;&gt;Communications in Computer and Information Science, vol 729: 95-107&lt;/a&gt;, Springer. &lt;a href=&#34;heuristic-feature-selection-2017.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Reconstruction of metabolic pathways by combining probabilistic graphical
+model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
+Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.
+&lt;a href=&#34;http://www.biomedcentral.com/1753-6561/8/S6/S5&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;PGM-based-pathways-reconstruction-2014.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Comparison of Probabilistic Chain Graphical Model Based and Gaussian Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Q, Shang Y.，International Journal of Distributed Sensor Networks. 2011;7(1). doi:10.1155/2011/928958，&lt;a href=&#34;https://journals.sagepub.com/doi/10.1155/2011/928958&#34;&gt;Web link&lt;/a&gt;, &lt;a href=&#34;PGM-based-observation-selection_2011.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“An Improved Algorithm for Optimal Subset Selection in Chain Graphical
+Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
+2010 IEEE Congress on, pp. 1-6, 2010.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Comparing Probabilistic Graphical Model Based and Gaussian Process Based
+Selections for Predicting the Temporal Observations”, Qi Qi, Yi Shang,
+Intelligent Engineering Systems Through Artificial Neural Networks, 2010,
+vol.20, pages 621-628, ASME Press, New York, NY.
+&lt;a href=&#34;http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=316&amp;amp;sectionid=38783068&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Wireless Sensor Networks in Intelligent Transportation Systems”, Malik
+Tubaishat, Peng Zhuang, Qi Qi, and Yi Shang, Journal of Wireless
+Communications and Mobile Computing, John Wiley and Sons Ltd., 2009, Vol. 9,
+pp. 287-302.
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Model-based Traffic Prediction Using Sensor Networks”, Peng Zhuang, Qi Qi,
+and Yi Shang, In Proc. 5th IEEE Cosumer Communication and Networking
+Conference (CCNC’08), 2008, pp. 136-140.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446336&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi
+Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and
+Networking Conference (CCNC’08), 2008, pp. 702-706.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;博士论文-dissertation&#34;&gt;博士论文 （Dissertation）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;“Statistical model-based methods for observation selection in wireless
+sensor networks and for feature selection in classification.”, Qi Qi,
+University of Missouri-Columbia, 2012. &lt;a href=&#34;http://gradworks.umi.com/35/30/3530891.html&#34;&gt;ProQuest
+link&lt;/a&gt;, &lt;a href=&#34;https://mospace.umsystem.edu/xmlui/handle/10355/15111&#34;&gt;on
+MOSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主持的基金项目&#34;&gt;主持的基金项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;“面向复杂环境光伏阵列最大功率点跟踪的群智能算法研究”，海南省高等学校科学研究项目，海南省教育厅，2023-2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021-2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『国内外港口群协同发展与技术趋势分析』，中国工程科技发展战略海南研究院，2021-2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015-2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『面向大数据智能分析处理的高性能网络应用服务系统关键技术的研究』，海南省自然科学基金，2015-2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014-2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;软件著作权&#34;&gt;软件著作权&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在线数据挖掘服务平台软件 V1.0，登记号 2016SR372230, 2016.12。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文档加密软件 V1.0, 登记号2015SR169732， 2015.9。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;统计方法辅助优化英语重点单词学习记忆软件 V1.0, 登记号2014SR138325，2014.9。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+### 专业技术资格
+
+-   副研究员，计算机科学专业，2014.12
+
+-   注册信息安全工程师(CISE)，2017.1
+--&gt;
+&lt;script type=&#34;text/javascript&#34; id=&#34;clustrmaps&#34; src=&#34;//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&amp;cl=ffffff&amp;w=a&#34;&gt;&lt;/script&gt;
+</description>
     </item>
+    
     <item>
       <title>Online and Matching-Based Market Design</title>
-      <link>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <link>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
-      <description>Online and Matching-Based Market Design workshop Workshop, Oct. 2023, Simons Institute for the Theory of Computing&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs</description>
+      
+      <guid>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <description>&lt;h1 id=&#34;online-and-matching-based-market-design-workshop&#34;&gt;Online and Matching-Based Market Design workshop&lt;/h1&gt;
+&lt;p&gt;Workshop, Oct. 2023, Simons Institute for the Theory of Computing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

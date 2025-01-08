@@ -2,32 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Combinatorics on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/combinatorics/</link>
+    <link>http://localhost:4321/tags/combinatorics/</link>
     <description>Recent content in Combinatorics on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/combinatorics/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/tags/combinatorics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award</title>
-      <link>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
+      <link>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
-      <description>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#xA;Randomness in computation wins computer-science ‘Nobel’ https://www.nature.com/articles/d41586-024-01055-y&#xA;Avi Wigderson&amp;rsquo;s Website&#xA;https://www.math.ias.edu/avi/&#xA;His book: Mathematics and Computation&#xA;https://www.math.ias.edu/avi/book&#xA;Abel Prize celebrates union of mathematics and computer science The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&#xA;https://www.nature.com/articles/d41586-021-00694-9</description>
+      
+      <guid>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
+      <description>&lt;h2 id=&#34;avi-wigderson-complexity-theory-pioneer-wins-turing-award&#34;&gt;Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#34;&gt;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;randomness-in-computation-wins-computer-science-nobel&#34;&gt;&lt;strong&gt;Randomness in computation wins computer-science ‘Nobel’&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-024-01055-y&#34;&gt;https://www.nature.com/articles/d41586-024-01055-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Avi Wigderson&amp;rsquo;s Website&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/&#34;&gt;https://www.math.ias.edu/avi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;His book: Mathematics and Computation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/book&#34;&gt;https://www.math.ias.edu/avi/book&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abel-prize-celebrates-union-of-mathematics-and-computer-science&#34;&gt;&lt;strong&gt;Abel Prize celebrates union of mathematics and computer science&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-021-00694-9&#34;&gt;https://www.nature.com/articles/d41586-021-00694-9&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Quanta magazine&#39;s combinatorics column</title>
-      <link>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</link>
+      <link>http://localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</guid>
-      <description>Combinatorics articles in Quanta magazine.&#xA;https://www.quantamagazine.org/tag/combinatorics/&#xA;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&#xA;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338</description>
+      
+      <guid>http://localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</guid>
+      <description>&lt;p&gt;Combinatorics articles in Quanta magazine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/tag/combinatorics/&#34;&gt;https://www.quantamagazine.org/tag/combinatorics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#34;&gt;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters, by Noga Alon</title>
-      <link>//localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
+      <link>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
-      <description>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#xA;Noga Alon&amp;rsquo;s home page</description>
+      
+      <guid>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
+      <description>&lt;h1 id=&#34;combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters&#34;&gt;&lt;strong&gt;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#34;&gt;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.math.princeton.edu/~nalon/&#34;&gt;Noga Alon&amp;rsquo;s home page&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

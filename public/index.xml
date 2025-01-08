@@ -2,228 +2,1914 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Algorithmic Game Theory, Data Science, courses, conferences, journals, and books</title>
-      <link>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
+      <link>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
-      <description>Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&#xA;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&#xA;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&#xA;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&#xA;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.</description>
+      
+      <guid>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
+      <description>&lt;p&gt;Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&lt;/p&gt;
+&lt;p&gt;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.&lt;/p&gt;
+&lt;p&gt;Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT24/index.html&#34;&gt;TTIC 31260 - Algorithmic Game Theory (Spring 2024)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Toolkit23/&#34;&gt;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~ninamf/courses/806/&#34;&gt;CMU - Foundations of Machine Learning and Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm&#34;&gt;COURSE: CS 15-892 Foundations of Electronic Marketplaces&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~./15281/&#34;&gt;Artificial Intelligence: Representation and Problem Solving&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference - Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://epubs.siam.org/action/showPublications?pubType=proceedings&amp;amp;category=10.1555/category.40105908&amp;amp;expand=10.1555/category.40105908&#34;&gt;ACM-SIAM Symposium on Discrete Algorithms (SODA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;Vijay V. Vazirani&amp;rsquo;s publication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://rob.schapire.net/publist.html&#34;&gt;Robert Schapire&amp;rsquo;s publication list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dais.is.tohoku.ac.jp/take/papers.html&#34;&gt;Publications of Takehiro ITO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rutamehta.cs.illinois.edu/index.html&#34;&gt;Ruta Mehta&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research&#34;&gt;Takayuki Ito&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://math.mit.edu/~goemans/18455-2020SP.html&#34;&gt;Advanced Combinatorial Optimization course by Michel Goemans&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Art &amp; Science</title>
-      <link>//localhost:4321/2024/05/08/art-science/</link>
+      <link>http://localhost:4321/2024/05/08/art-science/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/05/08/art-science/</guid>
-      <description>https://www.yo-yoma.com/our-common-nature/&#xA;https://www.yo-yoma.com/biography/</description>
+      
+      <guid>http://localhost:4321/2024/05/08/art-science/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.yo-yoma.com/our-common-nature/&#34;&gt;https://www.yo-yoma.com/our-common-nature/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yo-yoma.com/biography/&#34;&gt;https://www.yo-yoma.com/biography/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>New Directions in Market Design</title>
-      <link>//localhost:4321/2024/04/26/new-directions-in-market-design/</link>
+      <link>http://localhost:4321/2024/04/26/new-directions-in-market-design/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/26/new-directions-in-market-design/</guid>
-      <description>New Directions in Market Design NBER&amp;rsquo;s Conference, Spring 2023&#xA;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#xA;Market Design Working Group Meeting, Fall 2023 https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#xA;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#xA;Seminar, ACO Center @ UCI https://acoi.ics.uci.edu/seminar-series/</description>
+      
+      <guid>http://localhost:4321/2024/04/26/new-directions-in-market-design/</guid>
+      <description>&lt;h1 id=&#34;new-directions-in-market-design&#34;&gt;&lt;strong&gt;New Directions in Market Design&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;NBER&amp;rsquo;s Conference, Spring 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#34;&gt;https://www.nber.org/conferences/new-directions-market-design-spring-2023&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;market-design-working-group-meeting-fall-2023&#34;&gt;&lt;strong&gt;Market Design Working Group Meeting, Fall 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#34;&gt;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#34;&gt;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;seminar-aco-center--uci&#34;&gt;Seminar, ACO Center @ UCI&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://acoi.ics.uci.edu/seminar-series/&#34;&gt;https://acoi.ics.uci.edu/seminar-series/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award</title>
-      <link>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
+      <link>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
-      <description>Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#xA;Randomness in computation wins computer-science ‘Nobel’ https://www.nature.com/articles/d41586-024-01055-y&#xA;Avi Wigderson&amp;rsquo;s Website&#xA;https://www.math.ias.edu/avi/&#xA;His book: Mathematics and Computation&#xA;https://www.math.ias.edu/avi/book&#xA;Abel Prize celebrates union of mathematics and computer science The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&#xA;https://www.nature.com/articles/d41586-021-00694-9</description>
+      
+      <guid>http://localhost:4321/2024/04/11/avi-wigderson-complexity-theory-pioneer-wins-turing-award/</guid>
+      <description>&lt;h2 id=&#34;avi-wigderson-complexity-theory-pioneer-wins-turing-award&#34;&gt;Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&#34;&gt;https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;randomness-in-computation-wins-computer-science-nobel&#34;&gt;&lt;strong&gt;Randomness in computation wins computer-science ‘Nobel’&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-024-01055-y&#34;&gt;https://www.nature.com/articles/d41586-024-01055-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Avi Wigderson&amp;rsquo;s Website&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/&#34;&gt;https://www.math.ias.edu/avi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;His book: Mathematics and Computation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.math.ias.edu/avi/book&#34;&gt;https://www.math.ias.edu/avi/book&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abel-prize-celebrates-union-of-mathematics-and-computer-science&#34;&gt;&lt;strong&gt;Abel Prize celebrates union of mathematics and computer science&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The work of winners László Lovász and Avi Wigderson underpins applications from Internet security to the study of networks.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-021-00694-9&#34;&gt;https://www.nature.com/articles/d41586-021-00694-9&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Learning and Games - Simons Institute for theory of computing</title>
-      <link>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</link>
+      <link>http://localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</guid>
-      <description>Learning and Games workshops&#xA;https://simons.berkeley.edu/programs/games2022/workshops</description>
+      
+      <guid>http://localhost:4321/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022/workshops&#34;&gt;Learning and Games workshops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022/workshops&#34;&gt;https://simons.berkeley.edu/programs/games2022/workshops&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Wolfram Alpha - 在线数学搜索</title>
-      <link>//localhost:4321/2024/04/03/wolfram-alpha/</link>
+      <link>http://localhost:4321/2024/04/03/wolfram-alpha/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/03/wolfram-alpha/</guid>
-      <description>Wolfram Alpha https://www.wolframalpha.com/</description>
+      
+      <guid>http://localhost:4321/2024/04/03/wolfram-alpha/</guid>
+      <description>&lt;h2 id=&#34;wolfram-alpha&#34;&gt;Wolfram Alpha&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wolframalpha.com/&#34;&gt;https://www.wolframalpha.com/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>The Mathematics of László Lovász</title>
-      <link>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
+      <link>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
-      <description>The Mathematics of László Lovász</description>
+      
+      <guid>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ar5iv.labs.arxiv.org/html/2303.03148&#34;&gt;The Mathematics of László Lovász&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Quanta magazine&#39;s combinatorics column</title>
-      <link>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</link>
+      <link>http://localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</guid>
-      <description>Combinatorics articles in Quanta magazine.&#xA;https://www.quantamagazine.org/tag/combinatorics/&#xA;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&#xA;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338</description>
+      
+      <guid>http://localhost:4321/2024/01/28/quanta-magazine-s-combinatorics-column/</guid>
+      <description>&lt;p&gt;Combinatorics articles in Quanta magazine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/tag/combinatorics/&#34;&gt;https://www.quantamagazine.org/tag/combinatorics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#34;&gt;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters, by Noga Alon</title>
-      <link>//localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
+      <link>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
-      <description>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#xA;Noga Alon&amp;rsquo;s home page</description>
+      
+      <guid>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
+      <description>&lt;h1 id=&#34;combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters&#34;&gt;&lt;strong&gt;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#34;&gt;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.math.princeton.edu/~nalon/&#34;&gt;Noga Alon&amp;rsquo;s home page&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Abel interview 2021: László Lovász and Avi Wigderson</title>
-      <link>//localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
+      <link>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
-      <description>Abel interview 2021: László Lovász and Avi Wigderson https://euromathsoc.org/magazine/articles/54&#xA;2023 Interview with László Lovász Interview with László Lovász&#xA;https://euromathsoc.org/magazine</description>
+      
+      <guid>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
+      <description>&lt;h2 id=&#34;abel-interview-2021-lászló-lovász-and-avi-wigderson&#34;&gt;Abel interview 2021: László Lovász and Avi Wigderson&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/54&#34;&gt;https://euromathsoc.org/magazine/articles/54&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2023-interview-with-lászló-lovász&#34;&gt;&lt;strong&gt;2023 Interview with László Lovász&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/157&#34;&gt;Interview with László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine&#34;&gt;https://euromathsoc.org/magazine&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
-      <link>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
+      <link>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
-      <description>Optimization and Algorithm Design, Simons Institute for the Theory of Computing https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#xA;Nash Social Welfare and A Tale of Mathematical Programs Richard M. Karp Distinguished Lectures https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures</description>
+      
+      <guid>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
+      <description>&lt;h2 id=&#34;optimization-and-algorithm-design-simons-institute-for-the-theory-of-computing&#34;&gt;Optimization and Algorithm Design, Simons Institute for the Theory of Computing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28&#34;&gt;Nash Social Welfare and A Tale of Mathematical Programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;richard-m-karp-distinguished-lectures&#34;&gt;Richard M. Karp Distinguished Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him</title>
-      <link>//localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
+      <link>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
-      <description>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him From the International Olympiad in Informatics Journal Vol 17, 2023</description>
+      
+      <guid>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
+      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-himhttpsioitelvoipdfv17_2023_3_18pdf&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ioi.te.lv/oi_content_v17.shtml&#34;&gt;From the International Olympiad in Informatics Journal Vol 17, 2023&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>László Lovász: Working mathematical miracles</title>
-      <link>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
+      <link>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
-      <description>László Lovász: Working mathematical miracles&#xA;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#xA;Pioneering Graph Theory – László Lovász&#xA;Selected topics in graph theory&#xA;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#xA;https://lovasz.web.elte.hu//kurzusok/&#xA;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, Heidelberg Laureate Forum https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#xA;Why People Hate Maths, and Why You Should Love It&#xA;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/</description>
+      
+      <guid>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
+      <description>&lt;p&gt;László Lovász: Working mathematical miracles&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#34;&gt;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/pioneering-graph-theory-laszlo-lovasz/&#34;&gt;Pioneering Graph Theory – László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Selected topics in graph theory&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#34;&gt;https://lovasz.web.elte.hu//kurzusok/limit2023.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/&#34;&gt;https://lovasz.web.elte.hu//kurzusok/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, &lt;a href=&#34;https://scilogs.spektrum.de/hlf&#34; title=&#34;Go to Heidelberg Laureate Forum.&#34;&gt;Heidelberg Laureate Forum&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#34;&gt;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why People Hate Maths, and Why You Should Love It&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&#34;&gt;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Matching , Graph theory, Combinatorics related references</title>
-      <link>//localhost:4321/2023/12/06/matching-related-references/</link>
+      <link>http://localhost:4321/2023/12/06/matching-related-references/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/06/matching-related-references/</guid>
-      <description>https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#xA;LP-Duality and the Cores of Games&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#xA;http://www.columbia.edu/~yf2414/research.html&#xA;http://www.columbia.edu/~yf2414/teaching.html&#xA;https://icerm.brown.edu/video_archive/?play=3027&#xA;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#xA;International Conference on Integer Programming and Combinatorial Optimization&#xA;https://yufeizhao.com/&#xA;Graph Theory and Additive Combinatorics book https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/ https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/ Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&#xA;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture</description>
+      
+      <guid>http://localhost:4321/2023/12/06/matching-related-references/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#34;&gt;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;LP-Duality and the Cores of Games&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/teaching.html&#34;&gt;http://www.columbia.edu/~yf2414/teaching.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=3027&#34;&gt;https://icerm.brown.edu/video_archive/?play=3027&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/ipco&#34;&gt;International Conference on Integer Programming and Combinatorial Optimization&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://yufeizhao.com/&#34;&gt;https://yufeizhao.com/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yufeizhao.com/gtacbook/&#34;&gt;Graph Theory and Additive Combinatorics book&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&#34;&gt;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&#34;&gt;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/erdos-shannon-story-probability-communication-combinatorics-richard-m-karp-distinguished&#34;&gt;Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/introduction-data-structures-optimization-fast-algorithms-richard-m-karp-distinguished&#34;&gt;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Algorithms and Game Theory</title>
-      <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
-      <description>Conference International Symposium on Algorithmic Game Theory&#xA;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&#xA;Proceeding Web link SAGT 2022&#xA;SAGT 2021&#xA;SAGT 2020&#xA;SAGT 2019&#xA;SAGT 2018&#xA;SAGT 2017&#xA;SAGT 2016&#xA;SAGT 2015&#xA;SAGT 2014&#xA;SAGT 2013&#xA;SAGT 2012&#xA;SAGT 2011&#xA;SAGT 2010&#xA;SAGT 2009&#xA;SAGT 2008&#xA;ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation</description>
+      
+      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/&#34;&gt;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-43254-5&#34;&gt;Proceeding Web link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-15714-1&#34;&gt;SAGT 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-85947-3&#34;&gt;SAGT 2021&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-57980-7&#34;&gt;SAGT 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-30473-7&#34;&gt;SAGT 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-99660-8&#34;&gt;SAGT 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-66700-3&#34;&gt;SAGT 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-53354-3&#34;&gt;SAGT 2016&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-48433-3&#34;&gt;SAGT 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-44803-8&#34;&gt;SAGT 2014&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-41392-6&#34;&gt;SAGT 2013&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-33996-7&#34;&gt;SAGT 2012&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-24829-0&#34;&gt;SAGT 2011&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-16170-4&#34;&gt;SAGT 2010&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-04645-2&#34;&gt;SAGT 2009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-79309-0&#34;&gt;SAGT 2008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;Matchings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2023fa/lectures.html&#34;&gt;Algorithms core theory&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Research</title>
-      <link>//localhost:4321/research/</link>
+      <link>http://localhost:4321/research/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/</guid>
-      <description>研究方向 组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.&#xA;机器学习，数据科学。Machine Learning. Data Science.&#xA;发表论文 （Publications） &amp;ldquo;A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&amp;rdquo;, with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. Web link&#xA;&amp;ldquo;DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies&amp;rdquo;, with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024.</description>
+      
+      <guid>http://localhost:4321/research/</guid>
+      <description>&lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机器学习，数据科学。Machine Learning. Data Science.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. --&gt;
+&lt;h2 id=&#34;发表论文-publications&#34;&gt;发表论文 （Publications）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&amp;rdquo;, with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies&amp;rdquo;, with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024. &lt;a href=&#34;https://peerj.com/articles/cs-2253/&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis&amp;rdquo;, with Peng Xia, accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;An Intra-Network Multi-Teacher Distillation Method Towards
+Lightweight Knowledge Graph Completion&amp;rdquo;, with Zeyu Yang, accepted by 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). &lt;a href=&#34;https://ieeexplore.ieee.org/document/10719142&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Robust modeling of the multi-depot vehicle routing problem under uncertain demands&amp;rdquo;, with Jinqing Li, 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024). &lt;a href=&#34;https://ieeexplore.ieee.org/document/10580781&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling&amp;rdquo;, Y. Han, Q. Qi, N. Li and J. Li,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10476145&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy&amp;rdquo;, with Q. Liu, and etc., Artificial Intelligence Review (2023), &lt;a href=&#34;https://doi.org/10.1007/s10462-023-10498-0&#34;&gt;https://doi.org/10.1007/s10462-023-10498-0&lt;/a&gt;. &lt;a href=&#34;https://link.springer.com/article/10.1007/s10462-023-10498-0&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding,&amp;rdquo; with Q. Liu, and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10152600&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;SLEO: An efficient Equilibrium Optimizer for numerical optimization&amp;rdquo;, with Q. Liu, 2022 IEEE Smartworld, Ubiquitous Intelligence &amp;amp; Computing, Scalable Computing &amp;amp; Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous &amp;amp; Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10189595&#34;&gt;Web page&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem,&amp;rdquo; with Q. Liu, H. Jia, and etc., 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10054988&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;改进䲟鱼优化算法和熵测度的图像多阈值分割&amp;rdquo;, 刘庆鑫, 贾鹤鸣，等，智能系统学报,2024,19(2):381-391. &lt;a href=&#34;https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&amp;amp;id=202205018&#34;&gt;Web link&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. &lt;a href=&#34;https://rs.yiigle.com/cmaid/1456377&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. &lt;a href=&#34;http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems&amp;rdquo;, with Liu Q., Li N., Jia H., Abualigah L., Liu Y., Mathematics. 2022; 10(9):1567. &lt;a href=&#34;https://doi.org/10.3390/math10091567&#34;&gt;Web link&lt;/a&gt; （ESI高被引）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation&amp;rdquo;, Q. Liu, N. Li, H. Jia, L. Abualigah, Mathematics 2022, 10, 1014. &lt;a href=&#34;https://doi.org/10.3390/math10071014&#34;&gt;Web link&lt;/a&gt;（ESI高被引，Editor&amp;rsquo;s choice)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms,&amp;rdquo; X. -W. Lin, N. Li and Q. Qi, 2021 IEEE 7th Int Conf on Data Science &amp;amp; Systems (DSS), 2021, pp. 1259-1264, &lt;a href=&#34;https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192&#34;&gt;doi link:&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems,&amp;rdquo; Q. Liu, Q. Qi, H. Jia and N. Li, 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud &amp;amp; Big Data Systems &amp;amp; Application (DependSys), 2021, pp. 1996-2003, &lt;a href=&#34;https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298&#34;&gt;doi link:&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究&amp;rdquo;，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期。 &lt;a href=&#34;https://www.arocmag.com/abs/2021.07.0264&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A Semi-supervised Learning Approach for High Dimensional Android Malware Classification&amp;rdquo;, Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3&#34;&gt;Web link&lt;/a&gt;, &lt;a href=&#34;semi-supervised-Learning-High-Dimensional-Classification-2021.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks&amp;rdquo;, Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)&lt;a href=&#34;https://www.worldscientific.com/doi/10.1142/S021819402140009X&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Classification of IoT Malware based on Convolutional Neural Network&amp;rdquo;, Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, &lt;a href=&#34;https://doi.org/10.1109/ICSS50103.2020.00016&#34;&gt;doi: 10.1109/ICSS50103.2020.00016.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Exploration of Heuristic-Based Feature Selection on Classification Problems&amp;rdquo;, Qi Q., Li N., Li W.. PAAP 2017 proceeding, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9&#34;&gt;Communications in Computer and Information Science, vol 729: 95-107&lt;/a&gt;, Springer. &lt;a href=&#34;heuristic-feature-selection-2017.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Reconstruction of metabolic pathways by combining probabilistic graphical
+model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
+Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.
+&lt;a href=&#34;http://www.biomedcentral.com/1753-6561/8/S6/S5&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;PGM-based-pathways-reconstruction-2014.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Comparison of Probabilistic Chain Graphical Model Based and Gaussian Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Q, Shang Y.，International Journal of Distributed Sensor Networks. 2011;7(1). doi:10.1155/2011/928958，&lt;a href=&#34;https://journals.sagepub.com/doi/10.1155/2011/928958&#34;&gt;Web link&lt;/a&gt;, &lt;a href=&#34;PGM-based-observation-selection_2011.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“An Improved Algorithm for Optimal Subset Selection in Chain Graphical
+Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
+2010 IEEE Congress on, pp. 1-6, 2010.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Comparing Probabilistic Graphical Model Based and Gaussian Process Based
+Selections for Predicting the Temporal Observations”, Qi Qi, Yi Shang,
+Intelligent Engineering Systems Through Artificial Neural Networks, 2010,
+vol.20, pages 621-628, ASME Press, New York, NY.
+&lt;a href=&#34;http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=316&amp;amp;sectionid=38783068&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Wireless Sensor Networks in Intelligent Transportation Systems”, Malik
+Tubaishat, Peng Zhuang, Qi Qi, and Yi Shang, Journal of Wireless
+Communications and Mobile Computing, John Wiley and Sons Ltd., 2009, Vol. 9,
+pp. 287-302.
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Model-based Traffic Prediction Using Sensor Networks”, Peng Zhuang, Qi Qi,
+and Yi Shang, In Proc. 5th IEEE Cosumer Communication and Networking
+Conference (CCNC’08), 2008, pp. 136-140.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446336&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi
+Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and
+Networking Conference (CCNC’08), 2008, pp. 702-706.
+&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;博士论文-dissertation&#34;&gt;博士论文 （Dissertation）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;“Statistical model-based methods for observation selection in wireless
+sensor networks and for feature selection in classification.”, Qi Qi,
+University of Missouri-Columbia, 2012. &lt;a href=&#34;http://gradworks.umi.com/35/30/3530891.html&#34;&gt;ProQuest
+link&lt;/a&gt;, &lt;a href=&#34;https://mospace.umsystem.edu/xmlui/handle/10355/15111&#34;&gt;on
+MOSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主持的基金项目&#34;&gt;主持的基金项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;“面向复杂环境光伏阵列最大功率点跟踪的群智能算法研究”，海南省高等学校科学研究项目，海南省教育厅，2023-2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021-2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『国内外港口群协同发展与技术趋势分析』，中国工程科技发展战略海南研究院，2021-2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015-2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『面向大数据智能分析处理的高性能网络应用服务系统关键技术的研究』，海南省自然科学基金，2015-2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014-2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;软件著作权&#34;&gt;软件著作权&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在线数据挖掘服务平台软件 V1.0，登记号 2016SR372230, 2016.12。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文档加密软件 V1.0, 登记号2015SR169732， 2015.9。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;统计方法辅助优化英语重点单词学习记忆软件 V1.0, 登记号2014SR138325，2014.9。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+### 专业技术资格
+
+-   副研究员，计算机科学专业，2014.12
+
+-   注册信息安全工程师(CISE)，2017.1
+--&gt;
+&lt;script type=&#34;text/javascript&#34; id=&#34;clustrmaps&#34; src=&#34;//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&amp;cl=ffffff&amp;w=a&#34;&gt;&lt;/script&gt;
+</description>
     </item>
+    
     <item>
       <title>Online and Matching-Based Market Design</title>
-      <link>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <link>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
-      <description>Online and Matching-Based Market Design workshop Workshop, Oct. 2023, Simons Institute for the Theory of Computing&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs</description>
+      
+      <guid>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <description>&lt;h1 id=&#34;online-and-matching-based-market-design-workshop&#34;&gt;Online and Matching-Based Market Design workshop&lt;/h1&gt;
+&lt;p&gt;Workshop, Oct. 2023, Simons Institute for the Theory of Computing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>CCF 计算经济大赛，专委会，相关网页</title>
-      <link>//localhost:4321/2023/10/30/ccf-ce-competition/</link>
+      <link>http://localhost:4321/2023/10/30/ccf-ce-competition/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/ccf-ce-competition/</guid>
-      <description>CCF 计算经济学大赛 CCF 计算经济学大赛，https://ccf.pkucxpl.com/ 计算经济学专业组, https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/ 北京大学前沿计算研究中心，https://cfcs.pku.edu.cn/people/directors/index.htm ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation&#xA;Related Links Mixed Integer Programming Society, Mathematical Optimization Society&#xA;理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学&#xA;人工智能研究院，北京大学&#xA;高瓴人工智能研究院，人民大学&#xA;华为算法创新Lab&#xA;http://marketdesigner.blogspot.com/</description>
+      
+      <guid>http://localhost:4321/2023/10/30/ccf-ce-competition/</guid>
+      <description>&lt;h2 id=&#34;ccf-计算经济学大赛&#34;&gt;CCF 计算经济学大赛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF 计算经济学大赛，&lt;a href=&#34;https://ccf.pkucxpl.com/&#34;&gt;https://ccf.pkucxpl.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;计算经济学专业组, &lt;a href=&#34;https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/&#34;&gt;https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;北京大学前沿计算研究中心，&lt;a href=&#34;https://cfcs.pku.edu.cn/people/directors/index.htm&#34;&gt;https://cfcs.pku.edu.cn/people/directors/index.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;related-links&#34;&gt;Related Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mixedinteger.org/&#34;&gt;Mixed Integer Programming Society, Mathematical Optimization Society&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://itcs.sufe.edu.cn/LlChinese/main.htm&#34;&gt;理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ai.pku.edu.cn/index.htm&#34;&gt;人工智能研究院，北京大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/index.htm&#34;&gt;高瓴人工智能研究院，人民大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.huaweicloud.com/lab/algorithm/home.html&#34;&gt;华为算法创新Lab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://marketdesigner.blogspot.com/&#34;&gt;http://marketdesigner.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>How this Turing Award–winning researcher became a legendary academic advisor</title>
-      <link>//localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</link>
+      <link>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</guid>
-      <description>How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/</description>
+      
+      <guid>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</guid>
+      <description>&lt;h1 id=&#34;how-this-turing-award--winning-researcher-became-a-legendary-academic-advisor&#34;&gt;How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&#34;&gt;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Reference bookmarks -- scholars webpages</title>
-      <link>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
+      <link>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
-      <description>Online reference bookmarks https://ics.uci.edu/~vazirani/&#xA;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V https://home.ttic.edu/~avrim/Papers/pubs.html&#xA;https://www.cs.cornell.edu/home/kleinber/&#xA;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu) https://tibshirani.su.domains/index.html&#xA;https://tibshirani.su.domains/research_page.html&#xA;https://tibshirani.su.domains/research.html&#xA;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#xA;https://people.eecs.berkeley.edu/~jordan/publications.html&#xA;http://www.columbia.edu/~cs2035/&#xA;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#xA;https://fan.princeton.edu/fan/classes/525.html&#xA;https://rdpeng.org/ (R, Statistics, and Data Sciences)&#xA;https://www.cis.upenn.edu/~aaroth/&#xA;https://ericbudish.org/&#xA;https://stanford.edu/~jacobfox/&#xA;https://www.its.caltech.edu/~dconlon/&#xA;Matching https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;http://www.columbia.edu/~yf2414/research.html</description>
+      
+      <guid>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
+      <description>&lt;h1 id=&#34;online-reference-bookmarks&#34;&gt;Online reference bookmarks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&#34;&gt;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Papers/pubs.html&#34;&gt;https://home.ttic.edu/~avrim/Papers/pubs.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/kleinber/&#34;&gt;https://www.cs.cornell.edu/home/kleinber/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs1340/2022sp/&#34;&gt;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/index.html&#34;&gt;https://tibshirani.su.domains/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research_page.html&#34;&gt;https://tibshirani.su.domains/research_page.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research.html&#34;&gt;https://tibshirani.su.domains/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#34;&gt;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/publications.html&#34;&gt;https://people.eecs.berkeley.edu/~jordan/publications.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/&#34;&gt;http://www.columbia.edu/~cs2035/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#34;&gt;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fan.princeton.edu/fan/classes/525.html&#34;&gt;https://fan.princeton.edu/fan/classes/525.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://rdpeng.org/&#34;&gt;https://rdpeng.org/ (R, Statistics, and Data Sciences)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/&#34;&gt;https://www.cis.upenn.edu/~aaroth/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ericbudish.org/&#34;&gt;https://ericbudish.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stanford.edu/~jacobfox/&#34;&gt;https://stanford.edu/~jacobfox/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.its.caltech.edu/~dconlon/&#34;&gt;https://www.its.caltech.edu/~dconlon/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matching&#34;&gt;Matching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>Simons Institute for the Theory of Computing bookmarks</title>
-      <link>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
+      <link>http://localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
-      <description>Richard M. Karp Distinguished Lectures&#xA;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#xA;LP-Duality and the Cores of Games&#xA;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#xA;Online and Matching-Based Market Design&#xA;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#xA;Learning and Games&#xA;https://simons.berkeley.edu/programs/games2022&#xA;Analysis and TCS Boot Camp&#xA;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&#xA;Applications in Extremal Combinatorics 2</description>
+      
+      <guid>http://localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
+      <description>&lt;p&gt;Richard M. Karp Distinguished Lectures&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LP-Duality and the Cores of Games&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Online and Matching-Based Market Design&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learning and Games&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022&#34;&gt;https://simons.berkeley.edu/programs/games2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Analysis and TCS Boot Camp&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/noam-lifshitz-hebrew-university-2023-06-08&#34;&gt;Applications in Extremal Combinatorics 2&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>科研学者经验分享，网上摘录</title>
-      <link>//localhost:4321/2023/10/30/research-scholars/</link>
+      <link>http://localhost:4321/2023/10/30/research-scholars/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/research-scholars/</guid>
-      <description>科研学者经验分享 窦志成教授：如何撰写科研论文&#xA;http://ai.ruc.edu.cn/research/science/20201014001.html&#xA;赵鑫教授：科研入门的一些经验分享&#xA;http://ai.ruc.edu.cn/research/science/20221125003.html</description>
+      
+      <guid>http://localhost:4321/2023/10/30/research-scholars/</guid>
+      <description>&lt;h2 id=&#34;科研学者经验分享&#34;&gt;科研学者经验分享&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;窦志成教授：如何撰写科研论文&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/research/science/20201014001.html&#34;&gt;http://ai.ruc.edu.cn/research/science/20201014001.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;赵鑫教授：科研入门的一些经验分享&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/research/science/20221125003.html&#34;&gt;http://ai.ruc.edu.cn/research/science/20221125003.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>人工智能导论（2023 春季）</title>
-      <link>//localhost:4321/courses/ai/2023_spring/</link>
+      <link>http://localhost:4321/courses/ai/2023_spring/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2023_spring/</guid>
-      <description>人工智能 2023春季学期 作业 作业1 . 参考答案 作业2 . 参考答案 作业3 . 参考答案 作业4 . 参考答案 作业5 内容提纲 序号 内容提纲 对应章节 幻灯片 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 8 马尔科夫决策过程 第17章 part1 , part2 9 增强学习算法 第21章 part1 , part2 10 概率和贝叶斯推理 第13章 pdf 11 贝叶斯网络 第14章 part1 , part2, part3 , part4 12 决策网络和信息价值 第16章5-6节 pdf 13 隐式马尔科夫模型，粒子滤波 第15章 part1 , part2 14 机器学习：朴素贝叶斯 第18.</description>
+      
+      <guid>http://localhost:4321/courses/ai/2023_spring/</guid>
+      <description>&lt;h1 id=&#34;人工智能-2023春季学期&#34;&gt;人工智能 2023春季学期&lt;/h1&gt;
+&lt;h2 id=&#34;作业&#34;&gt;作业&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw1.pdf&#34;&gt;作业1&lt;/a&gt; . &lt;a href=&#34;hw/sol1.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw2.pdf&#34;&gt;作业2&lt;/a&gt; . &lt;a href=&#34;hw/sol2.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw3.pdf&#34;&gt;作业3&lt;/a&gt; . &lt;a href=&#34;hw/sol3.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw4.pdf&#34;&gt;作业4&lt;/a&gt; . &lt;a href=&#34;hw/sol4.pdf&#34;&gt;参考答案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/hw5.pdf&#34;&gt;作业5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td&gt;马尔科夫决策过程&lt;/td&gt;
+          &lt;td&gt;第17章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture8-mdps-part1.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture8-mdps-part2.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td&gt;增强学习算法&lt;/td&gt;
+          &lt;td&gt;第21章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture-9-reinforcement-learning-i.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture-9-reinforcement-learning-ii.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;
+          &lt;td&gt;概率和贝叶斯推理&lt;/td&gt;
+          &lt;td&gt;第13章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture10-probability.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
+          &lt;td&gt;贝叶斯网络&lt;/td&gt;
+          &lt;td&gt;第14章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture11-BN-representation.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture12-BNs-Independence.pdf&#34;&gt;part2&lt;/a&gt;, &lt;a href=&#34;../slides/lecture13-BN-Inference.pdf&#34;&gt;part3&lt;/a&gt; , &lt;a href=&#34;../slides/lecture14-BN-sampling.pdf&#34;&gt;part4&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12&lt;/td&gt;
+          &lt;td&gt;决策网络和信息价值&lt;/td&gt;
+          &lt;td&gt;第16章5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture15-decision-diagrams-and-vpis.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
+          &lt;td&gt;隐式马尔科夫模型，粒子滤波&lt;/td&gt;
+          &lt;td&gt;第15章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture16-hmm.pdf&#34;&gt;part1&lt;/a&gt; , &lt;a href=&#34;../slides/lecture17-hmm-filtering.pdf&#34;&gt;part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14&lt;/td&gt;
+          &lt;td&gt;机器学习：朴素贝叶斯&lt;/td&gt;
+          &lt;td&gt;第18.1,18.2,18.4章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture18-ML-Naive-Bayes.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15&lt;/td&gt;
+          &lt;td&gt;机器学习：感知机，逻辑斯特回归&lt;/td&gt;
+          &lt;td&gt;第18.6章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture19-ML-Perceptrons-and-Logistic-Regression.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16&lt;/td&gt;
+          &lt;td&gt;机器学习：优化方法，神经网络模型&lt;/td&gt;
+          &lt;td&gt;第18.6,18.7章节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture20-ML-Optimization-and-Neural-Networks.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;推荐的教材和阅读&#34;&gt;推荐的教材和阅读&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vazirani, Vijay V. 2001. Approximation algorithms (Springer: Berlin ; New York).&lt;/li&gt;
+&lt;li&gt;Shalev-Shwartz, Shai, and Shai Ben-David. 2014. Understanding machine learning : from theory to algorithms (Cambridge University Press: New York, NY, USA).&lt;/li&gt;
+&lt;li&gt;Boyd, Stephen P., and Lieven Vandenberghe. 2004. Convex optimization (Cambridge University Press: Cambridge, UK ; New York).&lt;/li&gt;
+&lt;li&gt;Ben-Tal, A., Laurent El Ghaoui, and A. S. Nemirovskiĭ. 2009. Robust optimization (Princeton University Press: Princeton).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>人工智能算法在可解释性和公平可信发展趋势的初步调研</title>
-      <link>//localhost:4321/2022/11/08/test-new-post/</link>
+      <link>http://localhost:4321/2022/11/08/test-new-post/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2022/11/08/test-new-post/</guid>
-      <description>人工智能算法在可解释性和公平可信发展趋势的初步调研1 现代人工智能的应用普及，同时也带来了算法在决策上的偏见和区别对待等问题。例如，一个犯罪风险评估算法对黑人比白人辩护人更有可能做出错误的预测判断；广告投放算法会把秘书和超市工作的广告更多地推介给女性；一个医疗资源配置算法对于同等需求的患者更倾向于白人。想比较于人类决策中的歧视现象，算法的歧视更具有隐蔽性，因为算法的预测模型是通过对大量收集的数据进行处理分析以后所确立的，而不是基于当事人的抉择。然而，传统的机器学习算法的模型构建和预测有可能强化了所应用的数据中的偏见与不均匀的配置，从而导致具有偏见的预测判断。&#xA;美国的现有法律明确禁止有目的歧视，比如差别对待。因此一个公司如果依赖于有歧视效应的预测模型来做出雇佣选择，那么它也是违反了相关法律[1]。然而，对于算法来说，如果仅是把一些诸如性别、种族等的特征数据从训练数据中刨除出去，也不一定能够保证算法的预测公平性。例如，在训练数据中，假如女性雇员的工作指标数据非常少，那么算法最终训练出来的模型可能对女性雇员的工作评价做出不公平的预测。因此，此类用于人力资源雇佣和评价决策的算法应该经常对其输入训练数据中不同群体的数据分布进行审计。&#xA;如何保证算法的公平性，计算机科学和数据科学专家已经提出了一些方法降低预测模型的可能偏见。这些方法通常会在构建模型过程中考虑应对敏感特征所代表的数据。然而，把不同群体的数据进行强制定量，忽视群体间内在的相关差异，也是不科学的。虽然，相关的法律规则并不容易被直接反应在计算机程序和算法里，但是，当前的法律为算法设计者、数据科学专家提供了比较多的自由，去探索不同的策略用于减少算法所产生的判别偏见[1]。&#xA;另一方面，人工智能持续为工业界提升全球经济总量，预计2030年将增加1300亿美元[2]。然而这种发展也受限于如何更有效地在各公司企业间分享数据。由于保密性和风险控制，大公司通常不愿意分享其数据。现代机器学习算法研究已经提供了解决这些问题的相关技术。比如，联邦转移学习技术，能够利用各公司分布式的数据训练构建跨公司的预测模型，同时解决数据分享的隐私保护，和各公司间数据分布不一致的问题[2]。人工智能模型的构建还需考虑其学习算法的可扩展性、鲁棒性，和算法表现的有效性。&#xA;此外，人工智能技术的迅速普及带动了数据驱动的模型构建的自动化进程，微软、谷歌、亚马逊都开发了所谓自动机器学习技术[3] ，通过给定数据能够自动产生预测模型，其预测表现不低于出版文献中提到的学习算法。&#xA;然而，在大数据时代，创建适合于人工智能的数据集依然面临很大的挑战。这些挑战包括数据的质量保证，和标签标注。据报道，数据科学家需要花费比模型训练、选择和布置上面多两倍的时间，用于数据的导入、清洗、可视化等数据准备工作上。这体现出在人工智能时代，数据收集、处理等准备工作拥有的巨大价值。&#xA;即使是现在最先进的人工智能模型也经常会受数据的影响产生错误的关联推断和偏见。对数据的处理和准备能够很大程度上影响使用这些数据进行训练的模型的泛化学习能力和可靠性。因此从数据为中心的角度看，人工智能的发展需要系统化和标准化的方法对训练和测试数据进行评估、合成、清洗和标注。这些方面都极大影响到了训练出的人工智能模型的预测判断表现。[3]&#xA;在文献[3]中，作者对人工智能数据管道中的每一个主要环节分别给出了一些关键建议。这些环节包括数据设计，数据处理和选择，数据评估策略等。整个数据管道也受数据有关法规政策的约束，以保证平衡、隐私保护的和可信的人工智能。在文章的最后，作者指出政府的法规和数据政策对于可信人工智能也扮演着重要的角色。例如，欧洲的AI规范草案中对构建模型的数据的规范性进行了明确的要求。有关的政策法规需要对隐私保护和数据访问之间进行合理的平衡。高质量和收集成本昂贵的数据集通常会成为公司私有的资产，学术界研究人员很难获取高质量的数据。政府在这方面的规范法规可以用来帮助改进数据的便携分享和控制。各国在这方面的努力仍处于初步阶段。同时，人工智能模型本身也可以用来对数据进行校准，检测其中的异常、错误和偏见。以数据为中心的方法将成为未来人工智能发展过程中不可缺少的组成部分。&#xA;[1] KIM P T. Addressing Algorithmic Discrimination[J/OL]. Commun. ACM, 2021, 65(1): 25-27. https://doi.org/10.1145/3498660.&#xA;[2] FINK O. NETLAND T. FEUERRIEGELC S. Artificial Intelligence across Company Borders[J/OL]. Commun. ACM, 2021, 65(1): 34-36. https://doi.org/10.1145/3470449.&#xA;[3] LIANG W. TADESSE G A. HO D. 等. Advances, challenges and opportunities in creating data for trustworthy AI[J/OL]. Nature Machine Intelligence, 2022, 4(8): 669-677. https://doi.org/10.1038/s42256-022-00516-1.&#xA;Email: qqi@hainanu.edu.cn&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      
+      <guid>http://localhost:4321/2022/11/08/test-new-post/</guid>
+      <description>&lt;h1 id=&#34;人工智能算法在可解释性和公平可信发展趋势的初步调研1&#34;&gt;人工智能算法在可解释性和公平可信发展趋势的初步调研&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h1&gt;
+&lt;p&gt;现代人工智能的应用普及，同时也带来了算法在决策上的偏见和区别对待等问题。例如，一个犯罪风险评估算法对黑人比白人辩护人更有可能做出错误的预测判断；广告投放算法会把秘书和超市工作的广告更多地推介给女性；一个医疗资源配置算法对于同等需求的患者更倾向于白人。想比较于人类决策中的歧视现象，算法的歧视更具有隐蔽性，因为算法的预测模型是通过对大量收集的数据进行处理分析以后所确立的，而不是基于当事人的抉择。然而，传统的机器学习算法的模型构建和预测有可能强化了所应用的数据中的偏见与不均匀的配置，从而导致具有偏见的预测判断。&lt;/p&gt;
+&lt;p&gt;美国的现有法律明确禁止有目的歧视，比如差别对待。因此一个公司如果依赖于有歧视效应的预测模型来做出雇佣选择，那么它也是违反了相关法律&lt;sup&gt;[1]&lt;/sup&gt;。然而，对于算法来说，如果仅是把一些诸如性别、种族等的特征数据从训练数据中刨除出去，也不一定能够保证算法的预测公平性。例如，在训练数据中，假如女性雇员的工作指标数据非常少，那么算法最终训练出来的模型可能对女性雇员的工作评价做出不公平的预测。因此，此类用于人力资源雇佣和评价决策的算法应该经常对其输入训练数据中不同群体的数据分布进行审计。&lt;/p&gt;
+&lt;p&gt;如何保证算法的公平性，计算机科学和数据科学专家已经提出了一些方法降低预测模型的可能偏见。这些方法通常会在构建模型过程中考虑应对敏感特征所代表的数据。然而，把不同群体的数据进行强制定量，忽视群体间内在的相关差异，也是不科学的。虽然，相关的法律规则并不容易被直接反应在计算机程序和算法里，但是，当前的法律为算法设计者、数据科学专家提供了比较多的自由，去探索不同的策略用于减少算法所产生的判别偏见&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;另一方面，人工智能持续为工业界提升全球经济总量，预计2030年将增加1300亿美元&lt;sup&gt;[2]&lt;/sup&gt;。然而这种发展也受限于如何更有效地在各公司企业间分享数据。由于保密性和风险控制，大公司通常不愿意分享其数据。现代机器学习算法研究已经提供了解决这些问题的相关技术。比如，联邦转移学习技术，能够利用各公司分布式的数据训练构建跨公司的预测模型，同时解决数据分享的隐私保护，和各公司间数据分布不一致的问题&lt;sup&gt;[2]&lt;/sup&gt;。人工智能模型的构建还需考虑其学习算法的可扩展性、鲁棒性，和算法表现的有效性。&lt;/p&gt;
+&lt;p&gt;此外，人工智能技术的迅速普及带动了数据驱动的模型构建的自动化进程，微软、谷歌、亚马逊都开发了所谓自动机器学习技术&lt;sup&gt;[3]&lt;/sup&gt; ，通过给定数据能够自动产生预测模型，其预测表现不低于出版文献中提到的学习算法。&lt;/p&gt;
+&lt;p&gt;然而，在大数据时代，创建适合于人工智能的数据集依然面临很大的挑战。这些挑战包括数据的质量保证，和标签标注。据报道，数据科学家需要花费比模型训练、选择和布置上面多两倍的时间，用于数据的导入、清洗、可视化等数据准备工作上。这体现出在人工智能时代，数据收集、处理等准备工作拥有的巨大价值。&lt;/p&gt;
+&lt;p&gt;即使是现在最先进的人工智能模型也经常会受数据的影响产生错误的关联推断和偏见。对数据的处理和准备能够很大程度上影响使用这些数据进行训练的模型的泛化学习能力和可靠性。因此从数据为中心的角度看，人工智能的发展需要系统化和标准化的方法对训练和测试数据进行评估、合成、清洗和标注。这些方面都极大影响到了训练出的人工智能模型的预测判断表现。&lt;sup&gt;[3]&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;在文献&lt;sup&gt;[3]&lt;/sup&gt;中，作者对人工智能数据管道中的每一个主要环节分别给出了一些关键建议。这些环节包括数据设计，数据处理和选择，数据评估策略等。整个数据管道也受数据有关法规政策的约束，以保证平衡、隐私保护的和可信的人工智能。在文章的最后，作者指出政府的法规和数据政策对于可信人工智能也扮演着重要的角色。例如，欧洲的AI规范草案中对构建模型的数据的规范性进行了明确的要求。有关的政策法规需要对隐私保护和数据访问之间进行合理的平衡。高质量和收集成本昂贵的数据集通常会成为公司私有的资产，学术界研究人员很难获取高质量的数据。政府在这方面的规范法规可以用来帮助改进数据的便携分享和控制。各国在这方面的努力仍处于初步阶段。同时，人工智能模型本身也可以用来对数据进行校准，检测其中的异常、错误和偏见。以数据为中心的方法将成为未来人工智能发展过程中不可缺少的组成部分。&lt;/p&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body&#34;&gt;
+&lt;div id=&#34;ref-Kim2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[1] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;KIM P T. Addressing Algorithmic Discrimination[J/OL]. Commun. ACM, 2021, 65(1): 25-27. &lt;a href=&#34;https://doi.org/10.1145/3498660&#34;&gt;https://doi.org/10.1145/3498660&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fink2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[2] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FINK O. NETLAND T. FEUERRIEGELC S. Artificial Intelligence across Company Borders[J/OL]. Commun. ACM, 2021, 65(1): 34-36. &lt;a href=&#34;https://doi.org/10.1145/3470449&#34;&gt;https://doi.org/10.1145/3470449&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liang2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[3] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIANG W. TADESSE G A. HO D. 等. Advances, challenges and opportunities in creating data for trustworthy AI[J/OL]. Nature Machine Intelligence, 2022, 4(8): 669-677. &lt;a href=&#34;https://doi.org/10.1038/s42256-022-00516-1&#34;&gt;https://doi.org/10.1038/s42256-022-00516-1&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
+    
     <item>
       <title>Graduate students</title>
-      <link>//localhost:4321/advisees/</link>
+      <link>http://localhost:4321/advisees/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/advisees/</guid>
-      <description>硕士研究生 夏鹏，李金清，韩义博, 杨泽宇（联合指导和段玉聪教授） Alumni 刘庆鑫（博士生在国防科技大学, 2024），戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill，2023)，梁哲敏（海南电信，2023），刘小龙（武汉东风汽车，2023），林小惟（复旦大学中山医院，2022）, 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020) </description>
+      
+      <guid>http://localhost:4321/advisees/</guid>
+      <description>&lt;h2 id=&#34;硕士研究生&#34;&gt;硕士研究生&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;夏鹏，李金清，韩义博, 杨泽宇（联合指导和段玉聪教授）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;刘庆鑫（博士生在国防科技大学, 2024），戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill，2023)，梁哲敏（海南电信，2023），刘小龙（武汉东风汽车，2023），林小惟（复旦大学中山医院，2022）, 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>人工智能导论（2022 春季）</title>
-      <link>//localhost:4321/courses/ai/2022-spring/</link>
+      <link>http://localhost:4321/courses/ai/2022-spring/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2022-spring/</guid>
-      <description>内容提纲 序号 内容提纲 对应章节 幻灯片、作业 1 人工智能简介，课程内容介绍 第1章，第26.3、27.4节 pdf 2 智能行为体和环境 第2章 pdf 3 基础搜索算法,A*搜索,和启发式法 第3章的1-4节，5-6节 pdf , part2_pdf ；作业1 4 局部搜索和不确定搜索 第4章 pdf 5 博弈对抗搜索，博弈原理基础 第5章1-5节 pdf; 作业2 6 约束满足问题，回溯搜索 第6章1，3-5节 pdf 7 命题逻辑：语法和推理 第7章第1-5、第6.1和第7节 pdf 课本参考：&#xA;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009. </description>
+      
+      <guid>http://localhost:4321/courses/ai/2022-spring/</guid>
+      <description>&lt;h3 id=&#34;内容提纲&#34;&gt;内容提纲&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
+          &lt;th&gt;内容提纲&lt;/th&gt;
+          &lt;th&gt;对应章节&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;幻灯片、作业&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td&gt;人工智能简介，课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，第26.3、27.4节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture1.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td&gt;基础搜索算法,A*搜索,和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture3.pdf&#34;&gt;pdf&lt;/a&gt; , &lt;a href=&#34;../slides/lecture3_part2.pdf&#34;&gt;part2_pdf&lt;/a&gt; ；&lt;a href=&#34;../hw/hw1.docx&#34;&gt;作业1&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture4.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td&gt;博弈对抗搜索，博弈原理基础&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture5.pdf&#34;&gt;pdf&lt;/a&gt;; &lt;a href=&#34;../hw/hw2.docx&#34;&gt;作业2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td&gt;约束满足问题，回溯搜索&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture6.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、第6.1和第7节&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../slides/lecture7.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;课本参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>关于我的研究，About my research</title>
-      <link>//localhost:4321/about/</link>
+      <link>http://localhost:4321/about/</link>
       <pubDate>Tue, 19 Nov 2019 10:00:51 -0700</pubDate>
-      <guid>//localhost:4321/about/</guid>
-      <description>我在海南大学计算机科学系教授人工智能等，并进行科研工作。我的研究兴趣主要集中在组合优化问题及其在计算机科学中的应用。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位，我的导师是Yi Shang。 我的Email: qqi@hainanu.edu.cn .&#xA;过去的网页地址：qiqi789.github.io&#xA;Contact Email: qqi @hainanu.edu.cn, or qiqi789 @ gmail.com&#xA;My department address: Computer Science department Hainan University Renmin avenue #58 Haikou, Hainan, 570228 China</description>
+      
+      <guid>http://localhost:4321/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4321/images/Qi_photo2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我在海南大学计算机科学系教授人工智能等，并进行科研工作。我的研究兴趣主要集中在组合优化问题及其在计算机科学中的应用。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位，我的导师是&lt;a href=&#34;https://engineering.missouri.edu/faculty/yi-shang/&#34;&gt;Yi Shang&lt;/a&gt;。
+我的Email: &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiqi789.github.io/research/&#34;&gt;过去的网页地址：qiqi789.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Email:&lt;/em&gt;  qqi @hainanu.edu.cn,
+or qiqi789 @ gmail.com&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My department address:&lt;/em&gt;
+Computer Science department &lt;br&gt;
+Hainan University  &lt;br&gt;
+Renmin avenue #58  &lt;br&gt;
+Haikou, Hainan, 570228  &lt;br&gt;
+China&lt;/p&gt;
+&lt;!-- Global access statistics --&gt;
+&lt;script type=&#34;text/javascript&#34; id=&#34;clustrmaps&#34; src=&#34;//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&amp;cl=ffffff&amp;w=a&#34;&gt;&lt;/script&gt;
+</description>
     </item>
+    
     <item>
       <title>AI lecture</title>
-      <link>//localhost:4321/courses/ai/2019-fall/ai/</link>
+      <link>http://localhost:4321/courses/ai/2019-fall/ai/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/courses/ai/2019-fall/ai/</guid>
-      <description>人工智能 （2019秋季） 更新通知 2019/12/9 期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&#xA;2019/12/2 作业6，已经贴出。&#xA;2019/11/25 作业5，已经贴出。&#xA;2019/11/18 作业1，2，3（作业1-3是往年的），4，已经贴出。&#xA;作业 作业1, 答案1 作业2, 答案2 作业3, 答案3 作业4 作业5 作业6 内容安排 顺序 内容标题 阅读书上章节 幻灯片 1 人工智能简介；课程内容介绍 第1章，和26.3,27.4 ppt 2 智能行为体和环境 第2章 ppt 3 基础搜索算法；A星搜索和启发式法 第3章的1-4节，5-6节 ppt 4 局部搜索和不确定搜索 第4章 ppt 5 博弈问题 第5章1-5节 ppt 6 约束满足问题 第6章1，3-5节 ppt 7 命题逻辑：语法和推理 第7章第1-5、6.1和第7节 ppt 8 马可夫决策过程 (MDP) ppt-part1, ppt-part2 9 强化学习 (Reinforcement learning) ppt-part1, ppt-part2 10 概率（贝叶斯）推理 第13章第1-5节 ppt 11 贝叶斯网络：语法和语义 第14章第1-4节 [ppt](slides/lecture11-BN representation.</description>
+      
+      <guid>http://localhost:4321/courses/ai/2019-fall/ai/</guid>
+      <description>&lt;h2 id=&#34;人工智能-2019秋季&#34;&gt;人工智能 （2019秋季）&lt;/h2&gt;
+&lt;h3 id=&#34;更新通知&#34;&gt;更新通知&lt;/h3&gt;
+&lt;h4 id=&#34;2019129&#34;&gt;2019/12/9&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;2019122&#34;&gt;2019/12/2&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业6，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;20191125&#34;&gt;2019/11/25&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业5，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;20191118&#34;&gt;2019/11/18&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作业1，2，3（作业1-3是往年的），4，已经贴出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;作业&#34;&gt;作业&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW1.pdf&#34;&gt;作业1&lt;/a&gt;, &lt;a href=&#34;hw/HW1_solution_publish.pdf&#34;&gt;答案1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW2.pdf&#34;&gt;作业2&lt;/a&gt;, &lt;a href=&#34;hw/HW2_solution_publish.pdf&#34;&gt;答案2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW3.pdf&#34;&gt;作业3&lt;/a&gt;, &lt;a href=&#34;hw/HW3_solution_publish.pdf&#34;&gt;答案3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW4.pdf&#34;&gt;作业4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW5.pdf&#34;&gt;作业5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;hw/HW6.pdf&#34;&gt;作业6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;内容安排&#34;&gt;内容安排&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;顺序&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;内容标题&lt;/th&gt;
+          &lt;th&gt;阅读书上章节&lt;/th&gt;
+          &lt;th&gt;幻灯片&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;人工智能简介；课程内容介绍&lt;/td&gt;
+          &lt;td&gt;第1章，和26.3,27.4&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture1.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;智能行为体和环境&lt;/td&gt;
+          &lt;td&gt;第2章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture2.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;基础搜索算法；A星搜索和启发式法&lt;/td&gt;
+          &lt;td&gt;第3章的1-4节，5-6节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture3.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;局部搜索和不确定搜索&lt;/td&gt;
+          &lt;td&gt;第4章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture4.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;博弈问题&lt;/td&gt;
+          &lt;td&gt;第5章1-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture5.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;约束满足问题&lt;/td&gt;
+          &lt;td&gt;第6章1，3-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture6.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;命题逻辑：语法和推理&lt;/td&gt;
+          &lt;td&gt;第7章第1-5、6.1和第7节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture7.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;马可夫决策过程 (MDP)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture8-mdps-part1.pptx&#34;&gt;ppt-part1&lt;/a&gt;, &lt;a href=&#34;slides/lecture8-mdps-part2.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;强化学习 (Reinforcement learning)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture-9-reinforcement-learning-i.pptx&#34;&gt;ppt-part1&lt;/a&gt;, &lt;a href=&#34;slides/lecture-9-reinforcement-learning-ii.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;概率（贝叶斯）推理&lt;/td&gt;
+          &lt;td&gt;第13章第1-5节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture10-probability.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：语法和语义&lt;/td&gt;
+          &lt;td&gt;第14章第1-4节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture11-BN representation.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：D分离&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture12 - BNs Independence.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：精确推断&lt;/td&gt;
+          &lt;td&gt;第14章第1-4节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture13 - BN Inference.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;贝叶斯网络：近似推理（采样）&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture14 - BN sampling.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;决策网络与信息价值&lt;/td&gt;
+          &lt;td&gt;第16章&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture15-decision-diagrams-and-vpis.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;马科夫模型，粒子滤波&lt;/td&gt;
+          &lt;td&gt;第15章第1-3节&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;slides/lecture16-hmm.pptx&#34;&gt;ppt-part1&lt;/a&gt; , &lt;a href=&#34;slides/lecture17-hmm-filtering.pptx&#34;&gt;ppt-part2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：朴素贝叶斯模型&lt;/td&gt;
+          &lt;td&gt;第20章第1-2节&lt;/td&gt;
+          &lt;td&gt;[ppt](slides/lecture18 ML-naive bayes.pptx)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：感知机，逻辑斯特回归&lt;/td&gt;
+          &lt;td&gt;第18章第6，8节&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;机器学习：优化方法，人工神经网络&lt;/td&gt;
+          &lt;td&gt;第18章第6，8节&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;课程信息&#34;&gt;课程信息&lt;/h3&gt;
+&lt;h4 id=&#34;课本参考&#34;&gt;课本参考：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell
+and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;以往课程网页&#34;&gt;以往课程网页&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;AI/archive/2017fall/AI&#34;&gt;2017 秋季学期&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;AI/archive/2016fall/AI&#34;&gt;2016 秋季学期&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;数学参考&#34;&gt;数学参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mathworld.wolfram.com/&#34;&gt;Wolfram mathworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathwarehouse.com/&#34;&gt;Math Warehouse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;机器学习参考&#34;&gt;机器学习参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!categories/ml-news/cfp&#34;&gt;Machine learning group&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/learning-theory&#34;&gt;COLT (Computational Learning Theory) group&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://opt-ml.org/&#34;&gt;NIPS workshops on optimization for machine learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.nips.cc/&#34;&gt;NIPS papers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/competitions&#34;&gt;Kaggle competitions&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/datasets&#34;&gt;Kaggle datasets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.chalearn.org/challenges.html&#34;&gt;Challenges in machine learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://competitions.codalab.org/&#34;&gt;Competitions at Codalab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.csmining.org/cdmc2017/&#34;&gt;Cybersecurity data mining competition 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdnuggets.com/&#34;&gt;kdnuggets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.google.com/communities/107785538899595981479&#34;&gt;machine learning community - google+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.google.com/communities/112866381580457264725&#34;&gt;deep learning community - google+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.huji.ac.il/~shais/&#34;&gt;Shai Shalev-Shwartz&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~avrim/&#34;&gt;Avrim Blum&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.machinelearning.com/avrim&#34;&gt;http://www.machinelearning.com/avrim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/jeh/book%20June%2014,%202017pdf.pdf&#34;&gt;Foundations of Data Science, the book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://data8.org/&#34;&gt;Berkeley course - The Foundations of Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inferentialthinking.com/&#34;&gt;The Foundations of Data Science, online book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs231n.github.io/&#34;&gt;Stanford course: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34;&gt;http://cs231n.stanford.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.github.io/convolutional-networks/&#34;&gt;Convolutional Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.robots.ox.ac.uk/~parg/home&#34;&gt;Machine learning research group &amp;ndash; University of Oxford&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oxford-man.ox.ac.uk/&#34;&gt;Oxford-man institute of quantitative finance&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://distill.pub/&#34;&gt;Distill pub &amp;ndash; online journal, seeking clarity in Machine Learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs229.stanford.edu/&#34;&gt;Machine learning course at Stanford&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;python-参考&#34;&gt;Python 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://conda.io/docs/commands.html&#34;&gt;Conda documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/index.html&#34;&gt;Python documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/tutorial/index.html&#34;&gt;Python tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.scipy.org/doc/numpy/&#34;&gt;Numpy manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.scipy.org/doc/numpy-1.13.0/user/numpy-for-matlab-users.html&#34;&gt;NumPy for Matlab users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.github.io/python-numpy-tutorial/&#34;&gt;Numpy tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cvxopt.org/userguide/index.html&#34;&gt;CVXOPT user&amp;rsquo;s guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Python data analysis library &amp;ndash; pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pytorch.org/&#34;&gt;pytorch, tensors and dynamic neural nets in python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keras.io/&#34;&gt;Keras &amp;ndash; Python Deep Learning library (high level)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.keras.io/index.html&#34;&gt;Keras blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;scala-参考&#34;&gt;Scala 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala main website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;写作工具&#34;&gt;写作工具&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom, a modern text editor(for markdown, Scala, etc.)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shd101wyy.github.io/markdown-preview-enhanced/&#34;&gt;Markdown Preview Enhanced&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texts.io/&#34;&gt;Texts, a rich editor for markdown (purchase)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rmarkdown.rstudio.com/authoring_basics.html&#34;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sharelatex.com/learn/Main_Page&#34;&gt;Latex online guidance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gnuplot.info/&#34;&gt;Gnuplot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://endnote.com/&#34;&gt;EndNote - managing bibliographies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bibdesk.sourceforge.net/&#34;&gt;BibDesk - MAC BIBLIOGRAPHY MANAGER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nschloe/betterbib&#34;&gt;betterbib - python tool for bib conversion according to crossRef or DBLP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;r-参考&#34;&gt;R 参考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science (an online book)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参考&#34;&gt;参考&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aispace.org/index.shtml&#34;&gt;AI Space &amp;ndash; Tools for Learning Artificial Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://playground.tensorflow.org/&#34;&gt;Neural Networks demos in browser&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fast.ai/&#34;&gt;fast.ai. neural nets, deep learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://livebooklabs.com/keeppies/c5a5868ce26b8125&#34;&gt;LiveBook: Optimization models and
+applications&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://inst.eecs.berkeley.edu/~ee127a/book/login/l_intro_main.html&#34;&gt;HyperText-book: Optimization Models -
+Berkeley&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.harchaoui.eu/zaid/teaching/nyu/fall2015/&#34;&gt;Computational Machine Learning - NYU
+course&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.ubc.ca/~nando/340-2012/lectures.php&#34;&gt;Machine learning and Data mining &amp;ndash; CPSC
+340&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/artificial-intelligence-2/&#34;&gt;Techcrunch - AI news&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cmr.berkeley.edu/blog/2016/6/ai/&#34;&gt;How Artificial Intelligence is Reshaping
+Management&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umass.edu/newsoffice/article/deep-learning-helps-map-mars-and-analyze&#34;&gt;Deep Learning Helps to Map Mars and Analyze its Surface
+Chemistry&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.umass.edu/newsoffice/article/software-beat-world%E2%80%99s-best-human-%E2%80%98go%E2%80%99&#34;&gt;Software That Beat World’s Best Human ‘Go’ Player Has Roots in UMass
+Amherst Computer
+Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.msn.com/en-us/news/technology/artificial-intelligence-just-made-a-huge-leap-in-warfare/ar-AAhJK16?ocid=UE01DHP&#34;&gt;Artificial intelligence just made a huge leap in
+warfare&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.bbc.com/news/technology-30290540&#34;&gt;Stephen Hawking warns artificial intelligence could end
+mankind&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2014/10/future-of-artificial-intelligence&#34;&gt;The Three Breakthroughs That Have Finally Unleashed AI on the
+World&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aispace.org/index.shtml&#34;&gt;Tools for Learning Artificial
+Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aaai.org/AILandscape&#34;&gt;AI Landscape&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.acm.org/education/CS2013-final-report.pdf&#34;&gt;ACM&amp;rsquo;s Computer Science 2013: Curriculum Guidelines for Undergraduate
+Programs in Computer
+Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/0199678111?tag=viglink20784-20&amp;amp;pldnSite=1&#34;&gt;Book: Superintelligence, Nick
+Bostrom&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/bestsellers/books/491300/ref=zg_b_bs_491300_1&#34;&gt;Best sellers in Artificial
+Intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://intelligence.org&#34;&gt;Machine intellience research institute&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://lesswrong.com/r/discussion/&#34;&gt;Less Wrong Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf&#34;&gt;I, algorithm: A new dawn for artificial
+intelligence&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;ML/&#34;&gt;machine learning resources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>Links</title>
-      <link>//localhost:4321/venues/</link>
+      <link>http://localhost:4321/venues/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/venues/</guid>
-      <description>The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.&#xD;People, Lab, Organization&#xD;ACM&#xD;IEEE&#xD;USENIX&#xD;Conferences&#xD;Digital libraries &amp; Search platforms&#xD;Chinese Science Citation DB&#xD;Elsevier&#xD;Springer&#xD;Courses, Workshops&#xD;Software, Industry&#xD;Research online tools&#xD;Research software&#xD;Library&#xD;Competitions ROADEF/EURO CHALLENGE 2020&#xA;International Olympiad in Informatics</description>
+      
+      <guid>http://localhost:4321/venues/</guid>
+      <description>&lt;a name=&#34;top&#34; /&gt;
+&lt;br /&gt;
+The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
+&lt;ul class=&#34;nav nav-tabs nav-stacked navbar-right&#34; &gt;
+&lt;li&gt;&lt;a href=&#34;#PLO&#34;&gt;People, Lab, Organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#acm-sig&#34;&gt;ACM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ieee&#34;&gt;IEEE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#USENIX&#34;&gt;USENIX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#EURO-PAR&#34;&gt;Conferences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#DL-SP&#34;&gt;Digital libraries &amp; Search platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#CSCD&#34;&gt;Chinese Science Citation DB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#elsevier&#34;&gt;Elsevier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#springer&#34;&gt;Springer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#workshops&#34;&gt;Courses, Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SI&#34;&gt;Software, Industry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#online-tools&#34;&gt;Research online tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Research software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#classics&#34;&gt;Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;competitions&#34;&gt;Competitions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.roadef.org/challenge/2020/en/&#34;&gt;ROADEF/EURO CHALLENGE 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ioi2021.sg/ioi-2021-tasks/&#34;&gt;International Olympiad in Informatics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;PLO&#34; /&gt;
+&lt;h3 id=&#34;people-lab-organization&#34;&gt;People, Lab, Organization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/&#34;&gt;Avrim Blum&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/index.html&#34;&gt;Clifford Stein&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://statweb.stanford.edu/~tibs/wisdom.html&#34;&gt;Rob Tibshirani&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://homepages.cwi.nl/~lex/&#34;&gt;Alexander Schrijver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.huji.ac.il/~shais/&#34;&gt;Shai Shalev-Shwartz&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~anupamg/&#34;&gt;Anupam Gupta&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~brecht/&#34;&gt;Ben Recht&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://users.iems.northwestern.edu/~nocedal&#34;&gt;Jorge Nocedal&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.technion.ac.il/~rani/&#34;&gt;Ran El-Yaniv&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;https://amplab.cs.berkeley.edu&#34;&gt;ampLab, UC Berkeley&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://parlab.eecs.berkeley.edu&#34;&gt;Parallel Computing Lab, UC Berkeley&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://theory.cs.cmu.edu&#34;&gt;Algorithms and Complexity, CMU&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html&#34;&gt;PROBE on Parallel Thinking, CMU&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://toc.csail.mit.edu/node/137&#34;&gt;Parallel Computing group, MIT&lt;/a&gt;, &lt;a href=&#34;http://groups.csail.mit.edu/mag/&#34;&gt;Multicore Algorithmics group&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs.brown.edu/~mph/&#34;&gt;Maurice Herlihy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.technion.ac.il/~hagit/&#34;&gt;Hagit Attiya, Technion&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://people.csail.mit.edu/shanir/&#34;&gt;Nir Shavit, MIT&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.matem.unam.mx/~rajsbaum/&#34;&gt;Sergio Rajsbaum&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm&#34;&gt;Resources for Multicore Programming Education&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~guyb/&#34;&gt;Guy E. Blelloch, CMU&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://assaf.net.technion.ac.il&#34;&gt;Assaf Schuster, Technion&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs.stanford.edu/people/jure/&#34;&gt;Jure Leskovec, Stanford&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html&#34;&gt;David A. Patterson&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pds.ewi.tudelft.nl/research-topics/data-science/&#34;&gt;Parallel and Distributed Systems TU Delft&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bigdata.csail.mit.edu/&#34;&gt;Bigdata@CSAIL MIT&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cra.org&#34;&gt;Computing research association&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.siam.org&#34;&gt;Society for Industrial and Applied Mathematics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;acm-sig&#34; /&gt;
+&lt;h3 id=&#34;acm-sig&#34;&gt;ACM SIG&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigact.org/conferences.php&#34;&gt;SIGACT, Algorithms and Computation Theory&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.spaa-conference.org&#34;&gt;ACM Symposium on Parallelism in Algorithms and Architectures&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2612669&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.podc.org&#34;&gt;ACM Symposium on Principles of Distributed Computing&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2611462&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigact.org/pubs.php&#34;&gt;News&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2696081&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;https://parasol.tamu.edu/~welch/sigactNews/&#34;&gt;ACM SIGACT News Distributed Computing Column&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sigai.acm.org//&#34;&gt;SIGAI, Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sigevo.hosting.acm.org/wiki/tiki-index.php&#34;&gt;SIGEVO, Genetic and Evolutionary Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigkdd.org&#34;&gt;SIGKDD, Data mining, data science and analytics community&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.sigkdd.org/conferences&#34;&gt;KDD(International Conference on Knowledge Discovery and Data Mining)&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2623330&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.sigkdd.org/explorations&#34;&gt;Explorations Newsletter&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2674026&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.sigmod.org/&#34;&gt;SIGMOD, Management of Data&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2723372&#34;&gt;ACM SIGMOD International Conference on Management of Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sighpc.org&#34;&gt;SIGHPC, High performance computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigplan.org&#34;&gt;SIGPLAN, Programming Languages&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigplan.org/Conferences/PPOPP/&#34;&gt;ACM Symposium on Principles and Practice of Parallel Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigplan.org/Conferences/OOPSLA/&#34;&gt;OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)&lt;/a&gt;, (part of SPLASH conference)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ecoop.org&#34;&gt;European Conference on Object-Oriented Programming&lt;/a&gt;, (sponsored by AITO)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.sigplan.org/Newsletters/&#34;&gt;SIGPLAN Notices&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J706&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigarch.org&#34;&gt;SIGARCH, Computer Architecture&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J89&#34;&gt;Computer Architecture News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sigmetrics.org&#34;&gt;SIGMETRICS, performance evaluation&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J618&#34;&gt;Performance Evaluation Review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;acm-transactionsjournals&#34;&gt;ACM Transactions/Journals&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tist.acm.org/index.php&#34;&gt;Intelligent Systems and Technology&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J1318&#34;&gt; in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://csur.acm.org/index.html&#34;&gt;Computing Surveys&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J204&#34;&gt; in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jacm.acm.org&#34;&gt;Journal of the ACM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;acm-magazines&#34;&gt;ACM magazines&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://cacm.acm.org&#34;&gt;Conmunications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;acm-conferences&#34;&gt;ACM Conferences&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2482767&#34;&gt;Proceedings of the ACM International Conference on Computing Frontiers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cgo.org/cgo2015/&#34;&gt;ACM/IEEE International Symposium on Code Generation and Optimization&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2581122&#34;&gt; in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;ieee&#34; /&gt;
+&lt;h3 id=&#34;ieees-computer-society&#34;&gt;IEEE&amp;rsquo;s computer society&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.computer.org/csdl&#34;&gt;Computer society digital library&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;magazines&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/computingnow/computer&#34;&gt;Computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/computingnow/intelligentsystems&#34;&gt;Intelligent Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/computingnow/cloudcomputing&#34;&gt;Cloud Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/computingnow/cise&#34;&gt;Computing in Science &amp;amp; Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cis.ieee.org/ieee-computational-intelligence-magazine.html&#34;&gt;Computational Intelligence&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207&#34;&gt; in Xplore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transactions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tetc&#34;&gt;Emerging topics in computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tpds&#34;&gt;Parallel and distributed systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tkde&#34;&gt;Knowledge and data engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tpami&#34;&gt;Pattern analysis and machine intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cis.ieee.org/ieee-transactions-on-evolutionary-computation.html&#34;&gt;Evolutionary Computation&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235&#34;&gt; in Xplore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html&#34;&gt;Neural Networks and Learning Systems&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385&#34;&gt;in Xplore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tcc&#34;&gt;Cloud computing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;other-ieee-transactions&#34;&gt;Other IEEE transactions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tc&#34;&gt;Computers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tse&#34;&gt;Software Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424&#34;&gt;Industrial Informatics, IEEE Transactions on&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computer.org/portal/web/tmc&#34;&gt;Mobile computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18&#34;&gt;Information Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ifp.illinois.edu/ton/&#34;&gt;Networking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ieee-conferences&#34;&gt;IEEE Conferences&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://darksilicon.org/hpca/&#34;&gt;IEEE Symposium on High Performance Computer Architecture&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000335&#34;&gt; in Xplore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;USENIX&#34; /&gt;
+&lt;h3 id=&#34;usenixthe-advanced-computing-systems-association&#34;&gt;USENIX(The Advanced Computing Systems Association)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.usenix.org/publications/proceedings/HotPar&#34;&gt;Workshop on Hot Topics in Parallelism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.usenix.org/publications/proceedings/HotCloud&#34;&gt;Workshop on Hot Topics in Cloud Computing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;EURO-PAR&#34;&gt;
+&lt;h3 id=&#34;conferences&#34;&gt;Conferences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.europar.org&#34;&gt;Euro-Par&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.springer.com/us/book/9783319098722&#34;&gt;Euro-Par 2014: Parallel Processing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://supercomputing.org&#34;&gt;SC conference series(International Conference for High Performance Computing, Networking, Storage, and Analysis)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2683593&#34;&gt;SC&#39;14 Proceedings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mcg.cs.tau.ac.il/Venues&#34;&gt;Multicore venues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;International conference on parallel architectures and compilation&lt;/li&gt;
+&lt;li&gt;ACM SIGPLAN Symposium on principles and practice of parallel programming&lt;/li&gt;
+&lt;li&gt;Annual symposium on cloud computing&lt;/li&gt;
+&lt;li&gt;ACM SIGPLAN-SIGACT Symposium on principles of programming languages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;DL-SP&#34; /&gt;
+&lt;h3 id=&#34;digital-libraries-search-platforms&#34;&gt;Digital libraries, Search platforms&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://dl.acm.org/dl.cfm?comm=portal&#34;&gt;ACM Digital Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.webofknowledge.com&#34;&gt;Web of Science, Thomson Reuters&lt;/a&gt; (可搜索中外期刊文献)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://dblp.uni-trier.de/db/&#34;&gt;dblp: computer science bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scopus.com&#34;&gt;Scopus, Elsevier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.engineeringvillage.com/&#34;&gt;Engineering Village(EI), Elsevier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sciencedirect.com&#34;&gt;ScienceDirect, Elsevier&lt;/a&gt; (within Elsevier&amp;rsquo;s publication) (校园订阅)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.springer.com&#34;&gt;Springer Link&lt;/a&gt; (within Springer&amp;rsquo;s publication)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;CSCD&#34; /&gt;
+&lt;h3 id=&#34;chinese-science-citation-database&#34;&gt;Chinese Science Citation Database&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.las.ac.cn&#34;&gt;中国科学院文献情报中心（国家科学图书馆)&lt;/a&gt; (校园订阅)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://sciencechina.cn/&#34;&gt;中国科学引文数据库&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web of Science searching database includes CSCD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://cqvip.com&#34;&gt;维普期刊资源整合服务平台&lt;/a&gt; (校园订阅)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnki.net&#34;&gt;中国知网&lt;/a&gt; (校园订阅)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wanfangdata.com.cn&#34;&gt;万方数据知识服务平台&lt;/a&gt; (校园订阅)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ccopyright.com.cn/cpcc&#34;&gt;中国版权保护中心&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sipo.gov.cn/zljs/&#34;&gt;中国知识产权局专利检索&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;chinese-journals&#34;&gt;Chinese Journals&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cjc.ict.ac.cn&#34;&gt;计算机学报 (Chinese Journal of Computers)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://crad.ict.ac.cn/CN/volumn/home.shtml&#34;&gt;计算机研究与发展 (Journal of Computer Research and Development)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jos.org.cn/ch/index.aspx&#34;&gt;软件学报 (Journal of Software)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joca.cn/CN/volumn/home.shtml&#34;&gt;计算机应用 (Journal of Computer Applications)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jsjkx.com/jsjkx/ch/index.aspx&#34;&gt;计算机科学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fcst.ceaj.org/CN/volumn/home.shtml&#34;&gt;计算机科学与探索 (Journal of Frontiers of Computer Science and Technology)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml&#34;&gt;Journal of Computer Science and Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jes.ucas.ac.cn/WKD/WebPublication/index.aspx?mid=gckg&#34;&gt;工程研究&amp;ndash;跨学科视野中的工程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://csb.scichina.com:8080/CN/volumn/home.shtml&#34;&gt;科学通报 (Chinese Science Bulletin)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bulletin.cas.cn/ch/index.aspx&#34;&gt;中国科学院院刊 (Bulletin of Chinese Academy of Sciences)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arocmag.com&#34;&gt;计算机应用研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ecice06.com/CN/volumn/home.shtml&#34;&gt;计算机工程 (Computer Engineering)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joces.org.cn/CN/volumn/home.shtml&#34;&gt;计算机工程与科学 (Computer Engineering &amp;amp; Science)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cea.ceaj.org/CN/volumn/home.shtml&#34;&gt;计算机工程与应用 (Computer Engineering and Applications)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kzyjc.net:8080/CN/volumn/current.shtml&#34;&gt;控制与决策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xk.sia.cn&#34;&gt;信息与控制&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://manu12.magtech.com.cn/Jweb_prai/CN/volumn/home.shtml&#34;&gt;模式识别与人工智能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computmath.com/Jwk_szjs/CN/volumn/home.shtml&#34;&gt;数值计算与计算机应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ejournal.org.cn/CN/volumn/current.shtml&#34;&gt;电子学报&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tis.hrbeu.edu.cn&#34;&gt;智能系统学报&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;chinese-science-organization&#34;&gt;Chinese science organization&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nsfc.gov.cn&#34;&gt;国家自然科学基金委员会&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://isisn.nsfc.gov.cn/egrantweb/&#34;&gt;科研基金网络信息系统&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ict.ac.cn&#34;&gt;中国科学院计算技术研究所 (Institute of Computing Technology Chinese Academy of Sciences)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cast.org.cn&#34;&gt;中国科学技术协会 (China Association for Science and Technology)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ccf.org.cn/sites/ccf/&#34;&gt;中国计算机学会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://caai.cn&#34;&gt;中国人工智能学会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;elsevier&#34; /&gt;
+&lt;h3 id=&#34;elsevier&#34;&gt;Elsevier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sciencedirect.com/science/journal/07437315&#34;&gt;Journal of Parallel and Distributed Computing&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J477&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sciencedirect.com/science/journal/01678191&#34;&gt;Parallel Computing &amp;ndash; systems &amp;amp; applications&lt;/a&gt;, &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=J602&#34;&gt;in ACM-DL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/artificial-intelligence/&#34;&gt;Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/information-sciences/&#34;&gt;Information Sciences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/applied-soft-computing/&#34;&gt;Applied Soft Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/pattern-recognition/&#34;&gt;Pattern Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/neural-networks/&#34;&gt;Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/mathematical-and-computer-modelling/&#34;&gt;Mathematical and Computer Modelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/international-journal-of-approximate-reasoning/&#34;&gt;International Journal of Approximate Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;springer&#34; /&gt;
+&lt;h3 id=&#34;springer&#34;&gt;Springer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.springer.com/computer/swe/journal/11227&#34;&gt;Journal of Supercomputing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.journalofcloudcomputing.com&#34;&gt;Jounral of Cloud Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.springer.com/journal/10115&#34;&gt;Knowledge and Information Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.springer.com/journal/10994&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.springer.com/journal/453&#34;&gt;Algorithmica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.springer.com/journal/10618&#34;&gt;Data Mining &amp;amp; Knowledge Discovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;journals-of-other-publishers&#34;&gt;Journals of other publishers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jmlr.org&#34;&gt;Journal of Machine Learning Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.palgrave-journals.com/ejis/index.html&#34;&gt;European Journal of Information Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://epubs.siam.org/journal/smjcat&#34;&gt;SIAM Journal on Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tandfonline.com/loi/gpaa19&#34;&gt;International Journal of Parallel, Emergent and Distributed Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://booksite.elsevier.com/9780123973375/?ISBN=9780123973375&#34;&gt;The Art of Multiprocessor Programming, Revised Peprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/dp/0124045782/ref=as_sl_pc_tf_lc?tag=mauriherli-20&amp;amp;camp=14573&amp;amp;creative=327641&amp;amp;linkCode=as1&amp;amp;creativeASIN=0124045782&amp;amp;adid=11CCVZH2DFHFFRKKTPX1&amp;amp;&amp;amp;ref-refURL=http%3A%2F%2Fcs.brown.edu%2F~mph%2F&#34;&gt;Distributed Computing Through Combinatorial Topology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-users.cs.umn.edu/%7Ekarypis/parbook/&#34;&gt;Introduction to Parallel Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.parallel-algorithms-book.com&#34;&gt;Principles of Parallel Algorithms and Programming, draft, cmu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://booksite.elsevier.com/9780123838728/&#34;&gt;Computer Architecture: A Quantitative Approach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;quora-topics&#34;&gt;Quora topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/Parallel-Computing&#34;&gt;Parallel computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/Distributed-Algorithms&#34;&gt;Distributed algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/Distributed-Systems&#34;&gt;Distributed systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/Machine-Learning&#34;&gt;Machine learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;workshops&#34; /&gt;
+&lt;h3 id=&#34;courses-workshops&#34;&gt;Courses, Workshops&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://simons.berkeley.edu/programs/bigdata2013&#34;&gt;Theoretical Foundations of Big Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~15210/&#34;&gt;Parallel and Sequential Data Structures and Algorithms, CMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.usfca.edu/~peter/cs625/&#34;&gt;Parallel and Distributed Computing, USF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.usfca.edu/~peter/cs220/index.html&#34;&gt;Introduction to Parallel Computing, USF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://parasol.tamu.edu/~amato/Courses/626/&#34;&gt;Parallel Algorithm Design and Analysis, TAMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.staff.science.uu.nl/~bisse101/Education/PA/pa.html&#34;&gt;Parallel Algorithms, Utrecht Univ.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://webcourse.cs.technion.ac.il/236370&#34;&gt;Parallel And Distributed Programming, Technion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.berkeley.edu/~satishr/cs273/&#34;&gt;Foundations of Parallel and Distributed Systems, UC Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/info&#34;&gt;ASPIRE Short Course on Parallel Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.cecs.pdx.edu/~walpole/class/cs533/fall2014/home.html&#34;&gt;Concepts of Operating Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.cecs.pdx.edu/~walpole/class/cs510/fall2014/home.html&#34;&gt;Concurrent Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://soft.vub.ac.be/~tvcutsem/multicore/&#34;&gt;Multicore Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resource-pages&#34;&gt;Resource pages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.personal.kent.edu/~rmuhamma/Parallel/parallel.html&#34;&gt;http://www.personal.kent.edu/~rmuhamma/Parallel/parallel.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;SI&#34; /&gt;
+&lt;h3 id=&#34;software-industry&#34;&gt;Software, Industry&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://typesafe.com&#34;&gt;Typesafe&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://spark.apache.org&#34;&gt;Spark&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://prediction.io&#34;&gt;PredictionIO&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://www.scala-lang.org&#34;&gt;Scala programming language&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mapr.com&#34;&gt;MapR&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://stanford-ppl.github.io/Delite/&#34;&gt;Delite&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stanford-ppl/Delite&#34;&gt;Delite on github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://radar.oreilly.com/2014/01/a-compelling-family-of-dsls-for-data-science.html&#34;&gt;A compelling family of DSLs for Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mesosphere.com/&#34;&gt;Datacenter OS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.csdn.net&#34;&gt;CSDN中文IT社区&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://radar.oreilly.com/data&#34;&gt;OReilly radar&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;online-tools&#34; /&gt;
+&lt;h3 id=&#34;research-online-tools&#34;&gt;Research online tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;glyphicon glyphicon-bookmark&#34; aria-hidden=&#34;true&#34; /&gt; &lt;a href=&#34;http://dblp.uni-trier.de/db/&#34;&gt;dblp: computer science bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://liinwww.ira.uka.de/bibliography/index.html&#34;&gt;The collection of computer science bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://academic.research.microsoft.com&#34;&gt;Microsoft Academic Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;arXiv.org&#34;&gt;arXiv.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.worldcat.org/&#34;&gt;Worldcat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;software&#34; /&gt;
+&lt;h3 id=&#34;research-software&#34;&gt;Research software&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX, a document preparation system&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ctan.org/&#34;&gt;CTAN, TEX archive network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tug.org/&#34;&gt;TeX users group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/&#34;&gt;Tex stack exchange&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.uoregon.edu/koch/texshop/&#34;&gt;TexShop, for Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://texstudio.sourceforge.net/&#34;&gt;TeX studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gnuplot.sourceforge.net/&#34;&gt;gnuplot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.r-project.org/&#34;&gt;R, open source Stat software&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rstudio.com/&#34;&gt;R studio, a frontend to R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:4321/resource/math/&#34;&gt;Math&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;writing-toolresourcewriting&#34;&gt;&lt;a href=&#34;http://localhost:4321/resource/writing&#34;&gt;Writing tool&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Markdown texts can be converted to PDF, Word, Latex documents.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MS&amp;rsquo;s Visual Studio Code editor&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;markdown preview enhanced extension&lt;/li&gt;
+&lt;li&gt;latex extension&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Texlive&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pandoc, a universal text file transformation tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rstudio, rmarkdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tableconvert.com/&#34;&gt;Convert Excel to Markdown Table&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oxfordlearnersdictionaries.com/&#34;&gt;Oxford&amp;rsquo;s Learner&amp;rsquo;s Dictionaries online account&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name=&#34;classics&#34; /&gt;
+&lt;!-- ## [Library](/resource/library) --&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-success&#34; style=&#34;float:right&#34; href=&#34;#top&#34;&gt;go to top&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>优秀毕业设计-2018</title>
-      <link>//localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
+      <link>http://localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</link>
       <pubDate>Sat, 26 May 2018 08:33:49 +0800</pubDate>
-      <guid>//localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
-      <description>在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：&#xA;张孟杰，题目是“液化气体库存路径问题分析” \ 商乔，“基于自然语言处理技术的动漫手机助手” \ 李俊颉，“计算机视觉中人脸识别算法研究”&#xA;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 qqi@hainanu.edu.cn )。让我们一起讨论可能的合作机会与前景。</description>
+      
+      <guid>http://localhost:4321/2018/05/26/%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1-2018/</guid>
+      <description>&lt;p&gt;在今年的毕业设计项目中，很愉快和一些最有才华的年轻人在一起工作，他们中有三人最终获得了优秀的成绩：&lt;/p&gt;
+&lt;p&gt;张孟杰，题目是“液化气体库存路径问题分析” \
+商乔，“基于自然语言处理技术的动漫手机助手” \
+李俊颉，“计算机视觉中人脸识别算法研究”&lt;/p&gt;
+&lt;p&gt;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt; )。让我们一起讨论可能的合作机会与前景。&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Contact</title>
-      <link>//localhost:4321/contact/</link>
+      <link>http://localhost:4321/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/contact/</guid>
-      <description>Email:&#xA;qqi @hainanu.edu.cn,&#xA;or qiqi789 @ gmail.com&#xA;My department address:&#xA;Computer Science department&#xA;Hainan University&#xA;Renmin avenue #58&#xA;Haikou, Hainan, 570228&#xA;China</description>
+      
+      <guid>http://localhost:4321/contact/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Email:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;qqi @hainanu.edu.cn,&lt;/p&gt;
+&lt;p&gt;or qiqi789 @ gmail.com&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My department address:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Computer Science department&lt;/p&gt;
+&lt;p&gt;Hainan University&lt;/p&gt;
+&lt;p&gt;Renmin avenue #58&lt;/p&gt;
+&lt;p&gt;Haikou, Hainan, 570228&lt;/p&gt;
+&lt;p&gt;China&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

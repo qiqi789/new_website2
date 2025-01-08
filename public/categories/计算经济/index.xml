@@ -2,25 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>计算经济 on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</link>
+    <link>http://localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</link>
     <description>Recent content in 计算经济 on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://localhost:4321/categories/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>New Directions in Market Design</title>
-      <link>//localhost:4321/2024/04/26/new-directions-in-market-design/</link>
+      <link>http://localhost:4321/2024/04/26/new-directions-in-market-design/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/04/26/new-directions-in-market-design/</guid>
-      <description>New Directions in Market Design NBER&amp;rsquo;s Conference, Spring 2023&#xA;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#xA;Market Design Working Group Meeting, Fall 2023 https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#xA;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#xA;Seminar, ACO Center @ UCI https://acoi.ics.uci.edu/seminar-series/</description>
+      
+      <guid>http://localhost:4321/2024/04/26/new-directions-in-market-design/</guid>
+      <description>&lt;h1 id=&#34;new-directions-in-market-design&#34;&gt;&lt;strong&gt;New Directions in Market Design&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;NBER&amp;rsquo;s Conference, Spring 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#34;&gt;https://www.nber.org/conferences/new-directions-market-design-spring-2023&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;market-design-working-group-meeting-fall-2023&#34;&gt;&lt;strong&gt;Market Design Working Group Meeting, Fall 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#34;&gt;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#34;&gt;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;seminar-aco-center--uci&#34;&gt;Seminar, ACO Center @ UCI&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://acoi.ics.uci.edu/seminar-series/&#34;&gt;https://acoi.ics.uci.edu/seminar-series/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>CCF 计算经济大赛，专委会，相关网页</title>
-      <link>//localhost:4321/2023/10/30/ccf-ce-competition/</link>
+      <link>http://localhost:4321/2023/10/30/ccf-ce-competition/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/ccf-ce-competition/</guid>
-      <description>CCF 计算经济学大赛 CCF 计算经济学大赛，https://ccf.pkucxpl.com/ 计算经济学专业组, https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/ 北京大学前沿计算研究中心，https://cfcs.pku.edu.cn/people/directors/index.htm ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation&#xA;Related Links Mixed Integer Programming Society, Mathematical Optimization Society&#xA;理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学&#xA;人工智能研究院，北京大学&#xA;高瓴人工智能研究院，人民大学&#xA;华为算法创新Lab&#xA;http://marketdesigner.blogspot.com/</description>
+      
+      <guid>http://localhost:4321/2023/10/30/ccf-ce-competition/</guid>
+      <description>&lt;h2 id=&#34;ccf-计算经济学大赛&#34;&gt;CCF 计算经济学大赛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF 计算经济学大赛，&lt;a href=&#34;https://ccf.pkucxpl.com/&#34;&gt;https://ccf.pkucxpl.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;计算经济学专业组, &lt;a href=&#34;https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/&#34;&gt;https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCE/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;北京大学前沿计算研究中心，&lt;a href=&#34;https://cfcs.pku.edu.cn/people/directors/index.htm&#34;&gt;https://cfcs.pku.edu.cn/people/directors/index.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;related-links&#34;&gt;Related Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mixedinteger.org/&#34;&gt;Mixed Integer Programming Society, Mathematical Optimization Society&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://itcs.sufe.edu.cn/LlChinese/main.htm&#34;&gt;理论计算机科学研究中心（Institute for Theoretical Computer Science），上海财经大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ai.pku.edu.cn/index.htm&#34;&gt;人工智能研究院，北京大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/index.htm&#34;&gt;高瓴人工智能研究院，人民大学&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.huaweicloud.com/lab/algorithm/home.html&#34;&gt;华为算法创新Lab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://marketdesigner.blogspot.com/&#34;&gt;http://marketdesigner.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

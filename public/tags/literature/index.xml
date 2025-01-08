@@ -2,25 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/tags/literature/</link>
+    <link>http://localhost:4321/tags/literature/</link>
     <description>Recent content in Literature on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4321/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Algorithms and Game Theory</title>
-      <link>//localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
-      <description>Conference International Symposium on Algorithmic Game Theory&#xA;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&#xA;Proceeding Web link SAGT 2022&#xA;SAGT 2021&#xA;SAGT 2020&#xA;SAGT 2019&#xA;SAGT 2018&#xA;SAGT 2017&#xA;SAGT 2016&#xA;SAGT 2015&#xA;SAGT 2014&#xA;SAGT 2013&#xA;SAGT 2012&#xA;SAGT 2011&#xA;SAGT 2010&#xA;SAGT 2009&#xA;SAGT 2008&#xA;ACM links ACM Special Interest Group on Economics and Computation&#xA;ACM Transactions on Economics and Computation&#xA;ACM Conference on Economics and Computation</description>
+      
+      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/&#34;&gt;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-43254-5&#34;&gt;Proceeding Web link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-15714-1&#34;&gt;SAGT 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-85947-3&#34;&gt;SAGT 2021&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-57980-7&#34;&gt;SAGT 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-30473-7&#34;&gt;SAGT 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-99660-8&#34;&gt;SAGT 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-66700-3&#34;&gt;SAGT 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-53354-3&#34;&gt;SAGT 2016&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-48433-3&#34;&gt;SAGT 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-44803-8&#34;&gt;SAGT 2014&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-41392-6&#34;&gt;SAGT 2013&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-33996-7&#34;&gt;SAGT 2012&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-24829-0&#34;&gt;SAGT 2011&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-16170-4&#34;&gt;SAGT 2010&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-04645-2&#34;&gt;SAGT 2009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-79309-0&#34;&gt;SAGT 2008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;Matchings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2023fa/lectures.html&#34;&gt;Algorithms core theory&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Reference bookmarks -- scholars webpages</title>
-      <link>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
+      <link>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
-      <description>Online reference bookmarks https://ics.uci.edu/~vazirani/&#xA;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V https://home.ttic.edu/~avrim/Papers/pubs.html&#xA;https://www.cs.cornell.edu/home/kleinber/&#xA;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu) https://tibshirani.su.domains/index.html&#xA;https://tibshirani.su.domains/research_page.html&#xA;https://tibshirani.su.domains/research.html&#xA;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#xA;https://people.eecs.berkeley.edu/~jordan/publications.html&#xA;http://www.columbia.edu/~cs2035/&#xA;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#xA;https://fan.princeton.edu/fan/classes/525.html&#xA;https://rdpeng.org/ (R, Statistics, and Data Sciences)&#xA;https://www.cis.upenn.edu/~aaroth/&#xA;https://ericbudish.org/&#xA;https://stanford.edu/~jacobfox/&#xA;https://www.its.caltech.edu/~dconlon/&#xA;Matching https://ics.uci.edu/~vazirani/&#xA;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#xA;http://www.columbia.edu/~yf2414/research.html</description>
+      
+      <guid>http://localhost:4321/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
+      <description>&lt;h1 id=&#34;online-reference-bookmarks&#34;&gt;Online reference bookmarks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&#34;&gt;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Papers/pubs.html&#34;&gt;https://home.ttic.edu/~avrim/Papers/pubs.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/kleinber/&#34;&gt;https://www.cs.cornell.edu/home/kleinber/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs1340/2022sp/&#34;&gt;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/index.html&#34;&gt;https://tibshirani.su.domains/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research_page.html&#34;&gt;https://tibshirani.su.domains/research_page.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research.html&#34;&gt;https://tibshirani.su.domains/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#34;&gt;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/publications.html&#34;&gt;https://people.eecs.berkeley.edu/~jordan/publications.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/&#34;&gt;http://www.columbia.edu/~cs2035/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#34;&gt;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fan.princeton.edu/fan/classes/525.html&#34;&gt;https://fan.princeton.edu/fan/classes/525.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://rdpeng.org/&#34;&gt;https://rdpeng.org/ (R, Statistics, and Data Sciences)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/&#34;&gt;https://www.cis.upenn.edu/~aaroth/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ericbudish.org/&#34;&gt;https://ericbudish.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stanford.edu/~jacobfox/&#34;&gt;https://stanford.edu/~jacobfox/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.its.caltech.edu/~dconlon/&#34;&gt;https://www.its.caltech.edu/~dconlon/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matching&#34;&gt;Matching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

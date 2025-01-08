@@ -2,32 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学者分享 on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>//localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</link>
+    <link>http://localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</link>
     <description>Recent content in 学者分享 on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4321/categories/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>László Lovász: Working mathematical miracles</title>
-      <link>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
+      <link>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
-      <description>László Lovász: Working mathematical miracles&#xA;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#xA;Pioneering Graph Theory – László Lovász&#xA;Selected topics in graph theory&#xA;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#xA;https://lovasz.web.elte.hu//kurzusok/&#xA;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, Heidelberg Laureate Forum https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#xA;Why People Hate Maths, and Why You Should Love It&#xA;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/</description>
+      
+      <guid>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
+      <description>&lt;p&gt;László Lovász: Working mathematical miracles&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#34;&gt;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/pioneering-graph-theory-laszlo-lovasz/&#34;&gt;Pioneering Graph Theory – László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Selected topics in graph theory&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#34;&gt;https://lovasz.web.elte.hu//kurzusok/limit2023.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/&#34;&gt;https://lovasz.web.elte.hu//kurzusok/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, &lt;a href=&#34;https://scilogs.spektrum.de/hlf&#34; title=&#34;Go to Heidelberg Laureate Forum.&#34;&gt;Heidelberg Laureate Forum&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#34;&gt;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why People Hate Maths, and Why You Should Love It&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&#34;&gt;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>How this Turing Award–winning researcher became a legendary academic advisor</title>
-      <link>//localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</link>
+      <link>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</guid>
-      <description>How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/</description>
+      
+      <guid>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</guid>
+      <description>&lt;h1 id=&#34;how-this-turing-award--winning-researcher-became-a-legendary-academic-advisor&#34;&gt;How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&#34;&gt;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>科研学者经验分享，网上摘录</title>
-      <link>//localhost:4321/2023/10/30/research-scholars/</link>
+      <link>http://localhost:4321/2023/10/30/research-scholars/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2023/10/30/research-scholars/</guid>
-      <description>科研学者经验分享 窦志成教授：如何撰写科研论文&#xA;http://ai.ruc.edu.cn/research/science/20201014001.html&#xA;赵鑫教授：科研入门的一些经验分享&#xA;http://ai.ruc.edu.cn/research/science/20221125003.html</description>
+      
+      <guid>http://localhost:4321/2023/10/30/research-scholars/</guid>
+      <description>&lt;h2 id=&#34;科研学者经验分享&#34;&gt;科研学者经验分享&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;窦志成教授：如何撰写科研论文&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/research/science/20201014001.html&#34;&gt;http://ai.ruc.edu.cn/research/science/20201014001.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;赵鑫教授：科研入门的一些经验分享&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ai.ruc.edu.cn/research/science/20221125003.html&#34;&gt;http://ai.ruc.edu.cn/research/science/20221125003.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
