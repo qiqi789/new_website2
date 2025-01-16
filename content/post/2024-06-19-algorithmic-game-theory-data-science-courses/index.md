@@ -59,3 +59,5 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 [Satoru Iwata's lectures and publications](https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/)
 
 [Ayumi Igarashi's publications](https://sites.google.com/site/eigarashayumi/publications)
+
+[Yasushi Kawase's publications and teaching](https://yambi.jp/#/publications)
