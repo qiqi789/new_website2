@@ -2,7 +2,7 @@
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
 date: '2024-06-19'
-lastmod: '2025-1-16'
+lastmod: '2025-01-16'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
