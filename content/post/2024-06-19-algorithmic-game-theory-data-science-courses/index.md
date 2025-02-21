@@ -2,7 +2,7 @@
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
 date: '2024-06-19'
-lastmod: '2025-01-16'
+lastmod: '2025-02-21'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -14,15 +14,15 @@ tags:
 
 Alon, N., & Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.
 
-Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.
-
-Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.
-
-Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.
-
 Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.
 
 Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.
+
+Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.
+
+Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.
+
+Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.
 
 [TTIC 31260 - Algorithmic Game Theory (Spring 2024)](https://home.ttic.edu/~avrim/AGT24/index.html)
 
