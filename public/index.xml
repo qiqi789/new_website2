@@ -43,6 +43,7 @@
 &lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eigarashayumi/publications&#34;&gt;Ayumi Igarashi&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yambi.jp/#/publications&#34;&gt;Yasushi Kawase&amp;rsquo;s publications and teaching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Zhao&amp;rsquo;s Webpage (adversarial machine learning)&lt;/a&gt; , &lt;a href=&#34;http://sandlab.cs.uchicago.edu/index.html&#34;&gt;Sand Lab(Security, Algorithms, Networking and Data)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -187,7 +188,7 @@
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
-      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-himhttpsioitelvoipdfv17_2023_3_18pdf&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
+      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://ioi.te.lv/oi_content_v17.shtml&#34;&gt;From the International Olympiad in Informatics Journal Vol 17, 2023&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -594,7 +595,7 @@ MOSpace&lt;/a&gt;&lt;/li&gt;
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:4321/2023/10/30/how-this-turing-award-winning-researcher-became-a-legendary-academic-advisor/</guid>
-      <description>&lt;h1 id=&#34;how-this-turing-award--winning-researcher-became-a-legendary-academic-advisor&#34;&gt;How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;how-this-turing-awardwinning-researcher-became-a-legendary-academic-advisor&#34;&gt;How this Turing Award&amp;ndash;winning researcher became a legendary academic advisor&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&#34;&gt;https://www.technologyreview.com/2023/10/24/1081478/manuel-blum-theoretical-computer-science-turing-award-academic-advisor/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -871,7 +872,7 @@ and Peter Norvig. Prentice Hall, 2009.&lt;/li&gt;
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:4321/2022/11/08/test-new-post/</guid>
-      <description>&lt;h1 id=&#34;人工智能算法在可解释性和公平可信发展趋势的初步调研1&#34;&gt;人工智能算法在可解释性和公平可信发展趋势的初步调研&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;人工智能算法在可解释性和公平可信发展趋势的初步调研&#34;&gt;人工智能算法在可解释性和公平可信发展趋势的初步调研&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h1&gt;
 &lt;p&gt;现代人工智能的应用普及，同时也带来了算法在决策上的偏见和区别对待等问题。例如，一个犯罪风险评估算法对黑人比白人辩护人更有可能做出错误的预测判断；广告投放算法会把秘书和超市工作的广告更多地推介给女性；一个医疗资源配置算法对于同等需求的患者更倾向于白人。想比较于人类决策中的歧视现象，算法的歧视更具有隐蔽性，因为算法的预测模型是通过对大量收集的数据进行处理分析以后所确立的，而不是基于当事人的抉择。然而，传统的机器学习算法的模型构建和预测有可能强化了所应用的数据中的偏见与不均匀的配置，从而导致具有偏见的预测判断。&lt;/p&gt;
 &lt;p&gt;美国的现有法律明确禁止有目的歧视，比如差别对待。因此一个公司如果依赖于有歧视效应的预测模型来做出雇佣选择，那么它也是违反了相关法律&lt;sup&gt;[1]&lt;/sup&gt;。然而，对于算法来说，如果仅是把一些诸如性别、种族等的特征数据从训练数据中刨除出去，也不一定能够保证算法的预测公平性。例如，在训练数据中，假如女性雇员的工作指标数据非常少，那么算法最终训练出来的模型可能对女性雇员的工作评价做出不公平的预测。因此，此类用于人力资源雇佣和评价决策的算法应该经常对其输入训练数据中不同群体的数据分布进行审计。&lt;/p&gt;
 &lt;p&gt;如何保证算法的公平性，计算机科学和数据科学专家已经提出了一些方法降低预测模型的可能偏见。这些方法通常会在构建模型过程中考虑应对敏感特征所代表的数据。然而，把不同群体的数据进行强制定量，忽视群体间内在的相关差异，也是不科学的。虽然，相关的法律规则并不容易被直接反应在计算机程序和算法里，但是，当前的法律为算法设计者、数据科学专家提供了比较多的自由，去探索不同的策略用于减少算法所产生的判别偏见&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
@@ -1026,20 +1027,16 @@ China&lt;/p&gt;
 &lt;h3 id=&#34;更新通知&#34;&gt;更新通知&lt;/h3&gt;
 &lt;h4 id=&#34;2019129&#34;&gt;2019/12/9&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;期末考试为闭卷考试，考查范围主要涉及：搜索算法，约束满足问题，博弈问题，MDP，增强学习，概率推理，贝叶斯网络，决策网络和信息价值，隐式马可夫网络，机器学习等相关内容。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h4 id=&#34;2019122&#34;&gt;2019/12/2&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;作业6，已经贴出。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;作业6，已经贴出。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h4 id=&#34;20191125&#34;&gt;2019/11/25&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;作业5，已经贴出。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;作业5，已经贴出。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h4 id=&#34;20191118&#34;&gt;2019/11/18&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;作业1，2，3（作业1-3是往年的），4，已经贴出。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;作业1，2，3（作业1-3是往年的），4，已经贴出。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;作业&#34;&gt;作业&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;hw/HW1.pdf&#34;&gt;作业1&lt;/a&gt;, &lt;a href=&#34;hw/HW1_solution_publish.pdf&#34;&gt;答案1&lt;/a&gt;&lt;/li&gt;
@@ -1852,7 +1849,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:4321/resource/math/&#34;&gt;Math&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;writing-toolresourcewriting&#34;&gt;&lt;a href=&#34;http://localhost:4321/resource/writing&#34;&gt;Writing tool&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;writing-tool&#34;&gt;&lt;a href=&#34;http://localhost:4321/resource/writing&#34;&gt;Writing tool&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Markdown texts can be converted to PDF, Word, Latex documents.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
