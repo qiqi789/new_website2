@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/reference/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/research/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/research/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/2025/03/07/selected-references-in-algorithmic-game-theory/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/algorithmic-games/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/tags/computation-and-economics/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/reference/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/art/</loc>
@@ -43,9 +55,6 @@
   </url><url>
     <loc>http://localhost:4321/2024/04/26/new-directions-in-market-design/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/research/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
@@ -103,12 +112,6 @@
   </url><url>
     <loc>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/reference/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/research/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</loc>
     <lastmod>2023-12-23T00:00:00+00:00</lastmod>
