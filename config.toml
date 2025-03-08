@@ -16,10 +16,19 @@ footnoteReturnLinkContents = "^"
 hasCJKLanguage = true
 #languageCode = "cn"
 
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe = true
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+[menu]
+# Shown in the side menu.
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -116,12 +125,7 @@ enableEmoji= true
 hasCJKLanguage = true
 
 
-    [markup.goldmark.renderer]
-      unsafe = true
 
-#[social]
-    #github  = "https://github.com/rstudio/blogdown"
-  #twitter = "https://twitter.com/qiziqi"
     
 [frontmatter]
   images = ['static/images']
