@@ -2,7 +2,7 @@
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
 date: '2024-06-19'
-lastmod: '2025-02-21'
+lastmod: '2025-03-10'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -63,3 +63,5 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 [Yasushi Kawase's publications and teaching](https://yambi.jp/#/publications)
 
 [Ben Zhao's Webpage (adversarial machine learning)](https://people.cs.uchicago.edu/~ravenben/) , [Sand Lab(Security, Algorithms, Networking and Data)](http://sandlab.cs.uchicago.edu/index.html)
+
+[Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
