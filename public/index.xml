@@ -7,10 +7,340 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research proposal</title>
+      <link>http://localhost:4321/writing/research-proposal/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/writing/research-proposal/</guid>
+      <description>&lt;h2 id=&#34;请勿删除或改动下述提纲标题及括号中的文字&#34;&gt;&lt;strong&gt;请勿删除或改动下述提纲标题及括号中的文字。&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;一立项依据与研究内容建议8000字以下&#34;&gt;&lt;strong&gt;（一）立项依据与研究内容&lt;/strong&gt;（建议8000字以下）：&lt;/h3&gt;
+&lt;h3 id=&#34;1项目的立项依据研究意义国内外研究现状及发展动态分析需结合科学研究发展趋势来论述科学意义或结合国民经济和社会发展中迫切需要解决的关键科技问题来论述其应用前景附主要参考文献目录&#34;&gt;&lt;strong&gt;1．项目的立项依据&lt;/strong&gt;（研究意义、国内外研究现状及发展动态分析，需结合科学研究发展趋势来论述科学意义；或结合国民经济和社会发展中迫切需要解决的关键科技问题来论述其应用前景。附主要参考文献目录）；&lt;/h3&gt;
+&lt;p&gt;数字经济的发展是国家战略关注的一个重点领域。习近平总书记强调：“要站在统筹中华民族伟大复兴战略全局和世界百年未有之大变局的高度，统筹国内国际两个大局、发展安全两件大事，充分发挥海量数据和丰富应用场景优势，促进数字技术与实体经济深度融合，赋能传统产业转型升级，催生新产业新业态新模式，不断做强做优做大我国数字经济。要加强关键核心技术攻关，牵住自主创新这个“牛鼻子”，发挥我国社会主义制度优势、新型举国体制优势、超大规模市场优势，提高数字技术基础研发能力，打好关键核心技术攻坚战，尽快实现高水平自立自强，把发展数字经济自主权牢牢掌握在自己手中。”正如总书记所说，数字经济的建设需要核心技术的支撑。&lt;/p&gt;
+&lt;p&gt;数字经济建设的核心技术之一是数据要素的市场设计，建立相应的合理公平分配以及定价理论与算法，这是一项融合了信息学、博弈论、计算机科学算法的前沿交叉研究。这其中的研究问题包括匹配问题和公平分配问题。&lt;/p&gt;
+&lt;p&gt;匹配问题的经典研究不仅推动了理论计算机科学的发展，而且其相关问题的研究和应用在当今依然深入广泛进行&lt;sup&gt;[1–16]&lt;/sup&gt;。匹配原理涉及的问题是在一个图上判断某种匹配(边集)是否存在，以及如何快速地找到这样一个匹配，例如最大匹配或最大权重匹配问题。通常情况下，这些问题在二部图中比在普通图中更易求解。有关这方面的经典理论请参考 Lovász的著作&lt;sup&gt;[17]&lt;/sup&gt;。 匹配问题在计算经济领域应用广泛，而且相关组合优化问题与市场设计中的博弈问题存在对偶关联。匹配问题的算法为获取有效的机制解决市场设计中的博弈问题并兼顾效率提供了有力的工具。这方面有关的理论及应用详情请参考 Vazirani等的著作&lt;sup&gt;[18,19]&lt;/sup&gt;。此外，匹配在金融、生物统计和临床医学数据分析领域中也有相关的应用和研究&lt;sup&gt;[20–25]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;公平分配问题是市场设计中博弈问题的一个相关体现&lt;sup&gt;[26–32]&lt;/sup&gt;。假设一个集合$&lt;code&gt;A&lt;/code&gt;$包含$&lt;code&gt;n&lt;/code&gt;$个用户，一个集合$&lt;code&gt;G&lt;/code&gt;$包括$&lt;code&gt;m&lt;/code&gt;$个不同的商品，每个用户都有一个对商品子集为输入的单调递增的价值函数，即$&lt;code&gt;i\in N, v_i:2^G\rightarrow \mathbb{R}_{\geq 0}&lt;/code&gt;$，目标是公平地分配商品给这些用户。目前流行的一种衡量公平的概念是Envy-freeness(EF)，即每个用户分得商品的价值从她自己的价值函数计算都不小于其他用户获得的商品价值。对于不可分割的商品，EF分配不一定存在，因此出现了一些严格度降低的相关概念，例如EFX(即Envy-freeness up to any item)等&lt;sup&gt;[33]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;EFX是不可分割商品分配问题中目前普遍接受的公平性衡量指标。它是指给定一个分配解，对于其中的任何一个用户，其所分得商品价值都不小于其他任一用户所得商品中去除任一个商品之后的价值。即，给定一组分配 &lt;code&gt;\(S=(S_i)_{i\in A}\)&lt;/code&gt;，$&lt;code&gt;S&lt;/code&gt;$满足EFX，如果 &lt;code&gt;\(v_i(S_i)\geq v_i(S_k -j),\forall i,k\in A,\forall j\in S_k\)&lt;/code&gt; 成立。但是，当$&lt;code&gt;n&amp;gt;3&lt;/code&gt;$时，即使价值函数的结构是叠加性质的，EFX分配解的存在问题仍是该领域中一个重要的开放问题&lt;sup&gt;[34]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;基于匹配的组合优化问题与市场设计相关问题存在关联&lt;sup&gt;[25,35,36]&lt;/sup&gt;。基于匹配的市场是由一组$&lt;code&gt;n&lt;/code&gt;$个可分割的商品和一组$&lt;code&gt;n&lt;/code&gt;$个用户组成，用户对商品具有偏好，并通过排序或数值方式定义，目标是在用户和商品之间找到一个匹配，满足公平属性并最大化商品的功用。传统方法 Hylland-Zeckhauser(HZ)模型通过计算博弈均衡来求解该问题，但是该模型下即使计算一个近似均衡解也属于 PPAD-complete问题&lt;sup&gt;[8]&lt;/sup&gt;。现在流行一种方法是基于所谓的Nash bargaining，这种方法的结果不仅具有凸优化的计算效率，而且满足Pareto最优性、对称性和分配结果相对公平的特性&lt;sup&gt;[7,37]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;纳什社会福利(Nash Social Welfare,简记为NSW)优化目标即来自上面提到的Nash bargaining方法&lt;sup&gt;[2]&lt;/sup&gt;，是其离散问题的版本&lt;sup&gt;[38]&lt;/sup&gt;。其目标是最大化用户获取商品的价值的乘积，或加权几何均值。即搜索一组商品的分配，$&lt;code&gt;S=(S_i)_{i\in A}&lt;/code&gt;$，使之最大化$&lt;code&gt;\text{NSW}(S)=\prod_{i\in A}(v_i(S_i))^{w_i}&lt;/code&gt;$，其中$&lt;code&gt;\sum_{i\in A} w_i=1&lt;/code&gt;$. NSW的目标函数优化结果兼顾了分配商品的功效价值和公平性&lt;sup&gt;[39]&lt;/sup&gt;，而且其另一个特点是适用于用户具有不同的价值尺度单位的情况，该方法的分配结果依然保持最优性不变。有关结合社会福利的其他组合问题研究近期也有很多&lt;sup&gt;[40–43]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;NSW目标优化问题是一个NP难问题，而且找到相应最佳分配解也是APX难的。从该领域当前的研究相应近似算法的情况来看，加权的NSW问题比非加权或权重均匀分布的问题要更难；同样地，具有子模函数(submodular)性质的价值函数比线性叠加性质的价值要更难求解&lt;sup&gt;[38,44,45]&lt;/sup&gt;。 对于非加权的NSW问题，目前已有研究给出常量因子的近似算法，对于加权的情况，目前最新的进展是获得了$&lt;code&gt;O(nw_{\text{max}})&lt;/code&gt;$ 近似因子的算法&lt;sup&gt;[46]&lt;/sup&gt;，另一篇文献中给出了一个 &lt;code&gt;\(O(\exp(2 D_{KL}(\mathbf{w}\parallel\mathbf{u})))\)&lt;/code&gt; 的近似算法&lt;sup&gt;[47]&lt;/sup&gt;，其中 &lt;code&gt;\(D_{KL}(\mathbf{w}\parallel\mathbf{u})\)&lt;/code&gt; 表示权重分布 &lt;code&gt;\(\mathbf{w}\)&lt;/code&gt; 对比其均匀分布 &lt;code&gt;\(\mathbf{u}\)&lt;/code&gt; 的$&lt;code&gt;\text{KL - 分布}&lt;/code&gt;$ 距离。这些结果属于目前该领域中的最好研究结果。从理论上看，&lt;strong&gt;这里依然存在一些开放问题&lt;/strong&gt;，比如，对于加权的NSW问题是否存在常量因子的近似算法？$&lt;code&gt;O(\exp(2 D_{KL}(\mathbf{w}\parallel\mathbf{u})))&lt;/code&gt;$ 的近似算法是否对具有子模属性的价值函数同样适用？在加权的且具有子模价值函数的NSW问题上是否存在比$&lt;code&gt;O(nw_{\text{max}})&lt;/code&gt;$近似更好的近似算法？ 另外，&lt;strong&gt;这些算法也缺乏在模拟实验或实际应用中的检验&lt;/strong&gt;。在实际的应用中，用户对商品的评价值以及用户之间的权重分布可能会存在估计偏差&lt;sup&gt;[48–50]&lt;/sup&gt;，这些情况对于相关算法表现的影响还缺乏有关的研究。这方面的研究将有助于进一步理解NSW问题的结构和探索相关近似算法表现的界限及其稳定性。&lt;/p&gt;
+&lt;p&gt;关于NSW问题的近似算法研究一般分为两类，一类是利用相应组合问题的结构，例如匹配问题，进行算法设计；另一类是利用数学规划构建凸优化模型求解近似解。前者的一个代表即是来自文献&lt;sup&gt;[46]&lt;/sup&gt;，Garg等人在这篇文献里设计的近似算法是基于最大权重匹配问题的求解和局部搜索，该算法理论上对具有子模价值函数的对称NSW问题的最优近似因子是$&lt;code&gt;(4+\epsilon)&lt;/code&gt;$，对相同情况下，同时满足$&lt;code&gt;\frac{1}{2}\text{-EFX}&lt;/code&gt;$ 公平性的解的最优近似程度是$&lt;code&gt;(8+\epsilon)&lt;/code&gt;$；然而对同样具有子模价值函数的非对称即加权NSW问题的最优近似程度是$&lt;code&gt;e(2+nw_{\max}+\epsilon)&lt;/code&gt;$.&lt;/p&gt;
+&lt;p&gt;对于上面提到的第二类方法，典型的代表来自于文献&lt;sup&gt;[47,51]&lt;/sup&gt;. Singh等给出了非对称NSW问题的两种数学规划模型，一种记为CVX是属于凸规划模型，另一种记为NCVX是属于非凸规划。Singh等利用凸优化的性质快速求解一个CVX模型的最优匹配解b，并在NCVX模型上基于b找到另一个具有特殊性质的解$&lt;code&gt;b^\prime&lt;/code&gt;$，该解满足目标函数值$&lt;code&gt;f_\text{ncvx}(b^\prime)\geq f_\text{ncvx}(b)&lt;/code&gt;$，而且因为$&lt;code&gt;b^\prime&lt;/code&gt;$在其对应二部图上的非环路性质，使之易于转换为一个整数匹配解，而且保证$&lt;code&gt;f_\text{cvx}(b^\prime)&lt;/code&gt;$ 与 &lt;code&gt;\(f_\text{cvx}(b)\)&lt;/code&gt;之差在与权重w分布有关的指数量级之内。&lt;/p&gt;
+&lt;p&gt;综上所述，NSW问题尤其是非对称加权的NSW问题在求解时面临许多挑战。目前相关领域的文献很多集中在近似算法的设计及其理论分析上，实验分析验证的很少。从实验比较中的观察与发现很有可能会为该类问题提供更多的解决思路。尽管如此，该类问题具有广泛的潜在应用，是一个值得研究的问题。&lt;/p&gt;
+&lt;p&gt;在互联网经济的推动下，网络连接的社会迅速发展，国家在注重效率的同时，提倡公平的资源分配，公平的市场分割。海南自贸港的建设也需要在这些方面进行积极的实践和创新。对NSW相关公平分配问题的研究将为自贸港在数字经济、社会、教育、医疗和公共卫生、工业与交通运输等领域的快速发展中，兼顾效率与公平，发挥积极的作用。&lt;/p&gt;
+&lt;h4 id=&#34;参考文献&#34;&gt;&lt;strong&gt;参考文献&lt;/strong&gt;&lt;/h4&gt;
+&lt;h3 id=&#34;2项目的研究内容研究目标以及拟解决的关键科学问题此部分为重点阐述内容&#34;&gt;&lt;strong&gt;2．项目的研究内容、研究目标，以及拟解决的关键科学问题&lt;/strong&gt;（此部分为重点阐述内容）；&lt;/h3&gt;
+&lt;h4 id=&#34;21-研究内容&#34;&gt;2.1 研究内容&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;研究的动机&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; NSW问题尤其是非对称NSW问题，首先，在理论上面对最优整数解的存在与求解效率问题、公平性与NSW目标值最优化的平衡、子模价值函数下近似算法在理论表现上的差距改进等方面的挑战。而且，目前相关领域的文献通常提出问题模型并设计相应的近似算法，并从理论上分析证明该近似算法的表现下界，但是缺乏在实验中的验证和与其他方法通过模拟实验进行比较。另外，正如我们之前所提到的，在实际的应用中，用户对商品的评价值的估计可能并不准确，而且用户之间的权重分布也可能会存在估计偏差，面对这些可能存在的不确定情况，相关近似算法的表现是否稳定需要进一步的观察与分析。&lt;/p&gt;
+&lt;p&gt;因此，我们将通过模拟实验对加权的NSW问题的两类求解方法，即在第一部分里所提到的基于组合结构进行优化搜索的和基于数学规划方法的算法，从以下这几个方面进行研究对比，观察有关算法产生的现象，发现潜在的关联问题以及问题背后的本质特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在问题输入实例被轻微噪音干扰的情况下，相关近似算法的求解结果在目标优化、Pareto 最优性、EFX公平性方面表现的鲁棒性和稳定性；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对于这些有关算法在基于EFX公平性与NSW目标优化之间进行平衡的表现；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在线性叠加和子模属性的不同类型的价值函数作用下，对相关算法在以上这些方面表现中的影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;22-研究目标&#34;&gt;2.2 研究目标&lt;/h4&gt;
+&lt;p&gt;通过模拟实验，观察研究NSW问题领域当前理论上表现最好的近似算法，它们在实际应用中的表现与理论上的差距，及其在实践应用中的稳定性；发现背后可能存在的关联问题；为相关理论研究的进一步创新提供有价值的借鉴和启发。&lt;/p&gt;
+&lt;h4 id=&#34;23-关键科学问题&#34;&gt;2.3 关键科学问题&lt;/h4&gt;
+&lt;p&gt;在基于NSW目标优化的公平分配问题中，当前仍然存在以下的关键科学问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在优化NSW目标函数的同时，是否同时存在满足EFX或近似EFX公平属性的分配结果，以及如何快速有效计算获取这样的解？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如何利用匹配的组合结构和凸优化等方法设计近似算法，实现EFX公平性、Pareto最优性和计算效率之间的最佳平衡？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;3拟采取的研究方案及可行性分析包括研究方法技术路线实验手段关键技术等说明&#34;&gt;&lt;strong&gt;3．拟采取的研究方案及可行性分析&lt;/strong&gt;（包括研究方法、技术路线、实验手段、关键技术等说明）；&lt;/h3&gt;
+&lt;h4 id=&#34;31-拟采取的研究方案&#34;&gt;3.1 拟采取的研究方案&lt;/h4&gt;
+&lt;p&gt;研究方案包括如图中所示这四个部分，以下将进行有关的说明。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;figs/comparts.png&#34; alt=&#34;图1：研究方案框架图&#34; /&gt;
+&lt;figcaption aria-hidden=&#34;true&#34;&gt;图1：研究方案框架图&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;模拟实验实例生成&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; NSW问题包括$&lt;code&gt;n&lt;/code&gt;$个用户，$&lt;code&gt;m&lt;/code&gt;$个商品，其中$&lt;code&gt;n&lt;/code&gt;$和$&lt;code&gt;m&lt;/code&gt;$的取值设置可以参考有关文献&lt;sup&gt;[33]&lt;/sup&gt;中给出的EFX公平分配解存在的理论条件。目前理论上已证明当$&lt;code&gt;n=3&lt;/code&gt;$时，可以存在满足EFX公平属性的分配解，而且当未分配商品的数量满足一定条件时，也可存在$&lt;code&gt;(1-\epsilon)\text{-EFX}&lt;/code&gt;$，即近似EFX分配解。另外，权重值$&lt;code&gt;w_i&lt;/code&gt;$与价值矩阵$&lt;code&gt;V&lt;/code&gt;$将以随机方式产生，其中$&lt;code&gt;v_{ij}&lt;/code&gt;$可以有二元或非二元赋值两种情况。用户的价值函数可以利用价值矩阵$&lt;code&gt;V&lt;/code&gt;$先以线性叠加的方式构建。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;近似算法的实现&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 我们将实现这两类近似算法中最有代表性和当前该领域内最好的算法。例如，文献&lt;sup&gt;[46]&lt;/sup&gt;中设计的近似算法，其利用了匹配的组合结构和局部搜索算法，并且该算法在理论上分析得出的近似最优表现是目前该领域内最好的；文献&lt;sup&gt;[47]&lt;/sup&gt;中提出的算法主要应用数学规划方法包括凸优化技术，也从一定程度上利用了相关问题的组合结构进行整数分配最优解的近似转化，同样具有比较好的理论上的表现分析结果。另外，还有值得参考实现的相关算法文献&lt;sup&gt;[37,51]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;评估指标&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 在评估比较所实现的算法在求解模拟问题实例的结果上，我们将通过NSW目标函数优化值，Pareto最优性，EFX公平性概念包括EF1，EFX，以及近似EFX 即$&lt;code&gt;(1-\epsilon)\text{-EFX}&lt;/code&gt;$等指标进行比较观察。对比不同算法产生的分配解的整体NSW目标值，由每个用户所产生价值组成的价值向量的Pareto最优性，以及每对用户之间是否满足相应的EFX公平性指标。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鲁棒性评估&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 依据标准高斯分布产生噪音，通过调节方差$&lt;code&gt;\sigma&lt;/code&gt;$的值，随机加入噪音误差到价值矩阵中，然后再进行问题实例的求解，与之前没有插入噪音的分配结果进行比较。并且可通过采样方法估计商品分配结果的变化概率。同样地，也可对权重值$&lt;code&gt;w_i&lt;/code&gt;$进行噪音干扰，检查不同近似算法求解分配结果的稳定性。&lt;/p&gt;
+&lt;h4 id=&#34;32-可行性分析&#34;&gt;3.2 可行性分析&lt;/h4&gt;
+&lt;p&gt;研究方案中采用的方法和技术是可以具体实施的。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;问题实例生成方法可操作性好，能够生成不同规模和条件的实例，而且参数的选取参考相关文献的理论指引，可满足模拟实验的需要。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;研究的近似算法最优性能不仅具有较好的理论上的分析结果，而且可比较好的实现。这些算法一般会利用匹配问题的结构，例如最大权重匹配是易解问题。对基于凸规划模型的方法，存在一些高效算法求解相应的凸优化模型。另外，相应算法中对分数分配解转化为整数分配解的方法，也是多项式时间复杂度的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所使用的评估指标是该领域研究中公认的标准，而且是可计算或判别的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通过插入高斯噪音检验有关模型或算法的鲁棒性也是比较合理的，是敏感度或稳定性分析常用的方法之一。我们曾在以往研究中成功使用过相关方法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;4本项目的特色与创新之处&#34;&gt;&lt;strong&gt;4．本项目的特色与创新之处；&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;目前在$&lt;code&gt;\textrm{NSW}&lt;/code&gt;$问题研究领域，有关近似算法设计的理论上研究较多，而实验研究相对缺乏。因此，我们的研究是通过模拟实验观察相关算法在复杂情况下的$&lt;code&gt;\textrm{NSW}&lt;/code&gt;$目标函数值优化、$&lt;code&gt;\textrm{Pareto}&lt;/code&gt;$最优性和$&lt;code&gt;\textrm{EFX}&lt;/code&gt;$公平性方面的表现，检验有关算法理论上与实际应用之间的表现差距，发现背后可能存在的关联问题。&lt;/p&gt;
+&lt;p&gt;并且，考虑到在实践应用中对用户价值函数的学习或估计可能存在偏差，该项目设计实验通过加入轻微噪音干扰的实例，观察研究该领域内最好算法的鲁棒性，及其在目标函数值和$&lt;code&gt;\textrm{EFX}&lt;/code&gt;$公平性方面的近似最优表现的稳定性，从而进一步发现这些算法以及$&lt;code&gt;\textrm{NSW}&lt;/code&gt;$问题的本质特性。&lt;/p&gt;
+&lt;h3 id=&#34;5年度研究计划及预期研究结果包括拟组织的重要学术交流活动国际合作与交流计划等&#34;&gt;&lt;strong&gt;5．年度研究计划及预期研究结果&lt;/strong&gt;（包括拟组织的重要学术交流活动、国际合作与交流计划等）。&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2026年度&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 主要任务是实现有关的近似算法并进行初步的实验验证分析。同时关注相关领域的最新理论研究结果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2027年度&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 主要任务是进行系统的模拟实验观察对比不同近似算法在EFX公平性、Pareto最优性、计算效率、鲁棒性和稳定性方面的表现。撰写相关论文并参加学术交流会议。调研并尝试海南省内经济、社会、教育等领域内的有关问题的应用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2028年度&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 总结前期工作中的观察的结果，发现可能的潜在问题，撰写期刊论文，并参加国内外的学术交流会议，关注该领域内最新研究结果。继续开展海南省内相关问题的应用研究。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2029年度&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 开展项目的总结工作，并根据从实验获得的观察与发现，设计更好的近似算法，尝试进行理论上的创新。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期成果&lt;/strong&gt; &lt;code&gt;\(\;\)&lt;/code&gt; 预计撰写或发表相关领域国内外学术会议和期刊论文5至6篇，为海南自贸港培养相关领域研究的专家和学生6至8人，在自贸港相关领域应用研究成果，获得一定显著的经济和社会效益。&lt;/p&gt;
+&lt;h3 id=&#34;二研究基础与工作条件&#34;&gt;&lt;strong&gt;（二）研究基础与工作条件&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;1研究基础与本项目相关的研究工作积累和已取得的研究工作成绩&#34;&gt;&lt;strong&gt;1．研究基础&lt;/strong&gt;（与本项目相关的研究工作积累和已取得的研究工作成绩）；&lt;/h3&gt;
+&lt;p&gt;申请人长期在组合问题和优化领域从事研究工作&lt;sup&gt;[52–70]&lt;/sup&gt;，包括鲁棒优化研究&lt;sup&gt;[71,72]&lt;/sup&gt;，相关研究成果中包括ESI高被引期刊论文2篇&lt;sup&gt;[63,64]&lt;/sup&gt;，和1篇影响因子12的期刊论文&lt;sup&gt;[67]&lt;/sup&gt;，相关已发表论文的引文如下所示：&lt;/p&gt;
+&lt;h3 id=&#34;2工作条件包括已具备的实验条件尚缺少的实验条件和拟解决的途径包括利用国家实验室国家重点实验室和部门重点实验室等研究基地的计划与落实情况&#34;&gt;&lt;strong&gt;2．工作条件&lt;/strong&gt;（包括已具备的实验条件，尚缺少的实验条件和拟解决的途径，包括利用国家实验室、国家重点实验室和部门重点实验室等研究基地的计划与落实情况）；&lt;/h3&gt;
+&lt;p&gt;该项目的科研工作平台包括海南大学计算机科学与技术学院提供的算法分析与设计实验室，海南省大数据与智慧服务重点实验室。另外，合作单位海南开放大学也能为该项目研究成果在海南自贸港的实际应用研究提供有效途径和支撑。&lt;/p&gt;
+&lt;h3 id=&#34;3正在承担的与本项目相关的科研项目情况申请人和主要参与者正在承担的与本项目相关的科研项目情况包括国家自然科学基金的项目和国家其他科技计划项目要注明项目的资助机构项目类别批准号项目名称获资助金额起止年月与本项目的关系及负责的内容等&#34;&gt;&lt;strong&gt;3．正在承担的与本项目相关的科研项目情况&lt;/strong&gt;（申请人和主要参与者正在承担的与本项目相关的科研项目情况，包括国家自然科学基金的项目和国家其他科技计划项目，要注明项目的资助机构、项目类别、批准号、项目名称、获资助金额、起止年月、与本项目的关系及负责的内容等）；&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;h3 id=&#34;4完成国家自然科学基金项目情况对申请人负责的前一个资助期满的科学基金项目项目名称及批准号完成情况后续研究进展及与本申请项目的关系加以详细说明另附该项目的研究工作总结摘要限500字和相关成果详细目录&#34;&gt;&lt;strong&gt;4．完成国家自然科学基金项目情况&lt;/strong&gt;（对申请人负责的前一个资助期满的科学基金项目（项目名称及批准号）完成情况、后续研究进展及与本申请项目的关系加以详细说明。另附该项目的研究工作总结摘要（限500字）和相关成果详细目录）。&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;h3 id=&#34;三其他需要说明的情况&#34;&gt;&lt;strong&gt;（三）其他需要说明的情况&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;1-申请人同年申请不同类型的国家自然科学基金项目情况列明同年申请的其他项目的项目类型项目名称信息并说明与本项目之间的区别与联系&#34;&gt;1. 申请人同年申请不同类型的国家自然科学基金项目情况（列明同年申请的其他项目的项目类型、项目名称信息，并说明与本项目之间的区别与联系。）&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;h3 id=&#34;2-具有高级专业技术职务职称的申请人或者主要参与者是否存在同年申请或者参与申请国家自然科学基金项目的单位不一致的情况如存在上述情况列明所涉及人员的姓名申请或参与申请的其他项目的项目类型项目名称单位名称上述人员在该项目中是申请人还是参与者并说明单位不一致原因&#34;&gt;2. 具有高级专业技术职务（职称）的申请人或者主要参与者是否存在同年申请或者参与申请国家自然科学基金项目的单位不一致的情况；如存在上述情况，列明所涉及人员的姓名，申请或参与申请的其他项目的项目类型、项目名称、单位名称、上述人员在该项目中是申请人还是参与者，并说明单位不一致原因。&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;h3 id=&#34;3-具有高级专业技术职务职称的申请人或者主要参与者是否存在与正在承担的国家自然科学基金项目的单位不一致的情况如存在上述情况列明所涉及人员的姓名正在承担项目的批准号项目类型项目名称单位名称起止年月并说明单位不一致原因&#34;&gt;3. 具有高级专业技术职务（职称）的申请人或者主要参与者是否存在与正在承担的国家自然科学基金项目的单位不一致的情况；如存在上述情况，列明所涉及人员的姓名，正在承担项目的批准号、项目类型、项目名称、单位名称、起止年月，并说明单位不一致原因。&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;h3 id=&#34;4-同年以不同专业技术职务职称申请或参与申请科学基金项目的情况应详细说明原因&#34;&gt;4. 同年以不同专业技术职务（职称）申请或参与申请科学基金项目的情况（应详细说明原因）。&lt;/h3&gt;
+&lt;p&gt;无&lt;/p&gt;
+&lt;h3 id=&#34;5-其他&#34;&gt;5. 其他。&lt;/h3&gt;
+&lt;p&gt;无。&lt;/p&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body&#34; entry-spacing=&#34;0&#34;&gt;
+&lt;div id=&#34;ref-Anshelevich2010&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[1] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ANSHELEVICH E, DAS S. Matching, cardinal utility, and social welfare[J/OL]. 2010: 1-7. &lt;a href=&#34;https://doi.org/10.1145/1980534.1980538&#34;&gt;https://doi.org/10.1145/1980534.1980538&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Vazirani2012&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[2] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;VAZIRANI V V. The Notion of a Rational Convex Program, and an Algorithm for the Arrow-Debreu Nash Bargaining Game[J/OL]. J. ACM, 2012, 59(2). &lt;a href=&#34;https://doi.org/10.1145/2160158.2160160&#34;&gt;https://doi.org/10.1145/2160158.2160160&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Alon2016&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[3] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ALON N, SPENCER J H. The probabilistic method[M]. Fourth edition. Hoboken, New Jersey: Wiley, 2016: xiv, 375 pages.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Mai2018&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[4] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;MAI T, VAZIRANI V V. &lt;a href=&#34;https://doi.org/10.4230/LIPICS.ESA.2018.60&#34;&gt;Finding Stable Matchings That Are Robust to Errors in the Input&lt;/a&gt;[C]//AZAR Y, BAST H, HERMAN G. 26th Annual European Symposium on Algorithms, ESA 2018, August 20-22, 2018, Helsinki, Finland: 卷 112. Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2018: 60:1-60:11.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Feige2019&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[5] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FEIGE U. Tighter Bounds for Online Bipartite Matching[M/OL]//BÁRÁNY I, KATONA G O H, SALI A. Building Bridges II: Mathematics of László Lovász. Berlin, Heidelberg: Springer Berlin Heidelberg, 2019: 235-255. &lt;a href=&#34;https://doi.org/10.1007/978-3-662-59204-5_7&#34;&gt;https://doi.org/10.1007/978-3-662-59204-5_7&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Csikvari2019&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[6] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CSIKVÁRI P. Statistical Matching Theory[M/OL]//BÁRÁNY I, KATONA G O H, SALI A. Building Bridges II: Mathematics of László Lovász. Berlin, Heidelberg: Springer Berlin Heidelberg, 2019: 195-221. &lt;a href=&#34;https://doi.org/10.1007/978-3-662-59204-5_5&#34;&gt;https://doi.org/10.1007/978-3-662-59204-5_5&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hosseini2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[7] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;HOSSEINI M, VAZIRANI V V. &lt;a href=&#34;https://doi.org/10.4230/LIPICS.ITCS.2022.86&#34;&gt;Nash-Bargaining-Based Models for Matching Markets: One-Sided and Two-Sided; Fisher and Arrow-Debreu&lt;/a&gt;[C]//BRAVERMAN M. 13th Innovations in Theoretical Computer Science Conference, ITCS 2022, January 31 - February 3, 2022, Berkeley, CA, USA: 卷 215. Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2022: 86:1-86:20.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Garg2023a&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[8] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;GARG J, TRÖBST T, VAZIRANI V V. A Nash-Bargaining-Based Mechanism for One-Sided Matching Markets and Dichotomous Utilities[M]. Richland, SC: International Foundation for Autonomous Agents; Multiagent Systems, 2023: 2721-2723.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Devic2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[9] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;DEVIC S, KEMPE D, SHARAN V, 等. Fairness in Matching under Uncertainty[J/OL]. 2023. &lt;a href=&#34;https://arxiv.org/abs/2302.03810&#34;&gt;https://arxiv.org/abs/2302.03810&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Vazirani2024&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[10] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;VAZIRANI V V. The Assignment Game: New Mechanisms for Equitable Core Imputations[J/OL]. CoRR, 2024, abs/2402.11437. &lt;a href=&#34;https://arxiv.org/abs/2402.11437&#34;&gt;https://arxiv.org/abs/2402.11437&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Deng2016&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[11] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;DENG X, FENG Z, PAPADIMITRIOU C H. Power-Law Distributions in a Two-Sided Market and Net Neutrality[C/OL]//CAI Y, VETTA A. Web and Internet Economics - 12th International Conference, WINE 2016, Montreal, Canada, December 11-14, 2016, Proceedings: 卷 10123. Springer, 2016: 59-72. &lt;a href=&#34;https://doi.org/10.1007/978-3-662-54110-4_5&#34;&gt;https://doi.org/10.1007/978-3-662-54110-4_5&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Cao2020&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[12] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CAO C, LI S X, LIU T X. &lt;a href=&#34;https://doi.org/10.1016/J.GEB.2020.07.014&#34;&gt;A gift with thoughtfulness: A field experiment on work incentives&lt;/a&gt;[J]. Games Econ. Behav., 2020, 124: 17-42.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Li2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[13] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LI M, RIYANTO Y E, XU M. &lt;a href=&#34;https://doi.org/10.1016/J.GEB.2023.07.005&#34;&gt;Prioritized organ allocation rules under compatibility constraints&lt;/a&gt;[J]. Games Econ. Behav., 2023, 141: 403-427.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Li2023a&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[14] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LI N, MA Y, ZHAO Y, 等. Learning-Based Ad Auction Design with Externalities: The Framework and A Matching-Based Approach[C/OL]//SINGH A K, SUN Y, AKOGLU L, 等. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2023, Long Beach, CA, USA, August 6-10, 2023. ACM, 2023: 1291-1302. &lt;a href=&#34;https://doi.org/10.1145/3580305.3599403&#34;&gt;https://doi.org/10.1145/3580305.3599403&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Cheng2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[15] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CHENG Y, DENG X, QI Q, 等. Truthfulness of a Network Resource-Sharing Protocol[J/OL]. Math. Oper. Res., 2023, 48(3): 1522-1552. &lt;a href=&#34;https://doi.org/10.1287/moor.2022.1310&#34;&gt;https://doi.org/10.1287/moor.2022.1310&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-CesaBianchi2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[16] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CESA-BIANCHI N, ORABONA F. Online Learning Algorithms[J/OL]. Annual Review of Statistics and Its Application, 2021, 8(1): 165-190. &lt;a href=&#34;https://doi.org/10.1146/annurev-statistics-040620-035329&#34;&gt;https://doi.org/10.1146/annurev-statistics-040620-035329&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lovasz1986&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[17] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LOVÁSZ L, PLUMMER M D. Matching theory[M]. Amsterdam ; New York New York, N.Y.: North-Holland : Elsevier Science Publishers B.V. ; Sole distributors for the U.S.A.; Canada, Elsevier Science Pub. Co., 1986: xxxiii, 544 p.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Echenique2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[18] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ECHENIQUE F, IMMORLICA N, VAZIRANI V V. Online and matching-based market design[M/OL]. Cambridge University Press, 2023: 1 online resource (xxii, 697 pages). &lt;a href=&#34;https://yale.idm.oclc.org/login?URL=https://doi.org/10.1017/9781108937535&#34;&gt;https://yale.idm.oclc.org/login?URL=https://doi.org/10.1017/9781108937535&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Nisan2007&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[19] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;NISAN N, ROUGHGARDEN T, TARDOS Éva, 等. &lt;a href=&#34;https://doi.org/10.1017/CBO9780511800481&#34;&gt;Algorithmic Game Theory&lt;/a&gt;[M]. Cambridge University Press, 2007.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fan2020&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[20] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FAN J, LI R, ZHANG C H, 等. &lt;a href=&#34;https://doi.org/10.1201/9780429096280&#34;&gt;Statistical Foundations of Data Science&lt;/a&gt;[M]. Chapman; Hall/CRC, 2020.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Gao2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[21] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;GAO Z, HASTIE T, TIBSHIRANI R. Assessment of heterogeneous treatment effect estimation accuracy via matching[J/OL]. Statistics in Medicine, 2021, 40(17): 3990-4013. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9010&#34;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9010&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Janes2008&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[22] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;JANES H, PEPE M S. Matching in Studies of Classification Accuracy: Implications for Analysis, Efficiency, and Assessment of Incremental Value[J/OL]. Biometrics, 2008, 64(1): 1-9. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2007.00823.x&#34;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2007.00823.x&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Rosenbaum2020&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[23] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ROSENBAUM P R. Modern Algorithms for Matching in Observational Studies[J/OL]. Annual Review of Statistics and Its Application, 2020, 7(1): 143-176. &lt;a href=&#34;https://doi.org/10.1146/annurev-statistics-031219-041058&#34;&gt;https://doi.org/10.1146/annurev-statistics-031219-041058&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Silber2014&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[24] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;SILBER J H, ROSENBAUM P R, ROSS R N, 等. Template Matching for Auditing Hospital Cost and Quality[J/OL]. Health Services Research, 2014, 49(5): 1446-1474. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12156&#34;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12156&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Vazirani2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[25] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;VAZIRANI V V. The Investment Management Game: Extending the Scope of the Notion of Core[J/OL]. 2023. &lt;a href=&#34;https://arxiv.org/abs/2302.00608&#34;&gt;https://arxiv.org/abs/2302.00608&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Vazirani2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[26] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;VAZIRANI V V. Cores of Games via Total Dual Integrality, with Applications to Perfect Graphs and Polymatroids[J/OL]. 2022. &lt;a href=&#34;https://arxiv.org/abs/2209.04903&#34;&gt;https://arxiv.org/abs/2209.04903&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fain2018&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[27] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FAIN B, MUNAGALA K, SHAH N. Fair Allocation of Indivisible Public Goods[EB/OL]. New York, NY, USA: Association for Computing Machinery, 2018: 575-592. &lt;a href=&#34;https://doi.org/10.1145/3219166.3219174&#34;&gt;https://doi.org/10.1145/3219166.3219174&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Chaudhury2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[28] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CHAUDHURY B R, CHEUNG Y K, GARG J, 等. Fair Division of Indivisible Goods for a Class of Concave Valuations[J/OL]. J. Artif. Int. Res., 2022, 74. &lt;a href=&#34;https://doi.org/10.1613/jair.1.12911&#34;&gt;https://doi.org/10.1613/jair.1.12911&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Banerjee2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[29] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;BANERJEE S, EICHHORN M, KEMPE D. Allocating with Priorities and Quotas: Algorithms, Complexity, and Dynamics[EB/OL]. New York, NY, USA: Association for Computing Machinery, 2023: 209-240. &lt;a href=&#34;https://doi.org/10.1145/3580507.3597733&#34;&gt;https://doi.org/10.1145/3580507.3597733&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Peysakhovich2023a&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[30] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;PEYSAKHOVICH A, KROER C, USUNIER N. Implementing Fairness Constraints in Markets Using Taxes and Subsidies[EB/OL]. New York, NY, USA: Association for Computing Machinery, 2023: 916-930. &lt;a href=&#34;https://doi.org/10.1145/3593013.3594051&#34;&gt;https://doi.org/10.1145/3593013.3594051&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Garg2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[31] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;GARG J, TAO Y, VÉGH L A. Approximating Equilibrium under Constrained Piecewise Linear Concave Utilities with Applications to Matching Markets[C/OL]//NAOR J (Seffi), BUCHBINDER N. Proceedings of the 2022 ACM-SIAM Symposium on Discrete Algorithms, SODA 2022, Virtual Conference / Alexandria, VA, USA, January 9 - 12, 2022. SIAM, 2022: 2269-2284. &lt;a href=&#34;https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.91&#34;&gt;https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.91&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Ahmadi2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[32] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;AHMADI S, BEYHAGHI H, BLUM A, 等. Setting Fair Incentives to Maximize Improvement[J/OL]. 2022. &lt;a href=&#34;https://arxiv.org/abs/2203.00134&#34;&gt;https://arxiv.org/abs/2203.00134&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Akrami2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[33] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;AKRAMI H, ALON N, CHAUDHURY B R, 等. EFX: A Simpler Approach and an (Almost) Optimal Guarantee via Rainbow Cycle Number[C/OL]//Proceedings of the 24th ACM Conference on Economics and Computation. New York, NY, USA: Association for Computing Machinery, 2023: 61. &lt;a href=&#34;https://doi.org/10.1145/3580507.3597799&#34;&gt;https://doi.org/10.1145/3580507.3597799&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Kobayashi2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[34] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;KOBAYASHI Y, MAHARA R, SAKAMOTO S. EFX Allocations for Indivisible Chores: Matching-Based Approach[C]//DELIGKAS A, FILOS-RATSIKAS A. Algorithmic Game Theory. Cham: Springer Nature Switzerland, 2023: 257-270.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Alaei2017&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[35] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ALAEI S, JALALY KHALILABADI P, TARDOS E. Computing Equilibrium in Matching Markets[EB/OL]. New York, NY, USA: Association for Computing Machinery, 2017: 245-261. &lt;a href=&#34;https://doi.org/10.1145/3033274.3085150&#34;&gt;https://doi.org/10.1145/3033274.3085150&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Cole2017&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[36] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;COLE R, DEVANUR N, GKATZELIS V, 等. Convex Program Duality, Fisher Markets, and Nash Social Welfare[C/OL]//Proceedings of the 2017 ACM Conference on Economics and Computation. New York, NY, USA: Association for Computing Machinery, 2017: 459-460. &lt;a href=&#34;https://doi.org/10.1145/3033274.3085109&#34;&gt;https://doi.org/10.1145/3033274.3085109&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Troebst2024&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[37] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;TRÖBST T, VAZIRANI V V. Cardinal-Utility Matching Markets: The Quest for Envy-Freeness, Pareto-Optimality, and Efficient Computability[J/OL]. CoRR, 2024, abs/2402.08851. &lt;a href=&#34;https://arxiv.org/abs/2402.08851&#34;&gt;https://arxiv.org/abs/2402.08851&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Anari2018&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[38] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ANARI N, MAI T, GHARAN S O, 等. Nash social welfare for indivisible items under separable, piecewise-linear concave utilities[M]. USA: Society for Industrial; Applied Mathematics, 2018: 2274-2290.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Caragiannis2019&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[39] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;CARAGIANNIS I, KUROKAWA D, MOULIN H, 等. The Unreasonable Fairness of Maximum Nash Welfare[J/OL]. 2019: 1-32. &lt;a href=&#34;https://doi.org/10.1145/3355902&#34;&gt;https://doi.org/10.1145/3355902&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Anari2017&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[40] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ANARI N, GHARAN S O, SABERI A, 等. &lt;a href=&#34;https://doi.org/10.4230/LIPICS.ITCS.2017.36&#34;&gt;Nash Social Welfare, Matrix Permanent, and Stable Polynomials&lt;/a&gt;[C]//PAPADIMITRIOU C H. 8th Innovations in Theoretical Computer Science Conference, ITCS 2017, January 9-11, 2017, Berkeley, CA, USA: 卷 67. Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2017: 36:1-36:12.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Bilo2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[41] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;BILÒ V, MONACO G, MOSCARDELLI L, 等. Nash Social Welfare in Selfish and Online Load Balancing[J/OL]. 2022: 1-41. &lt;a href=&#34;https://doi.org/10.1145/3544978&#34;&gt;https://doi.org/10.1145/3544978&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fairstein2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[42] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FAIRSTEIN R, VILENCHIK D, MEIR R, 等. Welfare vs. Representation in Participatory Budgeting[M]. Richland, SC: International Foundation for Autonomous Agents; Multiagent Systems, 2022: 409-417.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Amanatidis2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[43] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;AMANATIDIS G, AZIZ H, BIRMPAS G, 等. Fair division of indivisible goods: Recent progress and open questions[J/OL]. Artificial Intelligence, 2023, 322: 103965. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S000437022300111X&#34;&gt;https://www.sciencedirect.com/science/article/pii/S000437022300111X&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Barman2018&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[44] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;BARMAN S, KRISHNAMURTHY S K, VAISH R. Greedy Algorithms for Maximizing Nash Social Welfare[M]. Richland, SC: International Foundation for Autonomous Agents; Multiagent Systems, 2018: 7-13.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Garg2023b&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[45] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;GARG J, KULKARNI P, KULKARNI R. Approximating Nash Social Welfare under Submodular Valuations through (Un)Matchings[J/OL]. 2023: 1-25. &lt;a href=&#34;https://doi.org/10.1145/3613452&#34;&gt;https://doi.org/10.1145/3613452&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Garg2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[46] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;GARG J, HUSIĆ E, LI W, 等. Approximating Nash Social Welfare by Matching and Local Search[C/OL]//Proceedings of the 55th Annual ACM Symposium on Theory of Computing. New York, NY, USA: Association for Computing Machinery, 2023: 1298-1310. &lt;a href=&#34;https://doi.org/10.1145/3564246.3585255&#34;&gt;https://doi.org/10.1145/3564246.3585255&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Brown2024&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[47] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;BROWN A, LADDHA A, PITTU M R, 等. Approximation Algorithms for the Weighted Nash Social Welfare via Convex and Non-Convex Programs[J/OL]. CoRR, 2024, abs/2401.02918. &lt;a href=&#34;https://arxiv.org/abs/2401.02918&#34;&gt;https://arxiv.org/abs/2401.02918&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Shao2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[48] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;SHAO H, COHEN L, BLUM A, 等. Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback[EB/OL]. (2023). &lt;a href=&#34;https://arxiv.org/abs/2302.03805&#34;&gt;https://arxiv.org/abs/2302.03805&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fan2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[49] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;FAN J, LOU Z, WANG W, 等. Spectral Ranking Inferences based on General Multiway Comparisons[J/OL]. CoRR, 2023, abs/2308.02918. &lt;a href=&#34;https://arxiv.org/abs/2308.02918&#34;&gt;https://arxiv.org/abs/2308.02918&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Anari2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[50] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;ANARI N, CHARIKAR M, RAMAKRISHNAN P. Distortion in metric matching with ordinal preferences[EB/OL]. New York, NY, USA: Association for Computing Machinery, 2023: 90-110. &lt;a href=&#34;https://doi.org/10.1145/3580507.3597740&#34;&gt;https://doi.org/10.1145/3580507.3597740&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hosseini2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[51] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;HOSSEINI M, VAZIRANI V V. Nash-Bargaining-Based Models for Matching Markets: One-Sided and Two-Sided; Fisher and Arrow-Debreu[EB/OL]. (2023). &lt;a href=&#34;https://arxiv.org/abs/2105.10704&#34;&gt;https://arxiv.org/abs/2105.10704&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Han2024&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[52] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;HAN Y, LIN M, LI N, 等. &lt;a href=&#34;https://doi.org/10.7717/peerj-cs.2253&#34;&gt;DCWPSO: particle swarm optimization with dynamic inertia weight updating and enhanced learning strategies&lt;/a&gt;[J]. PeerJ Computer Science, 2024, 10: e2253.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Xia2025&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[53] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;XIA P, LI N, WANG X, 等. &lt;a href=&#34;https://doi.org/10.1007/978-981-96-0026-7_20&#34;&gt;A Novel Adaptive Multi-Channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&lt;/a&gt;[C]//WU S, SU X, XU X, 等. Knowledge Management and Acquisition for Intelligent Systems(PKAW 2024): 卷 15372. Singapore: Springer Nature Singapore, 2025: 246-255.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Tubaishat2009&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[54] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;TUBAISHAT M, ZHUANG P, QI Q, 等. Wireless sensor networks in intelligent transportation systems[J/OL]. Wireless Communications and Mobile Computing, 2009, 9(3): 287-302. [http://dx.doi.org/10.1002/wcm.616
+http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract](&lt;a href=&#34;http://dx.doi.org/10.1002/wcm.616&#34;&gt;http://dx.doi.org/10.1002/wcm.616&lt;/a&gt;
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract)&#34;&gt;http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract)&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Qi2010&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[55] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;QI Q, SHANG Y, SHI H. An improved algorithm for optimal subset selection in chain graphical models[C/OL]//Evolutionary Computation (CEC), 2010 IEEE Congress on. 2010: 1-6. &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022&#34;&gt;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Qi2011&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[56] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;QI Q, SHANG Y. Comparison of Probabilistic Chain Graphical Model-Based and Gaussian Process-Based Observation Selections for Wireless Sensor Scheduling[J/OL]. International Journal of Distributed Sensor Networks, 2011, 2011. [http://dx.doi.org/10.1155/2011/928958
+http://downloads.hindawi.com/journals/ijdsn/2011/928958.pdf](&lt;a href=&#34;http://dx.doi.org/10.1155/2011/928958&#34;&gt;http://dx.doi.org/10.1155/2011/928958&lt;/a&gt;
+&lt;a href=&#34;http://downloads.hindawi.com/journals/ijdsn/2011/928958.pdf)&#34;&gt;http://downloads.hindawi.com/journals/ijdsn/2011/928958.pdf)&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Qi2012&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[57] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;QI Q. Statistical model-based methods for observation selection in wireless sensor networks and for feature selection in classification[D]. University of Missouri, 2012.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Qi2014&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[58] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;QI Q, LI J, CHENG J. Reconstruction of metabolic pathways by combining probabilistic graphical model-based and knowledge-based methods[J/OL]. BMC Proceedings, 2014, 8(6): S5. &lt;a href=&#34;https://doi.org/10.1186/1753-6561-8-S6-S5&#34;&gt;https://doi.org/10.1186/1753-6561-8-S6-S5&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Qi2017&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[59] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;QI Q, LI N, LI W. Exploration of Heuristic-Based Feature Selection on Classification Problems[C]//CHEN G, SHEN H, CHEN M. Parallel Architecture, Algorithm and Programming. Singapore: Springer Singapore, 2017: 95-107.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Shang2020&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[60] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;SHANG Q, LI N, QI Q, 等. A Semi-Supervised Learning Approach for High Dimensional Android Malware Classification[C]//The 12th International Symposium on Cyberspace Safety and Security (CSS2020). 2020.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[61] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, QI Q, JIA H, 等. &lt;a href=&#34;https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298&#34;&gt;An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems&lt;/a&gt;[C]//2021 IEEE 23rd Int Conf on High Performance Computing &amp;amp; Communications; 7th Int Conf on Data Science &amp;amp; Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud &amp;amp; Big Data Systems &amp;amp; Application (HPCC/DSS/SmartCity/DependSys). 2021: 1996-2003.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lin2021&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[62] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIN Q, LI N, QI Q, 等. Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks[J]. International Journal of Software Engineering and Knowledge Engineering, 2021, 31(4): 1-26.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2022a&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[63] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, LI N, JIA H, 等. &lt;a href=&#34;https://doi.org/10.3390/math10091567&#34;&gt;A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems&lt;/a&gt;[M]//Mathematics: 卷 10. 2022.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[64] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, LI N, JIA H, 等. &lt;a href=&#34;https://doi.org/10.3390/math10071014&#34;&gt;Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation&lt;/a&gt;[M]//Mathematics: 卷 10. 2022.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2022c&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[65] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, QI Q, LI N. &lt;a href=&#34;https://doi.org/10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241&#34;&gt;SLEO: An efficient Equilibrium Optimizer for numerical optimization&lt;/a&gt;[C]//2022 IEEE Smartworld, Ubiquitous Intelligence &amp;amp; Computing, Scalable Computing &amp;amp; Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous &amp;amp; Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta). 2022: 1696-1701.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-李文权2022&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[66] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;李文权, 齐琦, 李霓, 等. 基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究[J/OL]. 计算机应用研究, 2022, 39(02): 461-467. &lt;a href=&#34;https://kns.cnki.net/kcms/detail/51.1196.TP.20210922.1416.004.html&#34;&gt;https://kns.cnki.net/kcms/detail/51.1196.TP.20210922.1416.004.html&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[67] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, LI N, JIA H, 等. A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy[J/OL]. Artificial Intelligence Review, 2023, 56(1): 159-216. &lt;a href=&#34;https://doi.org/10.1007/s10462-023-10498-0&#34;&gt;https://doi.org/10.1007/s10462-023-10498-0&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Liu2023a&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[68] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LIU Q, QI Q, LI N. &lt;a href=&#34;https://doi.org/10.1109/CSCWD57460.2023.10152600&#34;&gt;Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding&lt;/a&gt;[C]//2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD). 2023: 1257-1262.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-林小惟2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[69] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;林小惟, 杨瑞杰, 李霓, 等. 多尺度融合与注意力结合的头颈部危及器官自动分割[J]. 中华放射肿瘤学杂志, 2023, 32(4): 319-324.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-刘庆鑫2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[70] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;刘庆鑫, 齐琦, 贾鹤鸣, 等. 混合改进策略的阿奎拉鹰优化算法[J/OL]. 山东大学学报 (工学版), 2023, 53(4): 93. &lt;a href=&#34;http://gxbwk.njournal.sdu.edu.cn/CN/abstract/article_2259.shtml&#34;&gt;http://gxbwk.njournal.sdu.edu.cn/CN/abstract/article_2259.shtml&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Li2024&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[71] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;LI X, MENG M, HONG Y, 等. A survey of decision making in adversarial games[J/OL]. Science China Information Sciences, 2024, 67(4): 141201. &lt;a href=&#34;https://doi.org/10.1007/s11432-022-3777-y&#34;&gt;https://doi.org/10.1007/s11432-022-3777-y&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Han2023&#34; class=&#34;csl-entry&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;csl-left-margin&#34;&gt;[72] &lt;/span&gt;&lt;span class=&#34;csl-right-inline&#34;&gt;HAN Y, QI Q, LI N, 等. &lt;a href=&#34;https://doi.org/10.1109/ICPADS60453.2023.00044&#34;&gt;Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling&lt;/a&gt;[C]//2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). 2023: 242-247.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Selected references in algorithmic game theory</title>
@@ -54,6 +384,7 @@
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eigarashayumi/publications&#34;&gt;Ayumi Igarashi&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yambi.jp/#/publications&#34;&gt;Yasushi Kawase&amp;rsquo;s publications and teaching&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Zhao&amp;rsquo;s Webpage (adversarial machine learning)&lt;/a&gt; , &lt;a href=&#34;http://sandlab.cs.uchicago.edu/index.html&#34;&gt;Sand Lab(Security, Algorithms, Networking and Data)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html&#34;&gt;Edith Elkind&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1902,6 +2233,37 @@ The following resources are in the fields of parallel, distributed computing, ar
 商乔，“基于自然语言处理技术的动漫手机助手” \
 李俊颉，“计算机视觉中人脸识别算法研究”&lt;/p&gt;
 &lt;p&gt;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt; )。让我们一起讨论可能的合作机会与前景。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:4321/writing/2025-03-10-research-proposal/figs/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/writing/2025-03-10-research-proposal/figs/readme/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;compile tex file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;edit and compile in texworks, with pdflatex selection.
+xeLatex seems a better run command with Chinese characters.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;then convert figure pdf to png file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;source run the R code, convertPDF2PNG, in RStudio.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;reference
+&lt;ul&gt;
+&lt;li&gt;tikz diagrams examples:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://texample.net/tikz/examples/tag/diagrams/&#34;&gt;https://texample.net/tikz/examples/tag/diagrams/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
