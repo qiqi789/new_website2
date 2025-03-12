@@ -2,7 +2,7 @@
 title: Research
 author: Qi Qi
 date: '2023-11-10'
-lastmod: '2024-12-05'
+lastmod: '2025-03-12'
 categories:
   - research
 tags:
@@ -21,6 +21,9 @@ slug: research
 <!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. -->
 
 ## 发表论文 （Publications）
+
+* "Data-free fingerprinting technology for biometric classifiers", with Ziting Ren, Yucong Duan, Lanhua Luo, Computers & Security, 2025, [Web link](https://doi.org/10.1016/j.cose.2025.104386).
+
 
 * "A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion", with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.
 
