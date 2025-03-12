@@ -24,14 +24,15 @@
 &lt;p&gt;数字经济的发展是国家战略关注的一个重点领域。习近平总书记强调：“要站在统筹中华民族伟大复兴战略全局和世界百年未有之大变局的高度，统筹国内国际两个大局、发展安全两件大事，充分发挥海量数据和丰富应用场景优势，促进数字技术与实体经济深度融合，赋能传统产业转型升级，催生新产业新业态新模式，不断做强做优做大我国数字经济。要加强关键核心技术攻关，牵住自主创新这个“牛鼻子”，发挥我国社会主义制度优势、新型举国体制优势、超大规模市场优势，提高数字技术基础研发能力，打好关键核心技术攻坚战，尽快实现高水平自立自强，把发展数字经济自主权牢牢掌握在自己手中。”正如总书记所说，数字经济的建设需要核心技术的支撑。&lt;/p&gt;
 &lt;p&gt;数字经济建设的核心技术之一是数据要素的市场设计，建立相应的合理公平分配以及定价理论与算法，这是一项融合了信息学、博弈论、计算机科学算法的前沿交叉研究。这其中的研究问题包括匹配问题和公平分配问题。&lt;/p&gt;
 &lt;p&gt;匹配问题的经典研究不仅推动了理论计算机科学的发展，而且其相关问题的研究和应用在当今依然深入广泛进行&lt;sup&gt;[1–16]&lt;/sup&gt;。匹配原理涉及的问题是在一个图上判断某种匹配(边集)是否存在，以及如何快速地找到这样一个匹配，例如最大匹配或最大权重匹配问题。通常情况下，这些问题在二部图中比在普通图中更易求解。有关这方面的经典理论请参考 Lovász的著作&lt;sup&gt;[17]&lt;/sup&gt;。 匹配问题在计算经济领域应用广泛，而且相关组合优化问题与市场设计中的博弈问题存在对偶关联。匹配问题的算法为获取有效的机制解决市场设计中的博弈问题并兼顾效率提供了有力的工具。这方面有关的理论及应用详情请参考 Vazirani等的著作&lt;sup&gt;[18,19]&lt;/sup&gt;。此外，匹配在金融、生物统计和临床医学数据分析领域中也有相关的应用和研究&lt;sup&gt;[20–25]&lt;/sup&gt;。&lt;/p&gt;
-&lt;p&gt;公平分配问题是市场设计中博弈问题的一个相关体现&lt;sup&gt;[26–32]&lt;/sup&gt;。假设一个集合$&lt;code&gt;A&lt;/code&gt;$包含$&lt;code&gt;n&lt;/code&gt;$个用户，一个集合$&lt;code&gt;G&lt;/code&gt;$包括$&lt;code&gt;m&lt;/code&gt;$个不同的商品，每个用户都有一个对商品子集为输入的单调递增的价值函数，即$&lt;code&gt;i\in N, v_i:2^G\rightarrow \mathbb{R}_{\geq 0}&lt;/code&gt;$，目标是公平地分配商品给这些用户。目前流行的一种衡量公平的概念是Envy-freeness(EF)，即每个用户分得商品的价值从她自己的价值函数计算都不小于其他用户获得的商品价值。对于不可分割的商品，EF分配不一定存在，因此出现了一些严格度降低的相关概念，例如EFX(即Envy-freeness up to any item)等&lt;sup&gt;[33]&lt;/sup&gt;。&lt;/p&gt;
-&lt;p&gt;EFX是不可分割商品分配问题中目前普遍接受的公平性衡量指标。它是指给定一个分配解，对于其中的任何一个用户，其所分得商品价值都不小于其他任一用户所得商品中去除任一个商品之后的价值。即，给定一组分配 &lt;code&gt;\(S=(S_i)_{i\in A}\)&lt;/code&gt;，$&lt;code&gt;S&lt;/code&gt;$满足EFX，如果 &lt;code&gt;\(v_i(S_i)\geq v_i(S_k -j),\forall i,k\in A,\forall j\in S_k\)&lt;/code&gt; 成立。但是，当$&lt;code&gt;n&amp;gt;3&lt;/code&gt;$时，即使价值函数的结构是叠加性质的，EFX分配解的存在问题仍是该领域中一个重要的开放问题&lt;sup&gt;[34]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;公平分配问题是市场设计中博弈问题的一个相关体现&lt;sup&gt;[26–32]&lt;/sup&gt;。假设一个集合$A$包含$n$个用户，一个集合$G$包括$m$个不同的商品，每个用户都有一个对商品子集为输入的单调递增的价值函数，即$i\in N,v_i:2^G\rightarrow \mathbb{R}_{\geq 0}$ ，目标是公平地分配商品给这些用户。目前流行的一种衡量公平的概念是Envy-freeness(EF)，即每个用户分得商品的价值从她自己的价值函数计算都不小于其他用户获得的商品价值。对于不可分割的商品，EF分配不一定存在，因此出现了一些严格度降低的相关概念，例如EFX(即Envy-freeness up to any item)等&lt;sup&gt;[33]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;EFX是不可分割商品分配问题中目前普遍接受的公平性衡量指标。它是指给定一个分配解，对于其中的任何一个用户，其所分得商品价值都不小于其他任一用户所得商品中去除任一个商品之后的价值。即，给定一组分配 (S=(S_i)_{i\in A})，$S$满足EFX，如果 (v_i(S_i)\geq v_i(S_k -j),\forall i,k\in A,\forall j\in S_k) 成立。但是，当$n&amp;gt;3$时，即使价值函数的结构是叠加性质的，EFX分配解的存在问题仍是该领域中一个重要的开放问题&lt;sup&gt;[34]&lt;/sup&gt;。&lt;/p&gt;
 &lt;p&gt;基于匹配的组合优化问题与市场设计相关问题存在关联&lt;sup&gt;[25,35,36]&lt;/sup&gt;。基于匹配的市场是由一组$&lt;code&gt;n&lt;/code&gt;$个可分割的商品和一组$&lt;code&gt;n&lt;/code&gt;$个用户组成，用户对商品具有偏好，并通过排序或数值方式定义，目标是在用户和商品之间找到一个匹配，满足公平属性并最大化商品的功用。传统方法 Hylland-Zeckhauser(HZ)模型通过计算博弈均衡来求解该问题，但是该模型下即使计算一个近似均衡解也属于 PPAD-complete问题&lt;sup&gt;[8]&lt;/sup&gt;。现在流行一种方法是基于所谓的Nash bargaining，这种方法的结果不仅具有凸优化的计算效率，而且满足Pareto最优性、对称性和分配结果相对公平的特性&lt;sup&gt;[7,37]&lt;/sup&gt;。&lt;/p&gt;
 &lt;p&gt;纳什社会福利(Nash Social Welfare,简记为NSW)优化目标即来自上面提到的Nash bargaining方法&lt;sup&gt;[2]&lt;/sup&gt;，是其离散问题的版本&lt;sup&gt;[38]&lt;/sup&gt;。其目标是最大化用户获取商品的价值的乘积，或加权几何均值。即搜索一组商品的分配，$&lt;code&gt;S=(S_i)_{i\in A}&lt;/code&gt;$，使之最大化$&lt;code&gt;\text{NSW}(S)=\prod_{i\in A}(v_i(S_i))^{w_i}&lt;/code&gt;$，其中$&lt;code&gt;\sum_{i\in A} w_i=1&lt;/code&gt;$. NSW的目标函数优化结果兼顾了分配商品的功效价值和公平性&lt;sup&gt;[39]&lt;/sup&gt;，而且其另一个特点是适用于用户具有不同的价值尺度单位的情况，该方法的分配结果依然保持最优性不变。有关结合社会福利的其他组合问题研究近期也有很多&lt;sup&gt;[40–43]&lt;/sup&gt;。&lt;/p&gt;
 &lt;p&gt;NSW目标优化问题是一个NP难问题，而且找到相应最佳分配解也是APX难的。从该领域当前的研究相应近似算法的情况来看，加权的NSW问题比非加权或权重均匀分布的问题要更难；同样地，具有子模函数(submodular)性质的价值函数比线性叠加性质的价值要更难求解&lt;sup&gt;[38,44,45]&lt;/sup&gt;。 对于非加权的NSW问题，目前已有研究给出常量因子的近似算法，对于加权的情况，目前最新的进展是获得了$&lt;code&gt;O(nw_{\text{max}})&lt;/code&gt;$ 近似因子的算法&lt;sup&gt;[46]&lt;/sup&gt;，另一篇文献中给出了一个 &lt;code&gt;\(O(\exp(2 D_{KL}(\mathbf{w}\parallel\mathbf{u})))\)&lt;/code&gt; 的近似算法&lt;sup&gt;[47]&lt;/sup&gt;，其中 &lt;code&gt;\(D_{KL}(\mathbf{w}\parallel\mathbf{u})\)&lt;/code&gt; 表示权重分布 &lt;code&gt;\(\mathbf{w}\)&lt;/code&gt; 对比其均匀分布 &lt;code&gt;\(\mathbf{u}\)&lt;/code&gt; 的$&lt;code&gt;\text{KL - 分布}&lt;/code&gt;$ 距离。这些结果属于目前该领域中的最好研究结果。从理论上看，&lt;strong&gt;这里依然存在一些开放问题&lt;/strong&gt;，比如，对于加权的NSW问题是否存在常量因子的近似算法？$&lt;code&gt;O(\exp(2 D_{KL}(\mathbf{w}\parallel\mathbf{u})))&lt;/code&gt;$ 的近似算法是否对具有子模属性的价值函数同样适用？在加权的且具有子模价值函数的NSW问题上是否存在比$&lt;code&gt;O(nw_{\text{max}})&lt;/code&gt;$近似更好的近似算法？ 另外，&lt;strong&gt;这些算法也缺乏在模拟实验或实际应用中的检验&lt;/strong&gt;。在实际的应用中，用户对商品的评价值以及用户之间的权重分布可能会存在估计偏差&lt;sup&gt;[48–50]&lt;/sup&gt;，这些情况对于相关算法表现的影响还缺乏有关的研究。这方面的研究将有助于进一步理解NSW问题的结构和探索相关近似算法表现的界限及其稳定性。&lt;/p&gt;
 &lt;p&gt;关于NSW问题的近似算法研究一般分为两类，一类是利用相应组合问题的结构，例如匹配问题，进行算法设计；另一类是利用数学规划构建凸优化模型求解近似解。前者的一个代表即是来自文献&lt;sup&gt;[46]&lt;/sup&gt;，Garg等人在这篇文献里设计的近似算法是基于最大权重匹配问题的求解和局部搜索，该算法理论上对具有子模价值函数的对称NSW问题的最优近似因子是$&lt;code&gt;(4+\epsilon)&lt;/code&gt;$，对相同情况下，同时满足$&lt;code&gt;\frac{1}{2}\text{-EFX}&lt;/code&gt;$ 公平性的解的最优近似程度是$&lt;code&gt;(8+\epsilon)&lt;/code&gt;$；然而对同样具有子模价值函数的非对称即加权NSW问题的最优近似程度是$&lt;code&gt;e(2+nw_{\max}+\epsilon)&lt;/code&gt;$.&lt;/p&gt;
 &lt;p&gt;对于上面提到的第二类方法，典型的代表来自于文献&lt;sup&gt;[47,51]&lt;/sup&gt;. Singh等给出了非对称NSW问题的两种数学规划模型，一种记为CVX是属于凸规划模型，另一种记为NCVX是属于非凸规划。Singh等利用凸优化的性质快速求解一个CVX模型的最优匹配解b，并在NCVX模型上基于b找到另一个具有特殊性质的解$&lt;code&gt;b^\prime&lt;/code&gt;$，该解满足目标函数值$&lt;code&gt;f_\text{ncvx}(b^\prime)\geq f_\text{ncvx}(b)&lt;/code&gt;$，而且因为$&lt;code&gt;b^\prime&lt;/code&gt;$在其对应二部图上的非环路性质，使之易于转换为一个整数匹配解，而且保证$&lt;code&gt;f_\text{cvx}(b^\prime)&lt;/code&gt;$ 与 &lt;code&gt;\(f_\text{cvx}(b)\)&lt;/code&gt;之差在与权重w分布有关的指数量级之内。&lt;/p&gt;
-&lt;p&gt;综上所述，NSW问题尤其是非对称加权的NSW问题在求解时面临许多挑战。目前相关领域的文献很多集中在近似算法的设计及其理论分析上，实验分析验证的很少。从实验比较中的观察与发现很有可能会为该类问题提供更多的解决思路。尽管如此，该类问题具有广泛的潜在应用，是一个值得研究的问题。&lt;/p&gt;
+&lt;p&gt;近些年对在线模式下的公平分配问题研究也为该领域所关注。在线模式的问题中，物品每次出现一个，必须被立即分配给用户。在线公平分配问题的应用也非常广泛，例如分配捐赠器官给病人，捐赠的食物给慈善机构，分配电动车辆到充电站等。由于物品的总数以及它们到来的顺序等都是预先不知道的，因此线上的分配问题相比较于传统的线下问题更具挑战性。&lt;/p&gt;
+&lt;p&gt;综上所述，面向NSW的公平分配问题在求解时面临许多挑战。目前相关领域的文献很多集中在近似算法的设计及其理论分析上，实验分析验证的很少。从实验比较中的观察与发现很有可能会为该类问题提供更多的解决思路。尽管如此，该类问题具有广泛的潜在应用，是一个值得研究的问题。&lt;/p&gt;
 &lt;p&gt;在互联网经济的推动下，网络连接的社会迅速发展，国家在注重效率的同时，提倡公平的资源分配，公平的市场分割。海南自贸港的建设也需要在这些方面进行积极的实践和创新。对NSW相关公平分配问题的研究将为自贸港在数字经济、社会、教育、医疗和公共卫生、工业与交通运输等领域的快速发展中，兼顾效率与公平，发挥积极的作用。&lt;/p&gt;
 &lt;h4 id=&#34;参考文献&#34;&gt;&lt;strong&gt;参考文献&lt;/strong&gt;&lt;/h4&gt;
 &lt;h3 id=&#34;2项目的研究内容研究目标以及拟解决的关键科学问题此部分为重点阐述内容&#34;&gt;&lt;strong&gt;2．项目的研究内容、研究目标，以及拟解决的关键科学问题&lt;/strong&gt;（此部分为重点阐述内容）；&lt;/h3&gt;
@@ -2233,37 +2234,6 @@ The following resources are in the fields of parallel, distributed computing, ar
 商乔，“基于自然语言处理技术的动漫手机助手” \
 李俊颉，“计算机视觉中人脸识别算法研究”&lt;/p&gt;
 &lt;p&gt;如果你想在机器学习，优化问题，物联网，信息安全等领域寻找感兴趣的课题，欢迎和我联系(我的邮箱地址是 &lt;a href=&#34;mailto:qqi@hainanu.edu.cn&#34;&gt;qqi@hainanu.edu.cn&lt;/a&gt; )。让我们一起讨论可能的合作机会与前景。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:4321/writing/2025-03-10-research-proposal/figs/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/writing/2025-03-10-research-proposal/figs/readme/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;compile tex file&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;edit and compile in texworks, with pdflatex selection.
-xeLatex seems a better run command with Chinese characters.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;then convert figure pdf to png file&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;source run the R code, convertPDF2PNG, in RStudio.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;reference
-&lt;ul&gt;
-&lt;li&gt;tikz diagrams examples:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://texample.net/tikz/examples/tag/diagrams/&#34;&gt;https://texample.net/tikz/examples/tag/diagrams/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
