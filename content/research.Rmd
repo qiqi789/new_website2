@@ -13,9 +13,9 @@ slug: research
 
 ## 研究方向
 
-* 组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.
+* 组合优化，算法，博弈。 Combinatorial Optimization. Algorithmic Game Theory.
 
-* 机器学习，数据科学。Machine Learning. Data Science.
+* 机器学习，数据科学，网络安全。Machine Learning. Data Science. Network Security.
 
 
 <!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. -->
