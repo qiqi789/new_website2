@@ -20,11 +20,15 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 
 Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.
 
+Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations
+
 Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.
 
 Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.
 
 [TTIC 31260 - Algorithmic Game Theory (Spring 2024)](https://home.ttic.edu/~avrim/AGT24/index.html)
+
+[Multiagent Systems: Instructional Resources](https://www.masfoundations.org/resources.html)
 
 [TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)](https://home.ttic.edu/~avrim/Toolkit23/)
 
