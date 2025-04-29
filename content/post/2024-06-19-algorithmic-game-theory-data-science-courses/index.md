@@ -66,6 +66,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Yasushi Kawase's publications and teaching](https://yambi.jp/#/publications)
 
+<https://people.math.sc.edu/lu/teaching.html>
+
 [Ben Zhao's Webpage (adversarial machine learning)](https://people.cs.uchicago.edu/~ravenben/) , [Sand Lab(Security, Algorithms, Networking and Data)](http://sandlab.cs.uchicago.edu/index.html)
 
 [Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
