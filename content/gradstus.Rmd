@@ -1,5 +1,5 @@
 ---
-title: "Graduate students"
+title: "Graduate Alumni"
 author: "Qi Qi"
 date: "2025-06-01"
 lastmod: "2025-06-01"
