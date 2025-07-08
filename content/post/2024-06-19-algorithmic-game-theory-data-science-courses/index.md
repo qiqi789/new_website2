@@ -1,8 +1,8 @@
 ---
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
-date: '2025-04-29'
-lastmod: '2025-03-10'
+date: '2025-07-08'
+lastmod: '2025-07-08'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -14,15 +14,17 @@ tags:
 
 Alon, N., & Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.
 
-Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.
-
-Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.
+Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations
 
 Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.
 
-Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations
+Easley, D. and J. Kleinberg (2010). Networks, crowds, and markets : reasoning about a highly connected world. New York, Cambridge University Press.
 
 Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.
+
+Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.
+
+Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.
 
 Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.
 
