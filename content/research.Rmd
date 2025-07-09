@@ -151,4 +151,7 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, 2024 9th International 
 -->
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&cl=ffffff&w=a"></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c'></script>
+
+
