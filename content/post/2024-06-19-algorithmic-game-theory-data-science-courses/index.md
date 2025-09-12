@@ -1,8 +1,8 @@
 ---
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
-date: '2025-07-08'
-lastmod: '2025-07-08'
+date: '2025-09-12'
+lastmod: '2025-09-12'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -39,6 +39,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 [COURSE: CS 15-892 Foundations of Electronic Marketplaces](https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm)
 
 [Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~./15281/)
+
+[AAMAS(Autonomous Agents and Multiagent Systems) Conference Proceedings](https://www.ifaamas.org/proceedings.html)
 
 [ACM Conference - Economics and Computation](https://dl.acm.org/conference/ec)
 
