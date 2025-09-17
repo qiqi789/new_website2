@@ -1,8 +1,8 @@
 ---
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
-date: '2025-09-12'
-lastmod: '2025-09-12'
+date: '2025-09-17'
+lastmod: '2025-09-17'
 slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
@@ -49,6 +49,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 [International Symposium on Algorithmic Game Theory](https://link.springer.com/conference/sagt)
 
 [ACM-SIAM Symposium on Discrete Algorithms (SODA)](https://epubs.siam.org/action/showPublications?pubType=proceedings&category=10.1555/category.40105908&expand=10.1555/category.40105908)
+
+[Avrim Blum's Webpage](https://home.ttic.edu/~avrim/)
 
 [Vijay V. Vazirani's publication](https://ics.uci.edu/~vazirani/)
 
