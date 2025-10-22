@@ -30,6 +30,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [TTIC 31260 - Algorithmic Game Theory (Spring 2024)](https://home.ttic.edu/~avrim/AGT24/index.html)
 
+[TTIC 31290 - Machine Learning for Algorithm Design (Fall 2025)](https://home.ttic.edu/~avrim/MLforAD25/index.html)
+
 [Multiagent Systems: Instructional Resources](https://www.masfoundations.org/resources.html)
 
 [TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)](https://home.ttic.edu/~avrim/Toolkit23/)
