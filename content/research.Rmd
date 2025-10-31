@@ -119,7 +119,7 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, 2024 9th International 
     MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
 
-## 主持的基金项目
+## 基金项目
 
 - “面向复杂环境光伏阵列最大功率点跟踪的群智能算法研究”，海南省高等学校科学研究项目，海南省教育厅，2023-2025
 
