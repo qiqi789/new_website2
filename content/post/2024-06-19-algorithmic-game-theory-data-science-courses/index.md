@@ -58,11 +58,15 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Vijay V. Vazirani's publication](https://ics.uci.edu/~vazirani/)
 
+[Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
+
+[Kevin Leyton-Brown's publications](https://www.cs.ubc.ca/~kevinlb/publications.html)
+
 [Robert Schapire's publication list](http://rob.schapire.net/publist.html)
 
-[Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
-
 [Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
+
+[Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
 
 [Games and Equilibria in System Design and Analysis, Simons Institute workshop](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
 
@@ -79,5 +83,3 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 <https://people.math.sc.edu/lu/teaching.html>
 
 [Ben Zhao's Webpage (adversarial machine learning)](https://people.cs.uchicago.edu/~ravenben/) , [Sand Lab(Security, Algorithms, Networking and Data)](http://sandlab.cs.uchicago.edu/index.html)
-
-[Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
