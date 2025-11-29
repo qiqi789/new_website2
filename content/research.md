@@ -31,7 +31,7 @@ slug: research
 
 * "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024. [Web link](https://peerj.com/articles/cs-2253/)
 
-* "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.
+* "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, a poster accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China. [Web link](http://poster-openaccess.com/article_detail.php?paper_id=1910&conf=ICIC&year=2024)
 
 * "An Intra-Network Multi-Teacher Distillation Method Towards 
 Lightweight Knowledge Graph Completion", with Zeyu Yang, 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). [Web link](https://ieeexplore.ieee.org/document/10719142)
