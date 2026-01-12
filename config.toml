@@ -9,7 +9,7 @@ googleAnalytics = "G-CQ1LVQ4JCK"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-copyright = "Copyright © 2025"
+copyright = "Copyright © 2026"
 #disqusShortname = "YOURSHORTNAME"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"

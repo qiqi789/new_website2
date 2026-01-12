@@ -2,58 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithmic Games on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>http://localhost:4321/tags/algorithmic-games/</link>
+    <link>https://qiqi789.netlify.app/tags/algorithmic-games/</link>
     <description>Recent content in Algorithmic Games on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2026</copyright>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:4321/tags/algorithmic-games/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiqi789.netlify.app/tags/algorithmic-games/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Algorithmic Game Theory, books,courses, journals,conferences,and scholars</title>
-      <link>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2024/06/19/algorithmic-game-theory-data-science-courses/</guid>
-      <description>&lt;p&gt;Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&lt;/p&gt;
-&lt;p&gt;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.&lt;/p&gt;
-&lt;p&gt;Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.&lt;/p&gt;
-&lt;p&gt;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT24/index.html&#34;&gt;TTIC 31260 - Algorithmic Game Theory (Spring 2024)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Toolkit23/&#34;&gt;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~ninamf/courses/806/&#34;&gt;CMU - Foundations of Machine Learning and Data Science&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm&#34;&gt;COURSE: CS 15-892 Foundations of Electronic Marketplaces&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~./15281/&#34;&gt;Artificial Intelligence: Representation and Problem Solving&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference - Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://epubs.siam.org/action/showPublications?pubType=proceedings&amp;amp;category=10.1555/category.40105908&amp;amp;expand=10.1555/category.40105908&#34;&gt;ACM-SIAM Symposium on Discrete Algorithms (SODA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;Vijay V. Vazirani&amp;rsquo;s publication&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://rob.schapire.net/publist.html&#34;&gt;Robert Schapire&amp;rsquo;s publication list&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.dais.is.tohoku.ac.jp/take/papers.html&#34;&gt;Publications of Takehiro ITO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rutamehta.cs.illinois.edu/index.html&#34;&gt;Ruta Mehta&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshop&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research&#34;&gt;Takayuki Ito&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://math.mit.edu/~goemans/18455-2020SP.html&#34;&gt;Advanced Combinatorial Optimization course by Michel Goemans&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eigarashayumi/publications&#34;&gt;Ayumi Igarashi&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://yambi.jp/#/publications&#34;&gt;Yasushi Kawase&amp;rsquo;s publications and teaching&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Zhao&amp;rsquo;s Webpage (adversarial machine learning)&lt;/a&gt; , &lt;a href=&#34;http://sandlab.cs.uchicago.edu/index.html&#34;&gt;Sand Lab(Security, Algorithms, Networking and Data)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html&#34;&gt;Edith Elkind&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Algorithms and Game Theory</title>
-      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <link>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <guid>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</guid>
       <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -129,10 +93,10 @@
     
     <item>
       <title>Online and Matching-Based Market Design</title>
-      <link>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <link>https://qiqi789.netlify.app/2023/11/08/online-and-matching-based-market-design/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <guid>https://qiqi789.netlify.app/2023/11/08/online-and-matching-based-market-design/</guid>
       <description>&lt;h1 id=&#34;online-and-matching-based-market-design-workshop&#34;&gt;Online and Matching-Based Market Design workshop&lt;/h1&gt;
 &lt;p&gt;Workshop, Oct. 2023, Simons Institute for the Theory of Computing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
@@ -141,10 +105,10 @@
     
     <item>
       <title>CCF 计算经济大赛，专委会，相关网页</title>
-      <link>http://localhost:4321/2023/10/30/ccf-ce-competition/</link>
+      <link>https://qiqi789.netlify.app/2023/10/30/ccf-ce-competition/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/10/30/ccf-ce-competition/</guid>
+      <guid>https://qiqi789.netlify.app/2023/10/30/ccf-ce-competition/</guid>
       <description>&lt;h2 id=&#34;ccf-计算经济学大赛&#34;&gt;CCF 计算经济学大赛&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CCF 计算经济学大赛，&lt;a href=&#34;https://ccf.pkucxpl.com/&#34;&gt;https://ccf.pkucxpl.com/&lt;/a&gt;&lt;/li&gt;
@@ -184,6 +148,53 @@
 &lt;p&gt;&lt;a href=&#34;http://marketdesigner.blogspot.com/&#34;&gt;http://marketdesigner.blogspot.com/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algorithmic Game Theory, books,courses, journals,conferences,and scholars</title>
+      <link>https://qiqi789.netlify.app/1/01/01/algorithmic-game-theory-data-science-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/1/01/01/algorithmic-game-theory-data-science-courses/</guid>
+      <description>&lt;p&gt;Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&lt;/p&gt;
+&lt;p&gt;Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations&lt;/p&gt;
+&lt;p&gt;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Easley, D. and J. Kleinberg (2010). Networks, crowds, and markets : reasoning about a highly connected world. New York, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.&lt;/p&gt;
+&lt;p&gt;Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.&lt;/p&gt;
+&lt;p&gt;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6840/2025fa/&#34;&gt;Cornell - Algorithmic Game Theory 2025 Fall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/14.126-game-theory-spring-2024/download/&#34;&gt;MIT - Game theory 2024 Spring&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT24/index.html&#34;&gt;TTIC 31260 - Algorithmic Game Theory (Spring 2024)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wisdom.weizmann.ac.il/~feige/agt2024.html&#34;&gt;Algorithmic Game Theory, 2024 lectures, by Uri Feige&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/MLforAD25/index.html&#34;&gt;TTIC 31290 - Machine Learning for Algorithm Design (Fall 2025)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.masfoundations.org/resources.html&#34;&gt;Multiagent Systems: Instructional Resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Toolkit23/&#34;&gt;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~ninamf/courses/806/&#34;&gt;CMU - Foundations of Machine Learning and Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm&#34;&gt;COURSE: CS 15-892 Foundations of Electronic Marketplaces&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~./15281/&#34;&gt;Artificial Intelligence: Representation and Problem Solving&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ifaamas.org/proceedings.html&#34;&gt;AAMAS(Autonomous Agents and Multiagent Systems) Conference Proceedings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference - Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://epubs.siam.org/action/showPublications?pubType=proceedings&amp;amp;category=10.1555/category.40105908&amp;amp;expand=10.1555/category.40105908&#34;&gt;ACM-SIAM Symposium on Discrete Algorithms (SODA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/&#34;&gt;Avrim Blum&amp;rsquo;s Webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;Vijay V. Vazirani&amp;rsquo;s publication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html&#34;&gt;Edith Elkind&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~kevinlb/publications.html&#34;&gt;Kevin Leyton-Brown&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://rob.schapire.net/publist.html&#34;&gt;Robert Schapire&amp;rsquo;s publication list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rutamehta.cs.illinois.edu/index.html&#34;&gt;Ruta Mehta&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dais.is.tohoku.ac.jp/take/papers.html&#34;&gt;Publications of Takehiro ITO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research&#34;&gt;Takayuki Ito&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://math.mit.edu/~goemans/18455-2020SP.html&#34;&gt;Advanced Combinatorial Optimization course by Michel Goemans&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eigarashayumi/publications&#34;&gt;Ayumi Igarashi&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yambi.jp/#/publications&#34;&gt;Yasushi Kawase&amp;rsquo;s publications and teaching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.math.sc.edu/lu/teaching.html&#34;&gt;https://people.math.sc.edu/lu/teaching.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Zhao&amp;rsquo;s Webpage (adversarial machine learning)&lt;/a&gt; , &lt;a href=&#34;http://sandlab.cs.uchicago.edu/index.html&#34;&gt;Sand Lab(Security, Algorithms, Networking and Data)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

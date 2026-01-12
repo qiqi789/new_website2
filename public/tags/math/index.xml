@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>http://localhost:4321/tags/math/</link>
+    <link>https://qiqi789.netlify.app/tags/math/</link>
     <description>Recent content in Math on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2025</copyright>
+    <copyright>Copyright © 2026</copyright>
     <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:4321/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiqi789.netlify.app/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wolfram Alpha - 在线数学搜索</title>
-      <link>http://localhost:4321/2024/04/03/wolfram-alpha/</link>
+      <link>https://qiqi789.netlify.app/2024/04/03/wolfram-alpha/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2024/04/03/wolfram-alpha/</guid>
+      <guid>https://qiqi789.netlify.app/2024/04/03/wolfram-alpha/</guid>
       <description>&lt;h2 id=&#34;wolfram-alpha&#34;&gt;Wolfram Alpha&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.wolframalpha.com/&#34;&gt;https://www.wolframalpha.com/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -25,20 +25,21 @@
     
     <item>
       <title>The Mathematics of László Lovász</title>
-      <link>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
+      <link>https://qiqi789.netlify.app/2024/03/28/the-mathematics-of-laszlo-lovasz/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
+      <guid>https://qiqi789.netlify.app/2024/03/28/the-mathematics-of-laszlo-lovasz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ar5iv.labs.arxiv.org/html/2303.03148&#34;&gt;The Mathematics of László Lovász&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters, by Noga Alon</title>
-      <link>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
+      <title>Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters,
+by Noga Alon</title>
+      <link>https://qiqi789.netlify.app/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
+      <guid>https://qiqi789.netlify.app/2024/01/21/combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters-by-noga-alon/</guid>
       <description>&lt;h1 id=&#34;combinatorics-the-mathematics-of-fair-thieves-and-sophisticated-forgetters&#34;&gt;&lt;strong&gt;Combinatorics: The Mathematics of Fair Thieves and Sophisticated Forgetters&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&#34;&gt;https://kids.frontiersin.org/articles/10.3389/frym.2023.1158338&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.math.princeton.edu/~nalon/&#34;&gt;Noga Alon&amp;rsquo;s home page&lt;/a&gt;&lt;/p&gt;
@@ -47,10 +48,10 @@
     
     <item>
       <title>Abel interview 2021: László Lovász and Avi Wigderson</title>
-      <link>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
+      <link>https://qiqi789.netlify.app/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
+      <guid>https://qiqi789.netlify.app/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
       <description>&lt;h2 id=&#34;abel-interview-2021-lászló-lovász-and-avi-wigderson&#34;&gt;Abel interview 2021: László Lovász and Avi Wigderson&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/54&#34;&gt;https://euromathsoc.org/magazine/articles/54&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;2023-interview-with-lászló-lovász&#34;&gt;&lt;strong&gt;2023 Interview with László Lovász&lt;/strong&gt;&lt;/h2&gt;

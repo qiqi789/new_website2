@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>http://localhost:4321/tags/</link>
+    <link>https://qiqi789.netlify.app/tags/</link>
     <description>Recent content in Tags on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2026</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiqi789.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reference</title>
-      <link>http://localhost:4321/tags/reference/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Graduate</title>
+      <link>https://qiqi789.netlify.app/tags/graduate/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/reference/</guid>
+      <guid>https://qiqi789.netlify.app/tags/graduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:4321/tags/research/</link>
+      <link>https://qiqi789.netlify.app/tags/research/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>https://qiqi789.netlify.app/tags/reference/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithmic Games</title>
-      <link>http://localhost:4321/tags/algorithmic-games/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/tags/algorithmic-games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computation and Economics</title>
-      <link>http://localhost:4321/tags/computation-and-economics/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/tags/computation-and-economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>算法博弈</title>
-      <link>http://localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</guid>
+      <guid>https://qiqi789.netlify.app/tags/reference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>http://localhost:4321/tags/art/</link>
+      <link>https://qiqi789.netlify.app/tags/art/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/art/</guid>
+      <guid>https://qiqi789.netlify.app/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>市场设计</title>
-      <link>http://localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</link>
+      <link>https://qiqi789.netlify.app/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>https://qiqi789.netlify.app/tags/%E5%B8%82%E5%9C%BA%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法博弈</title>
+      <link>https://qiqi789.netlify.app/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>计算经济</title>
-      <link>http://localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</link>
+      <link>https://qiqi789.netlify.app/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</guid>
+      <guid>https://qiqi789.netlify.app/tags/%E8%AE%A1%E7%AE%97%E7%BB%8F%E6%B5%8E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combinatorics</title>
-      <link>http://localhost:4321/tags/combinatorics/</link>
+      <link>https://qiqi789.netlify.app/tags/combinatorics/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/combinatorics/</guid>
+      <guid>https://qiqi789.netlify.app/tags/combinatorics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scholars</title>
-      <link>http://localhost:4321/tags/scholars/</link>
+      <link>https://qiqi789.netlify.app/tags/scholars/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/scholars/</guid>
+      <guid>https://qiqi789.netlify.app/tags/scholars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Turing-Award</title>
-      <link>http://localhost:4321/tags/turing-award/</link>
+      <link>https://qiqi789.netlify.app/tags/turing-award/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/turing-award/</guid>
+      <guid>https://qiqi789.netlify.app/tags/turing-award/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>http://localhost:4321/tags/math/</link>
+      <link>https://qiqi789.netlify.app/tags/math/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/math/</guid>
+      <guid>https://qiqi789.netlify.app/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simons</title>
-      <link>http://localhost:4321/tags/simons/</link>
+      <link>https://qiqi789.netlify.app/tags/simons/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/simons/</guid>
+      <guid>https://qiqi789.netlify.app/tags/simons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>http://localhost:4321/tags/workshop/</link>
+      <link>https://qiqi789.netlify.app/tags/workshop/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/workshop/</guid>
+      <guid>https://qiqi789.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching</title>
-      <link>http://localhost:4321/tags/matching/</link>
+      <link>https://qiqi789.netlify.app/tags/matching/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/matching/</guid>
+      <guid>https://qiqi789.netlify.app/tags/matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>学者分享</title>
-      <link>http://localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</link>
+      <link>https://qiqi789.netlify.app/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</guid>
+      <guid>https://qiqi789.netlify.app/tags/%E5%AD%A6%E8%80%85%E5%88%86%E4%BA%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithmic Games</title>
+      <link>https://qiqi789.netlify.app/tags/algorithmic-games/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/algorithmic-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation and Economics</title>
+      <link>https://qiqi789.netlify.app/tags/computation-and-economics/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/computation-and-economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Literature</title>
-      <link>http://localhost:4321/tags/literature/</link>
+      <link>https://qiqi789.netlify.app/tags/literature/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/literature/</guid>
+      <guid>https://qiqi789.netlify.app/tags/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Design</title>
-      <link>http://localhost:4321/tags/market-design/</link>
+      <link>https://qiqi789.netlify.app/tags/market-design/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/market-design/</guid>
+      <guid>https://qiqi789.netlify.app/tags/market-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>研究前沿</title>
-      <link>http://localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</link>
+      <link>https://qiqi789.netlify.app/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</guid>
+      <guid>https://qiqi789.netlify.app/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>http://localhost:4321/tags/ai/</link>
+      <link>https://qiqi789.netlify.app/tags/ai/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/ai/</guid>
+      <guid>https://qiqi789.netlify.app/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lectures</title>
-      <link>http://localhost:4321/tags/lectures/</link>
+      <link>https://qiqi789.netlify.app/tags/lectures/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/lectures/</guid>
+      <guid>https://qiqi789.netlify.app/tags/lectures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI可解释</title>
-      <link>http://localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</link>
+      <link>https://qiqi789.netlify.app/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graduate</title>
-      <link>http://localhost:4321/tags/graduate/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/tags/graduate/</guid>
+      <guid>https://qiqi789.netlify.app/tags/ai%E5%8F%AF%E8%A7%A3%E9%87%8A/</guid>
       <description></description>
     </item>
     

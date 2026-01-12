@@ -2,251 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>http://localhost:4321/categories/research/</link>
+    <link>https://qiqi789.netlify.app/categories/research/</link>
     <description>Recent content in Research on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2026</copyright>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:4321/categories/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiqi789.netlify.app/categories/research/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Selected references in algorithmic game theory</title>
-      <link>http://localhost:4321/2025/03/07/selected-references-in-algorithmic-game-theory/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2025/03/07/selected-references-in-algorithmic-game-theory/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:4321/exported_reference_Algorithmic_Game_Theory.html&#34;&gt;The link for the collection of selected references in Algorithmic Game Theory.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Directions in Market Design</title>
-      <link>http://localhost:4321/2024/04/26/new-directions-in-market-design/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2024/04/26/new-directions-in-market-design/</guid>
-      <description>&lt;h1 id=&#34;new-directions-in-market-design&#34;&gt;&lt;strong&gt;New Directions in Market Design&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;NBER&amp;rsquo;s Conference, Spring 2023&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#34;&gt;https://www.nber.org/conferences/new-directions-market-design-spring-2023&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;market-design-working-group-meeting-fall-2023&#34;&gt;&lt;strong&gt;Market Design Working Group Meeting, Fall 2023&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#34;&gt;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#34;&gt;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;seminar-aco-center--uci&#34;&gt;Seminar, ACO Center @ UCI&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://acoi.ics.uci.edu/seminar-series/&#34;&gt;https://acoi.ics.uci.edu/seminar-series/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Abel interview 2021: László Lovász and Avi Wigderson</title>
-      <link>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
-      <description>&lt;h2 id=&#34;abel-interview-2021-lászló-lovász-and-avi-wigderson&#34;&gt;Abel interview 2021: László Lovász and Avi Wigderson&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/54&#34;&gt;https://euromathsoc.org/magazine/articles/54&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2023-interview-with-lászló-lovász&#34;&gt;&lt;strong&gt;2023 Interview with László Lovász&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/157&#34;&gt;Interview with László Lovász&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine&#34;&gt;https://euromathsoc.org/magazine&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
-      <link>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
-      <description>&lt;h2 id=&#34;optimization-and-algorithm-design-simons-institute-for-the-theory-of-computing&#34;&gt;Optimization and Algorithm Design, Simons Institute for the Theory of Computing&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28&#34;&gt;Nash Social Welfare and A Tale of Mathematical Programs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;richard-m-karp-distinguished-lectures&#34;&gt;Richard M. Karp Distinguished Lectures&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him</title>
-      <link>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
-      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://ioi.te.lv/oi_content_v17.shtml&#34;&gt;From the International Olympiad in Informatics Journal Vol 17, 2023&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>László Lovász: Working mathematical miracles</title>
-      <link>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
-      <description>&lt;p&gt;László Lovász: Working mathematical miracles&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#34;&gt;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/pioneering-graph-theory-laszlo-lovasz/&#34;&gt;Pioneering Graph Theory – László Lovász&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Selected topics in graph theory&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#34;&gt;https://lovasz.web.elte.hu//kurzusok/limit2023.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/&#34;&gt;https://lovasz.web.elte.hu//kurzusok/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, &lt;a href=&#34;https://scilogs.spektrum.de/hlf&#34; title=&#34;Go to Heidelberg Laureate Forum.&#34;&gt;Heidelberg Laureate Forum&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#34;&gt;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Why People Hate Maths, and Why You Should Love It&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&#34;&gt;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Matching , Graph theory, Combinatorics related references</title>
-      <link>http://localhost:4321/2023/12/06/matching-related-references/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2023/12/06/matching-related-references/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#34;&gt;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;LP-Duality and the Cores of Games&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/teaching.html&#34;&gt;http://www.columbia.edu/~yf2414/teaching.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=3027&#34;&gt;https://icerm.brown.edu/video_archive/?play=3027&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/ipco&#34;&gt;International Conference on Integer Programming and Combinatorial Optimization&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://yufeizhao.com/&#34;&gt;https://yufeizhao.com/&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://yufeizhao.com/gtacbook/&#34;&gt;Graph Theory and Additive Combinatorics book&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&#34;&gt;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&#34;&gt;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/erdos-shannon-story-probability-communication-combinatorics-richard-m-karp-distinguished&#34;&gt;Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/introduction-data-structures-optimization-fast-algorithms-richard-m-karp-distinguished&#34;&gt;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Algorithms and Game Theory</title>
-      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
-      <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/&#34;&gt;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-43254-5&#34;&gt;Proceeding Web link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-15714-1&#34;&gt;SAGT 2022&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-85947-3&#34;&gt;SAGT 2021&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-57980-7&#34;&gt;SAGT 2020&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-30473-7&#34;&gt;SAGT 2019&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-99660-8&#34;&gt;SAGT 2018&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-66700-3&#34;&gt;SAGT 2017&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-53354-3&#34;&gt;SAGT 2016&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-48433-3&#34;&gt;SAGT 2015&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-44803-8&#34;&gt;SAGT 2014&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-41392-6&#34;&gt;SAGT 2013&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-33996-7&#34;&gt;SAGT 2012&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-24829-0&#34;&gt;SAGT 2011&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-16170-4&#34;&gt;SAGT 2010&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-04645-2&#34;&gt;SAGT 2009&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-79309-0&#34;&gt;SAGT 2008&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;Matchings&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2023fa/lectures.html&#34;&gt;Algorithms core theory&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:4321/research/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://qiqi789.netlify.app/research/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/research/</guid>
+      <guid>https://qiqi789.netlify.app/research/</guid>
       <description>&lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.&lt;/p&gt;
+&lt;p&gt;组合优化，算法，博弈。 Combinatorial Optimization. Algorithmic Game Theory.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;机器学习，数据科学。Machine Learning. Data Science.&lt;/p&gt;
+&lt;p&gt;机器学习，数据科学，网络安全。Machine Learning. Data Science. Network Security.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. --&gt;
@@ -256,7 +34,7 @@
 &lt;p&gt;&amp;ldquo;Data-free fingerprinting technology for biometric classifiers&amp;rdquo;, with Ziting Ren, Yucong Duan, Lanhua Luo, Computers &amp;amp; Security, 2025, &lt;a href=&#34;https://doi.org/10.1016/j.cose.2025.104386&#34;&gt;Web link&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&amp;ldquo;A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion&amp;rdquo;, with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion&amp;rdquo;, with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.&lt;a href=&#34;https://ieeexplore.ieee.org/document/11033369&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&amp;ldquo;A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction&amp;rdquo;, with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
@@ -265,7 +43,7 @@
 &lt;p&gt;&amp;ldquo;DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies&amp;rdquo;, with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024. &lt;a href=&#34;https://peerj.com/articles/cs-2253/&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&amp;ldquo;The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis&amp;rdquo;, with Peng Xia, accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis&amp;rdquo;, with Peng Xia, a poster accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China. &lt;a href=&#34;http://poster-openaccess.com/article_detail.php?paper_id=1910&amp;amp;conf=ICIC&amp;amp;year=2024&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&amp;ldquo;An Intra-Network Multi-Teacher Distillation Method Towards
@@ -375,7 +153,7 @@ University of Missouri-Columbia, 2012. &lt;a href=&#34;http://gradworks.umi.com/
 link&lt;/a&gt;, &lt;a href=&#34;https://mospace.umsystem.edu/xmlui/handle/10355/15111&#34;&gt;on
 MOSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;主持的基金项目&#34;&gt;主持的基金项目&lt;/h2&gt;
+&lt;h2 id=&#34;基金项目&#34;&gt;基金项目&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;“面向复杂环境光伏阵列最大功率点跟踪的群智能算法研究”，海南省高等学校科学研究项目，海南省教育厅，2023-2025&lt;/p&gt;
@@ -415,16 +193,239 @@ MOSpace&lt;/a&gt;&lt;/li&gt;
 
 -   注册信息安全工程师(CISE)，2017.1
 --&gt;
-&lt;script type=&#34;text/javascript&#34; id=&#34;clustrmaps&#34; src=&#34;//clustrmaps.com/map_v2.js?d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&amp;cl=ffffff&amp;w=a&#34;&gt;&lt;/script&gt;
+&lt;script type=&#39;text/javascript&#39; id=&#39;clustrmaps&#39; src=&#39;//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=300&amp;t=m&amp;d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected references in algorithmic game theory</title>
+      <link>https://qiqi789.netlify.app/2025/03/07/selected-references-in-algorithmic-game-theory/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2025/03/07/selected-references-in-algorithmic-game-theory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://qiqi789.netlify.app/exported_reference_Algorithmic_Game_Theory.html&#34;&gt;The link for the collection of selected references in Algorithmic Game Theory.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Directions in Market Design</title>
+      <link>https://qiqi789.netlify.app/2024/04/26/new-directions-in-market-design/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2024/04/26/new-directions-in-market-design/</guid>
+      <description>&lt;h1 id=&#34;new-directions-in-market-design&#34;&gt;&lt;strong&gt;New Directions in Market Design&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;NBER&amp;rsquo;s Conference, Spring 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/new-directions-market-design-spring-2023&#34;&gt;https://www.nber.org/conferences/new-directions-market-design-spring-2023&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;market-design-working-group-meeting-fall-2023&#34;&gt;&lt;strong&gt;Market Design Working Group Meeting, Fall 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&#34;&gt;https://www.nber.org/conferences/market-design-working-group-meeting-fall-2023&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&#34;&gt;https://www.nber.org/programs-projects/programs-working-groups%23Groups/market-design?page=1&amp;amp;perPage=50&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;seminar-aco-center--uci&#34;&gt;Seminar, ACO Center @ UCI&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://acoi.ics.uci.edu/seminar-series/&#34;&gt;https://acoi.ics.uci.edu/seminar-series/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abel interview 2021: László Lovász and Avi Wigderson</title>
+      <link>https://qiqi789.netlify.app/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2024/01/19/abel-interview-2021-laszl-lovasz-and-avi-wigderson/</guid>
+      <description>&lt;h2 id=&#34;abel-interview-2021-lászló-lovász-and-avi-wigderson&#34;&gt;Abel interview 2021: László Lovász and Avi Wigderson&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/54&#34;&gt;https://euromathsoc.org/magazine/articles/54&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2023-interview-with-lászló-lovász&#34;&gt;&lt;strong&gt;2023 Interview with László Lovász&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine/articles/157&#34;&gt;Interview with László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://euromathsoc.org/magazine&#34;&gt;https://euromathsoc.org/magazine&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
+      <link>https://qiqi789.netlify.app/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
+      <description>&lt;h2 id=&#34;optimization-and-algorithm-design-simons-institute-for-the-theory-of-computing&#34;&gt;Optimization and Algorithm Design, Simons Institute for the Theory of Computing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28&#34;&gt;Nash Social Welfare and A Tale of Mathematical Programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;richard-m-karp-distinguished-lectures&#34;&gt;Richard M. Karp Distinguished Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around
+Him</title>
+      <link>https://qiqi789.netlify.app/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2023/12/23/as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him-from-the-international-olympiad-in-informatics-journal/</guid>
+      <description>&lt;h2 id=&#34;as-the-epitome-of-talent-john-von-neumann-and-hungarian-born-scientists-around-him&#34;&gt;&lt;a href=&#34;https://ioi.te.lv/oi/pdf/v17_2023_3_18.pdf&#34;&gt;As the Epitome of Talent: John von Neumann and Hungarian-born Scientists Around Him&lt;/a&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ioi.te.lv/oi_content_v17.shtml&#34;&gt;From the International Olympiad in Informatics Journal Vol 17, 2023&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>László Lovász: Working mathematical miracles</title>
+      <link>https://qiqi789.netlify.app/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2023/12/14/l-szl-lov-sz-working-mathematical-miracles/</guid>
+      <description>&lt;p&gt;László Lovász: Working mathematical miracles&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&#34;&gt;https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/pioneering-graph-theory-laszlo-lovasz/&#34;&gt;Pioneering Graph Theory – László Lovász&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Selected topics in graph theory&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/limit2023.html&#34;&gt;https://lovasz.web.elte.hu//kurzusok/limit2023.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lovasz.web.elte.hu//kurzusok/&#34;&gt;https://lovasz.web.elte.hu//kurzusok/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Breaking the Silo: The Rising Trend (and Challenges) of Multidisciplinary Research, &lt;a href=&#34;https://scilogs.spektrum.de/hlf&#34; title=&#34;Go to Heidelberg Laureate Forum.&#34;&gt;Heidelberg Laureate Forum&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&#34;&gt;https://scilogs.spektrum.de/hlf/breaking-the-silo-the-rising-trend-and-challenges-of-multidisciplinary-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why People Hate Maths, and Why You Should Love It&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&#34;&gt;https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matching , Graph theory, Combinatorics related references</title>
+      <link>https://qiqi789.netlify.app/2023/12/06/matching-related-references/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2023/12/06/matching-related-references/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&#34;&gt;https://simons.berkeley.edu/events/theory-alternating-paths-blossoms-perspective-minimum-length&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;LP-Duality and the Cores of Games&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/teaching.html&#34;&gt;http://www.columbia.edu/~yf2414/teaching.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=3027&#34;&gt;https://icerm.brown.edu/video_archive/?play=3027&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/ipco&#34;&gt;International Conference on Integer Programming and Combinatorial Optimization&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://yufeizhao.com/&#34;&gt;https://yufeizhao.com/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yufeizhao.com/gtacbook/&#34;&gt;Graph Theory and Additive Combinatorics book&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&#34;&gt;https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&#34;&gt;https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/erdos-shannon-story-probability-communication-combinatorics-richard-m-karp-distinguished&#34;&gt;Erdős and Shannon: A Story of Probability, Communication, and Combinatorics | Richard M. Karp Distinguished Lecture, Jacob Fox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/introduction-data-structures-optimization-fast-algorithms-richard-m-karp-distinguished&#34;&gt;Introduction to Data Structures and Optimization for Fast Algorithms | Richard M. Karp Distinguished Lecture&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algorithms and Game Theory</title>
+      <link>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</guid>
+      <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/sagt-2023/&#34;&gt;The 16th International Symposium on Algorithmic Game Theory (SAGT) 2023&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-43254-5&#34;&gt;Proceeding Web link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-15714-1&#34;&gt;SAGT 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-85947-3&#34;&gt;SAGT 2021&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-57980-7&#34;&gt;SAGT 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-30473-7&#34;&gt;SAGT 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-99660-8&#34;&gt;SAGT 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-66700-3&#34;&gt;SAGT 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-53354-3&#34;&gt;SAGT 2016&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-48433-3&#34;&gt;SAGT 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-44803-8&#34;&gt;SAGT 2014&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-41392-6&#34;&gt;SAGT 2013&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-33996-7&#34;&gt;SAGT 2012&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-24829-0&#34;&gt;SAGT 2011&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-16170-4&#34;&gt;SAGT 2010&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-642-04645-2&#34;&gt;SAGT 2009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-79309-0&#34;&gt;SAGT 2008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acm-links&#34;&gt;ACM links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigecom.org/&#34;&gt;ACM Special Interest Group on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference on Economics and Computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/courses/ieor8100.F18/index.html&#34;&gt;Matchings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2023fa/lectures.html&#34;&gt;Algorithms core theory&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Online and Matching-Based Market Design</title>
-      <link>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</link>
+      <link>https://qiqi789.netlify.app/2023/11/08/online-and-matching-based-market-design/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/11/08/online-and-matching-based-market-design/</guid>
+      <guid>https://qiqi789.netlify.app/2023/11/08/online-and-matching-based-market-design/</guid>
       <description>&lt;h1 id=&#34;online-and-matching-based-market-design-workshop&#34;&gt;Online and Matching-Based Market Design workshop&lt;/h1&gt;
 &lt;p&gt;Workshop, Oct. 2023, Simons Institute for the Theory of Computing&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;

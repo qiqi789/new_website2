@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>研究前沿 on 齐琦 Qi Qi&#39;s Web portal</title>
-    <link>http://localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</link>
+    <link>https://qiqi789.netlify.app/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/</link>
     <description>Recent content in 研究前沿 on 齐琦 Qi Qi&#39;s Web portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2025</copyright>
+    <copyright>Copyright © 2026</copyright>
     <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:4321/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiqi789.netlify.app/tags/%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algorithms and Game Theory</title>
-      <link>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</link>
+      <link>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/11/21/algorithms-and-game-theory/</guid>
+      <guid>https://qiqi789.netlify.app/2023/11/21/algorithms-and-game-theory/</guid>
       <description>&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -93,10 +93,10 @@
     
     <item>
       <title>Simons Institute for the Theory of Computing bookmarks</title>
-      <link>http://localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
+      <link>https://qiqi789.netlify.app/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
+      <guid>https://qiqi789.netlify.app/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
       <description>&lt;p&gt;Richard M. Karp Distinguished Lectures&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;LP-Duality and the Cores of Games&lt;/p&gt;
