@@ -24,7 +24,6 @@ slug: research
 
 * "Data-free fingerprinting technology for biometric classifiers", with Ziting Ren, Yucong Duan, Lanhua Luo, Computers & Security, 2025, [Web link](https://doi.org/10.1016/j.cose.2025.104386).
 
-
 * "A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion", with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.[Web link](https://ieeexplore.ieee.org/document/11033369)
 
 * "A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction", with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. [Web link](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20)

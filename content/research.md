@@ -24,14 +24,13 @@ slug: research
 
 * "Data-free fingerprinting technology for biometric classifiers", with Ziting Ren, Yucong Duan, Lanhua Luo, Computers & Security, 2025, [Web link](https://doi.org/10.1016/j.cose.2025.104386).
 
-
 * "A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion", with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.[Web link](https://ieeexplore.ieee.org/document/11033369)
 
 * "A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction", with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. [Web link](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20)
 
 * "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han, and etc., Journal of PeerJ Computer Science, 2024. [Web link](https://peerj.com/articles/cs-2253/)
 
-* "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, a poster accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China. [Web link](http://poster-openaccess.com/article_detail.php?paper_id=1910&conf=ICIC&year=2024)
+* "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, accepted by 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.
 
 * "An Intra-Network Multi-Teacher Distillation Method Towards 
 Lightweight Knowledge Graph Completion", with Zeyu Yang, 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). [Web link](https://ieeexplore.ieee.org/document/10719142)
