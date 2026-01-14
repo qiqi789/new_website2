@@ -28,11 +28,11 @@ Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York 
 
 Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.
 
+[TTIC 31260 - Algorithmic Game Theory (Spring 2024)](https://home.ttic.edu/~avrim/AGT24/index.html)
+
 [Cornell - Algorithmic Game Theory 2025 Fall](https://www.cs.cornell.edu/courses/cs6840/2025fa/)
 
 [MIT - Game theory 2024 Spring](https://ocw.mit.edu/courses/14.126-game-theory-spring-2024/download/)
-
-[TTIC 31260 - Algorithmic Game Theory (Spring 2024)](https://home.ttic.edu/~avrim/AGT24/index.html)
 
 [Algorithmic Game Theory, 2024 lectures, by Uri Feige](https://www.wisdom.weizmann.ac.il/~feige/agt2024.html)
 
