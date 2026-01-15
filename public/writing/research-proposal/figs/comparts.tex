@@ -1,0 +1,117 @@
+\documentclass[12pt,border=11pt]{standalone}
+
+\usepackage[UTF8]{ctex}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, shapes,  shapes.geometric, calc, fit,positioning, backgrounds }
+\tikzset{%
+  >={Latex[width=2mm,length=2mm]},
+  % Specifications for style of nodes:
+            base/.style = {rectangle, rounded corners, draw=black,
+                           minimum width=2cm, minimum height=1cm,
+                           text centered, text width=7cm, font=\sffamily},
+  activityStarts/.style = {base, fill=blue!30},
+       startstop/.style = {base, fill=red!30},
+    activityRuns/.style = {base, fill=green!30},
+         process/.style = {base, minimum width=2.5cm, fill=orange!15,font=\ttfamily},
+    basic box/.style = {
+    shape = rectangle,
+    align = center,
+    draw  = #1,
+    fill  = #1!18,
+    rounded corners,
+    inner sep=0.3cm},
+}
+
+\usepackage{enumitem}
+%\setlist{noitemsep} 
+\setlist{nosep}
+
+\begin{document}
+
+%\begin{tikzpicture}[node distance=1.5cm, every node/.style={fill=white}, align=center]
+\begin{tikzpicture}[ align=center]
+
+\node (instances) [base,align=left] at(2,18) {\kaishu 模拟实验实例的生成
+ \begin{itemize}
+\item $n = 3,6,12,...$
+\item $m/n = 1,2,3,...$
+\item 随机生成 $w_{i}\in(0,1),i\in\{1,...,n\},\sum w_{i}=1$
+\item 随机生成价值矩阵$V=\{v_{ij}\}$, 二元和非二元值两种情况
+\end{itemize}
+};
+
+\begin{scope}[on background layer]
+    \node[fit = (instances), basic box = orange] (ship1) {};
+\end{scope}
+
+\node (algorithms) [base, align=left,below=of instances, ] {\kaishu 近似算法的实现%
+\begin{itemize}
+\item 基于组合结构和局部搜索的方法
+\item 数学规划方法，包括凸优化技术
+\end{itemize}
+};
+
+\begin{scope}[on background layer]
+    \node[fit = (algorithms), basic box = green] (ship2) {};
+\end{scope}
+
+\node (metrics) [base, align=left, base right= of instances,] {\kaishu 评估指标%
+\begin{itemize}
+\item \textrm{NSW} 目标值 
+\item \textrm{Pareto} 最优性
+\item \textrm{EF1}, \textrm{EFX}, $(1-\epsilon)\textrm{-EFX}$ 公平属性 
+\end{itemize}
+};
+
+\begin{scope}[on background layer]
+    \node[fit = (metrics), basic box = blue] (ship3) {};
+\end{scope}
+
+\node (robustness) [base, align=left,below=of metrics] {\kaishu 鲁棒性评估%
+\begin{itemize}
+\item 高斯分布噪音，$\sigma \in (0,1)$，加入 $v_{ij}$ 或 $w_i$
+\item 采样估计商品分配结果的变化概率
+\end{itemize}
+};
+
+\begin{scope}[on background layer]
+    \node[fit = (robustness), basic box = red] (ship4) {};
+\end{scope}
+
+
+\begin{scope}[on background layer]
+    \node[fit = (robustness)(instances)(algorithms)(metrics)] (ship5) {};
+\end{scope}
+
+
+%\node (data)  [base] at(-1,7.5) {\kaishu 航空运营数据} ;
+%\node (delayModel) [base, right of=data] at(4,7.5) {\kaishu 特定领域知识(概率图形模型，延误模型)} ;
+%
+%\node (propagation) [base, right of=delayModel, text width=2.6cm] at(8,7) {\kaishu 延误传递模型} ;
+%\node (recovery) [base, right of=propagation] at(12,7) {\kaishu 恢复机制} ;
+%
+%\node (flights)  [base] at(-1,5) {\kaishu 航班规划数据} ;
+%\node (model)  [base, text width=2.7cm] at(3,5) {\kaishu 鲁棒优化决策模型} ;
+%\node (solution)  [base] at(7,5) {\kaishu 任务编排解} ;
+%\node (metric)  [base] at(13,5) {\kaishu 鲁棒衡量指标} ;
+%
+% \begin{scope}[on background layer]
+%    \node[fit = (flights)(model)(solution)(metric), basic box = blue] (mainprocess) {};
+% \end{scope}
+%
+%\draw [->] (data) -- node[midway, above, text width=2cm]{\kaishu 数据挖掘、统计分析} (delayModel);
+%\draw [->] (flights) -- (model);
+%\draw [->] (delayModel) -- (model);
+%\draw [->] (model) -- (solution);
+%
+%\draw [->] (solution) -- node(simulate)[midway, above] {\kaishu 模拟实验} (metric);
+%\draw [->] (metric) --  (13,3)  -| node [near start, above] {\kaishu 评估鲁棒优化方法} (model);
+%
+%\draw [->] (propagation) -- (simulate);
+%\draw [-, dashed] (recovery) -- (propagation);
+
+
+\end{tikzpicture}
+
+\end{document}

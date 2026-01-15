@@ -1,6 +1,6 @@
 baseurl = "https://qiqi789.netlify.app"
 languageCode = "en-us"
-title = "齐琦 Qi Qi's Web portal"
+title = "齐琦 Qi QI's Web portal"
 author = "Qi Qi"
 
 
@@ -21,7 +21,7 @@ hasCJKLanguage = true
 style = "monokailight"
 
 [markup.goldmark.renderer]
-unsafe = true
+#unsafe = true
 
 
 [permalinks]
