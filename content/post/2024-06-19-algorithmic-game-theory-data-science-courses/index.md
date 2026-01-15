@@ -2,14 +2,14 @@
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
 date: '2026-01-12'
-lastmod: '2026-01-12'
-slug: algorithmic-game-theory-data-science-courses
 categories:
   - reference
 tags:
   - Algorithmic Games
-  - 算法博弈
   - Computation and Economics
+  - 算法博弈
+lastmod: '2026-01-12'
+slug: algorithmic-game-theory-data-science-courses
 ---
 
 Alon, N., & Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.
