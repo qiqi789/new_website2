@@ -6,6 +6,7 @@ categories:
   - reference
 tags:
   - Algorithmic Games
+  - combinatorics
   - Computation and Economics
   - 算法博弈
 lastmod: '2026-01-12'
