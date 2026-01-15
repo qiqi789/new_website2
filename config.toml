@@ -66,7 +66,7 @@ style = "monokailight"
     math = true # for introducing $KaTEX$
     env = "production" # for Google Analytics and DISQUS.
     useChineseFonts = true # for font Noto Serif etc.
-    postDateFormat = "2026-01-02" # override custom date format posts.
+    postDateFormat = "2006-1-2" # override custom date format posts.
     
     images = ['photo_mit_3.png']
     
