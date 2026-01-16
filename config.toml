@@ -21,7 +21,7 @@ hasCJKLanguage = true
 style = "monokailight"
 
 [markup.goldmark.renderer]
-#unsafe = true
+unsafe = true  # for raw html codes can be included.
 
 
 [permalinks]
