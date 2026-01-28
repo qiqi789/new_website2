@@ -123,12 +123,12 @@ mail = "mailto:qqi@hainanu.edu.cn"
 ## my edit
 enableEmoji= true
 hasCJKLanguage = true
-
-
-
     
 [frontmatter]
   images = ['static/images']
   
-    
-    
+
+[outputs]
+#home = ["HTML", "RSS", "JSON"]
+home = ["HTML"]
+
