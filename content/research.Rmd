@@ -84,7 +84,7 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, 2024 9th International 
 *   “An Improved Algorithm for Optimal Subset Selection in Chain Graphical
     Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
     2010 IEEE Congress on, pp. 1-6, 2010.
-    [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022), [PDF](An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf)
+    [link](https://ieeexplore.ieee.org/document/5586022), [PDF](An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf)
 
 *   “Comparing Probabilistic Graphical Model Based and Gaussian Process Based
     Selections for Predicting the Temporal Observations”, Qi Qi, Yi Shang,
