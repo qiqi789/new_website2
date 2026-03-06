@@ -63,6 +63,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Vijay V. Vazirani's publication](https://ics.uci.edu/~vazirani/)
 
+[Éva Tardos](https://www.cs.cornell.edu/~eva/)
+
 [Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
 
 [Kevin Leyton-Brown's publications](https://www.cs.ubc.ca/~kevinlb/publications.html)
