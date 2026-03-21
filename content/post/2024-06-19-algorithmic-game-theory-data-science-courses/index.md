@@ -1,7 +1,7 @@
 ---
 title: Algorithmic Game Theory, books,courses, journals,conferences,and scholars
 author: ''
-date: '2026-03-06'
+date: '2026-03-21'
 categories:
   - reference
 tags:
@@ -65,7 +65,9 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Vijay V. Vazirani's publication](https://ics.uci.edu/~vazirani/)
 
-[Éva Tardos](https://www.cs.cornell.edu/~eva/)
+[Éva Tardos' Webpage](https://www.cs.cornell.edu/~eva/)
+
+[Uriel Feige's Webpage](https://www.wisdom.weizmann.ac.il/~feige/)
 
 [Edith Elkind's publications](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html)
 
