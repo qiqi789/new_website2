@@ -73,13 +73,15 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Kevin Leyton-Brown's publications](https://www.cs.ubc.ca/~kevinlb/publications.html)
 
+[Games and Equilibria in System Design and Analysis, Simons Institute workshops](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
+
+[Learning and Games,Simons Institute workshops](https://simons.berkeley.edu/programs/games2022#simons-tabs)
+
 [Robert Schapire's publication list](http://rob.schapire.net/publist.html)
 
 [Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
 
 [Publications of Takehiro ITO](http://www.dais.is.tohoku.ac.jp/take/papers.html)
-
-[Games and Equilibria in System Design and Analysis, Simons Institute workshop](https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs)
 
 [Takayuki Ito's publications](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research)
 
