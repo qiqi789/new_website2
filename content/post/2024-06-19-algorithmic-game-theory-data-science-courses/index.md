@@ -77,6 +77,8 @@ Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New 
 
 [Learning and Games,Simons Institute workshops](https://simons.berkeley.edu/programs/games2022#simons-tabs)
 
+[Programs & Events, The Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs-events)
+
 [Robert Schapire's publication list](http://rob.schapire.net/publist.html)
 
 [Ruta Mehta's publications](https://rutamehta.cs.illinois.edu/index.html)
