@@ -21,6 +21,8 @@ slug: research
 
 ## 发表论文 （Publications）
 
+* "BioGuard: Malicious sample free defense method for biometric classifiers against model extraction attacks", with Ziting Ren, Yucong Duan, Computers & Security, 2026 [Web link](https://www.sciencedirect.com/science/article/pii/S0167404826000957)
+
 * "Data-free fingerprinting technology for biometric classifiers", with Ziting Ren, Yucong Duan, Lanhua Luo, Computers & Security, 2025, [Web link](https://doi.org/10.1016/j.cose.2025.104386).
 
 * "A Lightweight Dual Stage Distillation Method For Knowledge Graph Completion", with Zeyu Yang, accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2025), 2025.[Web link](https://ieeexplore.ieee.org/document/11033369)
