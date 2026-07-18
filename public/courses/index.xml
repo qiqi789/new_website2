@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses on 齐琦 Qi Qi&#39;s Web portal</title>
+    <title>Courses on 齐琦 Qi QI&#39;s Website</title>
     <link>https://qiqi789.netlify.app/courses/</link>
-    <description>Recent content in Courses on 齐琦 Qi Qi&#39;s Web portal</description>
+    <description>Recent content in Courses on 齐琦 Qi QI&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qiqi789.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025-2026 Spring and Fall semesters</title>
+      <link>https://qiqi789.netlify.app/courses/2025-2026-semesters/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/courses/2025-2026-semesters/</guid>
+      <description>&lt;h3 id=&#34;2025-秋季学期教授的课程&#34;&gt;2025 秋季学期教授的课程：&lt;/h3&gt;
+&lt;p&gt;本科课程： 云计算安全&lt;/p&gt;
+&lt;p&gt;研究生课程：人工智能&lt;/p&gt;
+&lt;h3 id=&#34;2025年2026年春季学期教授的课程&#34;&gt;2025年、2026年，春季学期教授的课程：&lt;/h3&gt;
+&lt;p&gt;本科课程： 网络安全技术&lt;/p&gt;
+&lt;p&gt;研究生课程：组合优化与博弈问题（算法博弈）、大数据与人工智能（商学院应用经济学）&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>人工智能导论（2023 春季）</title>

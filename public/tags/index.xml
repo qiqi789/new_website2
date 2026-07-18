@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 齐琦 Qi Qi&#39;s Web portal</title>
+    <title>Tags on 齐琦 Qi QI&#39;s Website</title>
     <link>https://qiqi789.netlify.app/tags/</link>
-    <description>Recent content in Tags on 齐琦 Qi Qi&#39;s Web portal</description>
+    <description>Recent content in Tags on 齐琦 Qi QI&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qiqi789.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Graduate</title>
+      <link>https://qiqi789.netlify.app/tags/graduate/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/graduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://qiqi789.netlify.app/tags/algorithms/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Security</title>
+      <link>https://qiqi789.netlify.app/tags/network-security/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://qiqi789.netlify.app/tags/quantum-computing/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://qiqi789.netlify.app/tags/research/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://qiqi789.netlify.app/tags/teaching/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algorithmic Games</title>
       <link>https://qiqi789.netlify.app/tags/algorithmic-games/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/tags/algorithmic-games/</guid>
       <description></description>
@@ -24,7 +78,7 @@
     <item>
       <title>Combinatorics</title>
       <link>https://qiqi789.netlify.app/tags/combinatorics/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/tags/combinatorics/</guid>
       <description></description>
@@ -33,7 +87,7 @@
     <item>
       <title>Computation and Economics</title>
       <link>https://qiqi789.netlify.app/tags/computation-and-economics/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/tags/computation-and-economics/</guid>
       <description></description>
@@ -42,27 +96,9 @@
     <item>
       <title>算法博弈</title>
       <link>https://qiqi789.netlify.app/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/tags/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graduate</title>
-      <link>https://qiqi789.netlify.app/tags/graduate/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://qiqi789.netlify.app/tags/graduate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://qiqi789.netlify.app/tags/research/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://qiqi789.netlify.app/tags/research/</guid>
       <description></description>
     </item>
     

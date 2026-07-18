@@ -1,7 +1,9 @@
 baseurl = "https://qiqi789.netlify.app"
+DefaultContentLanguage = "en-us"
 languageCode = "en-us"
 title = "齐琦 Qi QI's Website"
 author = "Qi Qi"
+#email="qqi@hainanu.edu.cn"
 
 
 theme = "hugo-theme-tokiwa"
@@ -15,6 +17,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 hasCJKLanguage = true
 #languageCode = "cn"
+
 
 [markup]
 [markup.highlight]

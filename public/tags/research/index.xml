@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on 齐琦 Qi Qi&#39;s Web portal</title>
+    <title>Research on 齐琦 Qi QI&#39;s Website</title>
     <link>https://qiqi789.netlify.app/tags/research/</link>
-    <description>Recent content in Research on 齐琦 Qi Qi&#39;s Web portal</description>
+    <description>Recent content in Research on 齐琦 Qi QI&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qiqi789.netlify.app/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,13 @@
     <item>
       <title>Research</title>
       <link>https://qiqi789.netlify.app/research/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/research/</guid>
       <description>&lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;组合优化，算法，博弈。 Combinatorial Optimization. Algorithmic Game Theory.&lt;/p&gt;
+&lt;p&gt;算法与博弈, 组合优化。 Algorithmic Game Theory. Combinatorial Optimization.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;机器学习，数据科学，网络安全。Machine Learning. Data Science. Network Security.&lt;/p&gt;
@@ -30,6 +30,9 @@
 &lt;!-- - 鲁棒优化，运筹优化。 Robust optimization; Operations research. --&gt;
 &lt;h2 id=&#34;发表论文-publications&#34;&gt;发表论文 （Publications）&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;BioGuard: Malicious sample free defense method for biometric classifiers against model extraction attacks&amp;rdquo;, with Ziting Ren, Yucong Duan, Computers &amp;amp; Security, 2026 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167404826000957&#34;&gt;Web link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&amp;ldquo;Data-free fingerprinting technology for biometric classifiers&amp;rdquo;, with Ziting Ren, Yucong Duan, Lanhua Luo, Computers &amp;amp; Security, 2025, &lt;a href=&#34;https://doi.org/10.1016/j.cose.2025.104386&#34;&gt;Web link&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
@@ -116,7 +119,7 @@ Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.
 &lt;p&gt;“An Improved Algorithm for Optimal Subset Selection in Chain Graphical
 Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
 2010 IEEE Congress on, pp. 1-6, 2010.
-&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5586022&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/5586022&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;An_improved_algorithm_for_optimal_subset_selection_in_chain_graphical_models_2010.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;“Comparing Probabilistic Graphical Model Based and Gaussian Process Based
@@ -193,7 +196,7 @@ MOSpace&lt;/a&gt;&lt;/li&gt;
 
 -   注册信息安全工程师(CISE)，2017.1
 --&gt;
-&lt;script type=&#39;text/javascript&#39; id=&#39;clustrmaps&#39; src=&#39;//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=300&amp;t=m&amp;d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&#39;&gt;&lt;/script&gt;
+  &lt;script type=&#39;text/javascript&#39; id=&#39;clustrmaps&#39; src=&#39;//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=300&amp;t=m&amp;d=PoytzMSA2FiAoXamx7J03FuHVjl_IwzVBj2TmE3ky5c&#39;&gt;&lt;/script&gt;
 </description>
     </item>
     

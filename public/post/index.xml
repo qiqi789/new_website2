@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 齐琦 Qi Qi&#39;s Web portal</title>
+    <title>Posts on 齐琦 Qi QI&#39;s Website</title>
     <link>https://qiqi789.netlify.app/post/</link>
-    <description>Recent content in Posts on 齐琦 Qi Qi&#39;s Web portal</description>
+    <description>Recent content in Posts on 齐琦 Qi QI&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qiqi789.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Algorithmic Game Theory, books,courses, journals,conferences,and scholars</title>
-      <link>https://qiqi789.netlify.app/2026/01/12/algorithmic-game-theory-data-science-courses/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <title>Quantum computing related Web links</title>
+      <link>https://qiqi789.netlify.app/2026/05/27/quantum-computing-related-web-links/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2026/01/12/algorithmic-game-theory-data-science-courses/</guid>
+      <guid>https://qiqi789.netlify.app/2026/05/27/quantum-computing-related-web-links/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ewintang.com/&#34;&gt;Ewin Tang&amp;rsquo;s Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~vazirani/f19quantum.html&#34;&gt;Quantum computation course, Umesh Vazirani, Berkeley&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance&#34;&gt;Quantum Algorithms, Complexity, and Fault Tolerance, Simons Institute, Berkeley&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algorithmic Game Theory, books,courses, journals,conferences,and scholars</title>
+      <link>https://qiqi789.netlify.app/2026/03/21/algorithmic-game-theory-data-science-courses/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://qiqi789.netlify.app/2026/03/21/algorithmic-game-theory-data-science-courses/</guid>
       <description>&lt;p&gt;Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&lt;/p&gt;
 &lt;p&gt;Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations&lt;/p&gt;
 &lt;p&gt;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&lt;/p&gt;
@@ -26,6 +38,7 @@
 &lt;p&gt;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.&lt;/p&gt;
 &lt;p&gt;Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.&lt;/p&gt;
 &lt;p&gt;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT26/&#34;&gt;TTIC - Algorithmic Game Theory (Winter 2026)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT24/index.html&#34;&gt;TTIC 31260 - Algorithmic Game Theory (Spring 2024)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6840/2025fa/&#34;&gt;Cornell - Algorithmic Game Theory 2025 Fall&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/14.126-game-theory-spring-2024/download/&#34;&gt;MIT - Game theory 2024 Spring&lt;/a&gt;&lt;/p&gt;
@@ -43,12 +56,16 @@
 &lt;p&gt;&lt;a href=&#34;https://epubs.siam.org/action/showPublications?pubType=proceedings&amp;amp;category=10.1555/category.40105908&amp;amp;expand=10.1555/category.40105908&#34;&gt;ACM-SIAM Symposium on Discrete Algorithms (SODA)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/&#34;&gt;Avrim Blum&amp;rsquo;s Webpage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;Vijay V. Vazirani&amp;rsquo;s publication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/~eva/&#34;&gt;Éva Tardos&amp;rsquo; Webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wisdom.weizmann.ac.il/~feige/&#34;&gt;Uriel Feige&amp;rsquo;s Webpage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html&#34;&gt;Edith Elkind&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~kevinlb/publications.html&#34;&gt;Kevin Leyton-Brown&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022#simons-tabs&#34;&gt;Learning and Games,Simons Institute workshops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events&#34;&gt;Programs &amp;amp; Events, The Simons Institute for the Theory of Computing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://rob.schapire.net/publist.html&#34;&gt;Robert Schapire&amp;rsquo;s publication list&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://rutamehta.cs.illinois.edu/index.html&#34;&gt;Ruta Mehta&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dais.is.tohoku.ac.jp/take/papers.html&#34;&gt;Publications of Takehiro ITO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshop&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research&#34;&gt;Takayuki Ito&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://math.mit.edu/~goemans/18455-2020SP.html&#34;&gt;Advanced Combinatorial Optimization course by Michel Goemans&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
