@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graduate on 齐琦 Qi QI&#39;s Website</title>
+    <title>Graduate on Blowfish</title>
     <link>https://qiqi789.netlify.app/tags/graduate/</link>
-    <description>Recent content in Graduate on 齐琦 Qi QI&#39;s Website</description>
+    <description>Recent content in Graduate on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://qiqi789.netlify.app/tags/graduate/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>zh-cn</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://qiqi789.netlify.app/tags/graduate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Graduate Alumni</title>
@@ -18,11 +15,8 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://qiqi789.netlify.app/advisees/</guid>
-      <description>&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;杨泽宇（芜湖伯特利，2026，联合指导和段玉聪教授），夏鹏(考公,2025)，李金清(中国电信,2025)，韩义博(华虹成都,2025), 刘庆鑫（博士生在国防科技大学, 2024），戴乐宇 (博士学习在北卡罗来纳大学 University of North Carolina at Chapel Hill，2023)，梁哲敏（海南电信，2023），刘小龙（武汉东风汽车，2023），林小惟（复旦大学中山医院，2022）, 林乾广(中国移动，2021)，李文权(佰锐科技AI算法工程师，2021)，王荣俊(中国移动，2020)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description></description>
+      
     </item>
     
   </channel>

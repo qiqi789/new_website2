@@ -5,7 +5,7 @@ slug: contact
 
 *Email:*
 
-qqi @hainanu.edu.cn, 
+qqi @ hainanu.edu.cn, 
 
 or qiqi789 @ gmail.com
 

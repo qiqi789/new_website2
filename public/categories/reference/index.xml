@@ -1,183 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reference on 齐琦 Qi QI&#39;s Website</title>
+    <title>Reference on Blowfish</title>
     <link>https://qiqi789.netlify.app/categories/reference/</link>
-    <description>Recent content in Reference on 齐琦 Qi QI&#39;s Website</description>
+    <description>Recent content in Reference on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://qiqi789.netlify.app/categories/reference/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>zh-cn</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://qiqi789.netlify.app/categories/reference/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Algorithmic Game Theory, books,courses, journals,conferences,and scholars</title>
-      <link>https://qiqi789.netlify.app/2026/03/21/algorithmic-game-theory-data-science-courses/</link>
+      <link>https://qiqi789.netlify.app/post/algorithmic-game-theory-data-science-courses/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2026/03/21/algorithmic-game-theory-data-science-courses/</guid>
-      <description>&lt;p&gt;Alon, N., &amp;amp; Spencer, J. H. (2016). The probabilistic method (Fourth edition. ed.). Wiley.&lt;/p&gt;
-&lt;p&gt;Yoav Shoham, Kevin Leyton-Brown. (2009) Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations&lt;/p&gt;
-&lt;p&gt;Nisan, N. (2007). Algorithmic game theory. Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;Easley, D. and J. Kleinberg (2010). Networks, crowds, and markets : reasoning about a highly connected world. New York, Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;Echenique, F., N. Immorlica and V. V. Vazirani (2023). Online and matching-based market design. Cambridge, Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;Vazirani, V. V. (2001). Approximation algorithms. Berlin ; New York, Springer.&lt;/p&gt;
-&lt;p&gt;Lovász, L. s. and M. D. Plummer (1986). Matching theory. Amsterdam ; New York New York, N.Y., North-Holland.&lt;/p&gt;
-&lt;p&gt;Blum, A., J. E. Hopcroft and R. Kannan (2020). Foundations of data science. New York, NY, Cambridge University Press.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT26/&#34;&gt;TTIC - Algorithmic Game Theory (Winter 2026)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/AGT24/index.html&#34;&gt;TTIC 31260 - Algorithmic Game Theory (Spring 2024)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6840/2025fa/&#34;&gt;Cornell - Algorithmic Game Theory 2025 Fall&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/14.126-game-theory-spring-2024/download/&#34;&gt;MIT - Game theory 2024 Spring&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.wisdom.weizmann.ac.il/~feige/agt2024.html&#34;&gt;Algorithmic Game Theory, 2024 lectures, by Uri Feige&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/MLforAD25/index.html&#34;&gt;TTIC 31290 - Machine Learning for Algorithm Design (Fall 2025)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.masfoundations.org/resources.html&#34;&gt;Multiagent Systems: Instructional Resources&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Toolkit23/&#34;&gt;TTIC 31150/CMSC 31150 - Mathematical Toolkit (Spring 2023)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~ninamf/courses/806/&#34;&gt;CMU - Foundations of Machine Learning and Data Science&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm&#34;&gt;COURSE: CS 15-892 Foundations of Electronic Marketplaces&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~./15281/&#34;&gt;Artificial Intelligence: Representation and Problem Solving&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ifaamas.org/proceedings.html&#34;&gt;AAMAS(Autonomous Agents and Multiagent Systems) Conference Proceedings&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/conference/ec&#34;&gt;ACM Conference - Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/teac&#34;&gt;ACM Transactions on Economics and Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/conference/sagt&#34;&gt;International Symposium on Algorithmic Game Theory&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://epubs.siam.org/action/showPublications?pubType=proceedings&amp;amp;category=10.1555/category.40105908&amp;amp;expand=10.1555/category.40105908&#34;&gt;ACM-SIAM Symposium on Discrete Algorithms (SODA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/&#34;&gt;Avrim Blum&amp;rsquo;s Webpage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;Vijay V. Vazirani&amp;rsquo;s publication&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/~eva/&#34;&gt;Éva Tardos&amp;rsquo; Webpage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.wisdom.weizmann.ac.il/~feige/&#34;&gt;Uriel Feige&amp;rsquo;s Webpage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/elkind-edith.html&#34;&gt;Edith Elkind&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~kevinlb/publications.html&#34;&gt;Kevin Leyton-Brown&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/games-equilibria-system-design-analysis-0/schedule#simons-tabs&#34;&gt;Games and Equilibria in System Design and Analysis, Simons Institute workshops&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022#simons-tabs&#34;&gt;Learning and Games,Simons Institute workshops&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events&#34;&gt;Programs &amp;amp; Events, The Simons Institute for the Theory of Computing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://rob.schapire.net/publist.html&#34;&gt;Robert Schapire&amp;rsquo;s publication list&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rutamehta.cs.illinois.edu/index.html&#34;&gt;Ruta Mehta&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.dais.is.tohoku.ac.jp/take/papers.html&#34;&gt;Publications of Takehiro ITO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://kdb.iimc.kyoto-u.ac.jp/profile/ja.f05499b1c3f85d32.html#display-items_research&#34;&gt;Takayuki Ito&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://math.mit.edu/~goemans/18455-2020SP.html&#34;&gt;Advanced Combinatorial Optimization course by Michel Goemans&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/&#34;&gt;Satoru Iwata&amp;rsquo;s lectures and publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eigarashayumi/publications&#34;&gt;Ayumi Igarashi&amp;rsquo;s publications&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://yambi.jp/#/publications&#34;&gt;Yasushi Kawase&amp;rsquo;s publications and teaching&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://people.math.sc.edu/lu/teaching.html&#34;&gt;https://people.math.sc.edu/lu/teaching.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Zhao&amp;rsquo;s Webpage (adversarial machine learning)&lt;/a&gt; , &lt;a href=&#34;http://sandlab.cs.uchicago.edu/index.html&#34;&gt;Sand Lab(Security, Algorithms, Networking and Data)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://qiqi789.netlify.app/post/algorithmic-game-theory-data-science-courses/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Optimization and Algorithm Design, Simons Institute&#39;s workshop</title>
-      <link>https://qiqi789.netlify.app/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
+      <link>https://qiqi789.netlify.app/post/optimization-and-algorithm-design-simons-institute-s-workshop/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2024/01/08/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
-      <description>&lt;h2 id=&#34;optimization-and-algorithm-design-simons-institute-for-the-theory-of-computing&#34;&gt;Optimization and Algorithm Design, Simons Institute for the Theory of Computing&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/optimization-algorithm-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/mohit-singh-georgia-institute-technology-2023-11-28&#34;&gt;Nash Social Welfare and A Tale of Mathematical Programs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;richard-m-karp-distinguished-lectures&#34;&gt;Richard M. Karp Distinguished Lectures&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://qiqi789.netlify.app/post/optimization-and-algorithm-design-simons-institute-s-workshop/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Reference bookmarks -- scholars webpages</title>
-      <link>https://qiqi789.netlify.app/2023/10/30/reference-bookmarks-scholars-webpages/</link>
+      <link>https://qiqi789.netlify.app/post/reference-bookmarks-scholars-webpages/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2023/10/30/reference-bookmarks-scholars-webpages/</guid>
-      <description>&lt;h1 id=&#34;online-reference-bookmarks&#34;&gt;Online reference bookmarks&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&#34;&gt;https://arxiv.org/search/cs?searchtype=author&amp;amp;query=Vazirani,+V+V&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://home.ttic.edu/~avrim/Papers/pubs.html&#34;&gt;https://home.ttic.edu/~avrim/Papers/pubs.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/kleinber/&#34;&gt;https://www.cs.cornell.edu/home/kleinber/&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs1340/2022sp/&#34;&gt;INFO 1260 / CS 1340: Choices and Consequences in Computing (cornell.edu)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/index.html&#34;&gt;https://tibshirani.su.domains/index.html&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research_page.html&#34;&gt;https://tibshirani.su.domains/research_page.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tibshirani.su.domains/research.html&#34;&gt;https://tibshirani.su.domains/research.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&#34;&gt;https://arxiv.org/find/all/1/all:+AND+robert+tibshirani/0/1/0/all/0/1&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/publications.html&#34;&gt;https://people.eecs.berkeley.edu/~jordan/publications.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~cs2035/&#34;&gt;http://www.columbia.edu/~cs2035/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&#34;&gt;https://www.engineering.columbia.edu/faculty/christos-papadimitriou&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://fan.princeton.edu/fan/classes/525.html&#34;&gt;https://fan.princeton.edu/fan/classes/525.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://rdpeng.org/&#34;&gt;https://rdpeng.org/ (R, Statistics, and Data Sciences)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/&#34;&gt;https://www.cis.upenn.edu/~aaroth/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ericbudish.org/&#34;&gt;https://ericbudish.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://stanford.edu/~jacobfox/&#34;&gt;https://stanford.edu/~jacobfox/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.its.caltech.edu/~dconlon/&#34;&gt;https://www.its.caltech.edu/~dconlon/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;matching&#34;&gt;Matching&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ics.uci.edu/~vazirani/&#34;&gt;https://ics.uci.edu/~vazirani/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&#34;&gt;https://simons.berkeley.edu/events/richard-m-karp-distinguished-lecture-algorithmic-opportunities-matching-markets&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~yf2414/research.html&#34;&gt;http://www.columbia.edu/~yf2414/research.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://qiqi789.netlify.app/post/reference-bookmarks-scholars-webpages/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Simons Institute for the Theory of Computing bookmarks</title>
-      <link>https://qiqi789.netlify.app/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</link>
+      <link>https://qiqi789.netlify.app/post/simons-institute-for-the-theory-of-computing-bookmarks/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2023/10/30/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
-      <description>&lt;p&gt;Richard M. Karp Distinguished Lectures&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&#34;&gt;https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;LP-Duality and the Cores of Games&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&#34;&gt;https://simons.berkeley.edu/talks/vijay-v-vazirani-uc-irvine-2023-10-27&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Online and Matching-Based Market Design&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/online-matching-based-market-design/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Learning and Games&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022&#34;&gt;https://simons.berkeley.edu/programs/games2022&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Analysis and TCS Boot Camp&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&#34;&gt;https://simons.berkeley.edu/workshops/analysis-tcs-boot-camp/schedule#simons-tabs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/talks/noam-lifshitz-hebrew-university-2023-06-08&#34;&gt;Applications in Extremal Combinatorics 2&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://qiqi789.netlify.app/post/simons-institute-for-the-theory-of-computing-bookmarks/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

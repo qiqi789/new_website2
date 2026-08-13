@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop on 齐琦 Qi QI&#39;s Website</title>
+    <title>Workshop on Blowfish</title>
     <link>https://qiqi789.netlify.app/tags/workshop/</link>
-    <description>Recent content in Workshop on 齐琦 Qi QI&#39;s Website</description>
+    <description>Recent content in Workshop on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2026</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://qiqi789.netlify.app/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>zh-cn</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qiqi789.netlify.app/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learning and Games - Simons Institute for theory of computing</title>
-      <link>https://qiqi789.netlify.app/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</link>
+      <link>https://qiqi789.netlify.app/post/learning-and-games-simons-institute-for-theory-of-computing/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://qiqi789.netlify.app/2024/04/03/learning-and-games-simons-institute-for-theory-of-computing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022/workshops&#34;&gt;Learning and Games workshops&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simons.berkeley.edu/programs/games2022/workshops&#34;&gt;https://simons.berkeley.edu/programs/games2022/workshops&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://qiqi789.netlify.app/post/learning-and-games-simons-institute-for-theory-of-computing/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
