@@ -12,12 +12,12 @@ autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
 enableCodeCopy = false
-enableStructuredBreadcrumbs = false
+enableStructuredBreadcrumbs = true #false
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["post", "courses"]
 # robots = ""
 
 disableImageOptimization = false
@@ -67,8 +67,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true  # false 
   showRecentItems = 3 #5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLink = true #false
+  showMoreLinkDest = "/post/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
