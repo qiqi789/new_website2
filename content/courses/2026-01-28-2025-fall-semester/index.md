@@ -2,6 +2,7 @@
 title: 2025-2026 Spring and Fall semesters
 author: Qi Qi
 date: '2026-03-23'
+lastmod: '2026-08-15'
 slug: 2025-2026-semesters
 categories:
   - Course
@@ -9,6 +10,11 @@ tags:
   - teaching
 description: ''
 ---
+
+### 2026 秋季学期课程：
+
+算法分析与设计
+
 
 ### 2025 秋季学期教授的课程：
 
