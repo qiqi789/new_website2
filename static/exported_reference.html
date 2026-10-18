@@ -430,6 +430,29 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 }
 </pre></td>
 </tr>
+<tr id="Duetting2026a" class="entry">
+	<td>Duetting, P., Feldman, M. and Molina, M.</td>
+	<td>Optimal Online Stochastic Matching <p class="infolinks">[<a href="javascript:toggleInfo('Duetting2026a','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Duetting2026a','bibtex')">BibTeX</a>]</p></td>
+	<td>2026</td>
+	<td>&nbsp;</td>
+	<td>article</td>
+	<td><a href="https://doi.org/10.48550/ARXIV.2610.19866">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_Duetting2026a" class="abstract noshow">
+	<td colspan="6"><b>Abstract</b>: We resolve the problem of unweighted online stochastic matching with a known arrival law by establishing its optimal competitive ratio. For Poisson arrivals, we achieve 1-e/e^e0.8206, matching the upper bound of Chierichetti, Giacchini, Panconesi, and Vattani [ICALP 2025]. For exactly n i.i.d.&nbsp;arrivals, we obtain the same guarantee up to an additive O(n^-1/2) loss. Our key technical contribution is an exact correspondence between Poisson matching and exponential scheduling, preserving both online performance and the expected offline optimum. To prove the latter, we show that the distribution of the maximum of a random supermodular set function is determined by its joint distributions along chains of nested sets, a result of independent interest. This reduces the analysis to chains, where classical Poisson--exponential duality applies. The offline equivalence extends to arbitrary nonnegative edge weights. We then design a posterior allocation policy for exponential scheduling and use the correspondence to transfer its optimal competitive guarantee to online matching. Additionally, we show that the optimal competitive ratio under an unknown arrival law is strictly lower than 1-e/e^e, establishing a strict separation between the known and unknown arrival models.</td>
+</tr>
+<tr id="bib_Duetting2026a" class="bibtex noshow">
+<td colspan="6"><b>BibTeX</b>:
+<pre>
+@article{Duetting2026a,
+  author = {Duetting, Paul and Feldman, Michal and Molina, Mathieu},
+  title = {Optimal Online Stochastic Matching},
+  publisher = {arXiv},
+  year = {2026},
+  doi = {https://doi.org/10.48550/ARXIV.2610.19866}
+}
+</pre></td>
+</tr>
 <tr id="Hamri2026" class="entry">
 	<td>Hamri, M. and Talgam-Cohen, I.</td>
 	<td>ZEBRA: Zero-shot Budgeted Resource Allocation for LLM Orchestration <p class="infolinks">[<a href="javascript:toggleInfo('Hamri2026','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Hamri2026','bibtex')">BibTeX</a>]</p></td>
@@ -501,11 +524,14 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 </tr>
 <tr id="Liu2026" class="entry">
 	<td>Liu, H., Tian, C., An, N., Wang, Z., Lu, P., Yu, C. and Qi, Q.</td>
-	<td>Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use <p class="infolinks">[<a href="javascript:toggleInfo('Liu2026','bibtex')">BibTeX</a>]</p></td>
+	<td>Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use <p class="infolinks">[<a href="javascript:toggleInfo('Liu2026','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Liu2026','bibtex')">BibTeX</a>]</p></td>
 	<td>2026</td>
 	<td>&nbsp;</td>
 	<td>article</td>
 	<td><a href="https://doi.org/10.48550/ARXIV.2602.11541">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_Liu2026" class="abstract noshow">
+	<td colspan="6"><b>Abstract</b>: We study budget-constrained tool-augmented agents, where a large language model must solve multi-step tasks by invoking external tools under a strict monetary budget. We formalize this setting as sequential decision making in context space with priced and stochastic tool executions, making direct planning intractable due to massive state-action spaces, high variance of outcomes and prohibitive exploration cost. To address these challenges, we propose INTENT, an inference-time planning framework that leverages an intention-aware hierarchical world model to anticipate future tool usage, risk-calibrated cost, and guide decisions online. Across cost-augmented StableToolBench, INTENT strictly enforces hard budget feasibility while substantially improving task success over baselines, and remains robust under dynamic market shifts such as tool price changes and varying budgets.</td>
 </tr>
 <tr id="bib_Liu2026" class="bibtex noshow">
 <td colspan="6"><b>BibTeX</b>:
@@ -516,6 +542,29 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
   publisher = {arXiv},
   year = {2026},
   doi = {https://doi.org/10.48550/ARXIV.2602.11541}
+}
+</pre></td>
+</tr>
+<tr id="Akrami2025" class="entry">
+	<td>Akrami, H., Barman, S., Eden, A., Feldman, M., Fiat, A., Gal-Tzur, Y., Rammohan, S. and Sethia, A.</td>
+	<td>Fair Division via Resource Augmentation <p class="infolinks">[<a href="javascript:toggleInfo('Akrami2025','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Akrami2025','bibtex')">BibTeX</a>]</p></td>
+	<td>2025</td>
+	<td>&nbsp;</td>
+	<td>article</td>
+	<td><a href="https://doi.org/10.48550/ARXIV.2502.09377">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_Akrami2025" class="abstract noshow">
+	<td colspan="6"><b>Abstract</b>: We introduce and formalize the notion of resource augmentation for maximin share (MMS) fairness for the allocation of indivisible goods. Given an instance with n agents and m goods, we ask how many copies of the goods should be added in order to guarantee that each agent receives at least their original MMS value, or a meaningful approximation thereof. For general monotone valuations, we establish a tight bound: an exact MMS allocation can be guaranteed using at most Θ(m/e) total copies, and this bound is tight even for XOS valuations. We further show that it is unavoidable to duplicate some goods Ω(ln m / ln ln m) times, and provide matching upper bounds. For additive valuations, we show that at most minn-2,\lfloor\frac{m}{3}\rfloor(1+o(1))\ distinct copies suffice. This separates additive valuations from submodular valuations, for which we show that n-1 copies may be necessary. We also study approximate MMS guarantees for additive valuations and establish new tradeoffs between the number of copies needed and the approximation guaratee. In particular, we prove that n/2&rfloor; copies suffice to guarantee a 6/7-approximation to the original MMS, and n/3&rfloor; copies suffice for a 4/5-approximation. Both results improve upon the best-known approximation guarantees for additive valuations in the absence of copies. Finally, we relate MMS with copies to the relaxed notion of 1-out-of-d MMS, showing that improvements in either framework translate directly to the other. In particular, we establish the first impossibility results for 1-out-of-d MMS. Our results highlight the power and limits of resource augmentation for achieving MMS fairness.</td>
+</tr>
+<tr id="bib_Akrami2025" class="bibtex noshow">
+<td colspan="6"><b>BibTeX</b>:
+<pre>
+@article{Akrami2025,
+  author = {Akrami, Hannaneh and Barman, Siddharth and Eden, Alon and Feldman, Michal and Fiat, Amos and Gal-Tzur, Yoav and Rammohan, Satyanand and Sethia, Aditi},
+  title = {Fair Division via Resource Augmentation},
+  publisher = {arXiv},
+  year = {2025},
+  doi = {https://doi.org/10.48550/ARXIV.2502.09377}
 }
 </pre></td>
 </tr>
