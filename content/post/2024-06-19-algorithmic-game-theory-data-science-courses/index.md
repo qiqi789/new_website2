@@ -17,6 +17,7 @@ slug: algorithmic-game-theory-data-science-courses
 [Avrim Blum's Webpage](https://home.ttic.edu/~avrim/)
 
 [Inbal Talgam-Cohen's Webpage](https://www.inbaltalgam.com/)
+  * [Publications](https://www.inbaltalgam.com/publications.html)
 
 [Michal Feldman's Webpage](https://www.mfeldman.sites.tau.ac.il/)
 
